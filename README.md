@@ -10,3 +10,4 @@ Tracking my progress on TryHackMe
 4. Lazy Admin
 5. Intro to x86-64
 6. CC: Steganography
+7. Principles of Security
