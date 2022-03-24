@@ -11,3 +11,4 @@ Tracking my progress on TryHackMe
 5. Intro to x86-64
 6. CC: Steganography
 7. Principles of Security
+8. Content Discovery
