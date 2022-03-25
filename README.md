@@ -12,4 +12,5 @@ Tracking my progress on TryHackMe
 6. CC: Steganography
 7. Principles of Security
 8. Content Discovery
-Burp Suite: The Basics
+9. Burp Suite: The Basics
+
