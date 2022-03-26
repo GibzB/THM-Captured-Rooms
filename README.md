@@ -13,4 +13,5 @@ Tracking my progress on TryHackMe
 7. Principles of Security
 8. Content Discovery
 9. Burp Suite: The Basics
+10. The Hacker Methodology
 
