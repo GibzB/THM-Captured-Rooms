@@ -17,5 +17,5 @@ Tracking my progress on TryHackMe
 11. Content Discovery
 12. Burp Suite: The Basics
 13. The Hacker Methodology
-14. CC: Pen Testing(cont.)
+14. CC: Pen Testing([Section 6 - Samba]: A note about impacket)
 
