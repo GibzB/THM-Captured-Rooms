@@ -18,4 +18,5 @@ Tracking my progress on TryHackMe
 12. Burp Suite: The Basics
 13. The Hacker Methodology
 14. CC: Pen Testing
+15. Introductory Researching
 
