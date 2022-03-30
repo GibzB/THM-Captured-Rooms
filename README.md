@@ -19,4 +19,5 @@ Tracking my progress on TryHackMe
 13. The Hacker Methodology
 14. CC: Pen Testing
 15. Introductory Researching
+16. Google Dorking
 
