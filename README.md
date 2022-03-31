@@ -23,4 +23,5 @@ Tracking my progress on TryHackMe
 17. Google Dorking
 18. OhSINT
 19. TMUX(Terminal Multiplexer)
+20. Burp Suite: Repeater(inspector)
 
