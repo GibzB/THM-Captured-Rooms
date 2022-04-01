@@ -11,17 +11,18 @@ Tracking my progress on TryHackMe
 5. Windows Fundamentals 1
 6. Windows Fundamentals 2
 7. Windows Fundamentals 3
-8. Lazy Admin
-9. Intro to x86-64
-10. CC: Steganography
-11. Principles of Security
-12. Content Discovery
-13. Burp Suite: The Basics
-14. The Hacker Methodology
-15. CC: Pen Testing
-16. Introductory Researching
-17. Google Dorking
-18. OhSINT
-19. TMUX(Terminal Multiplexer)
-20. Burp Suite: Repeater(inspector)
+8. Nmap
+9. Lazy Admin
+10. Intro to x86-64
+11. CC: Steganography
+12. Principles of Security
+13. Content Discovery
+14. Burp Suite: The Basics
+15. The Hacker Methodology
+16. CC: Pen Testing
+17. Introductory Researching
+18. Google Dorking
+19. OhSINT
+20. TMUX(Terminal Multiplexer)
+21. Burp Suite: Repeater(inspector)
 
