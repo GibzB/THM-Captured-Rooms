@@ -27,4 +27,5 @@ Tracking my progress on TryHackMe
 21. OhSINT
 22. TMUX(Terminal Multiplexer)
 23. Burp Suite: Repeater(inspector)
+24. Sublist3r{imtro}
 
