@@ -18,12 +18,13 @@ Tracking my progress on TryHackMe
 12. CC: Steganography
 13. Principles of Security
 14. Content Discovery
-15. Burp Suite: The Basics
-16. The Hacker Methodology
-17. CC: Pen Testing
-18. Introductory Researching
-19. Google Dorking
-20. OhSINT
-21. TMUX(Terminal Multiplexer)
-22. Burp Suite: Repeater(inspector)
+15. Shodan.io
+16. Burp Suite: The Basics
+17. The Hacker Methodology
+18. CC: Pen Testing
+19. Introductory Researching
+20. Google Dorking
+21. OhSINT
+22. TMUX(Terminal Multiplexer)
+23. Burp Suite: Repeater(inspector)
 
