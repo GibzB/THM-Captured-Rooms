@@ -26,6 +26,6 @@ Tracking my progress on TryHackMe
 20. Google Dorking
 21. OhSINT
 22. TMUX(Terminal Multiplexer)
-23. Burp Suite: Repeater(inspector)
+23. Burp Suite: Repeater
 24. Sublist3r{switchboard}
 
