@@ -29,5 +29,6 @@ Tracking my progress on TryHackMe
 23. Burp Suite: Repeater
 24. Sublist3r
 25. Passive Reconnaissance
-26. Red Team Recon{Built-in Tools}
+26. Red Team Recon
+27. SQL Injection {Blind SQLi - Time Based}
 
