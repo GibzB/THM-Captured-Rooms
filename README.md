@@ -31,4 +31,6 @@ Tracking my progress on TryHackMe
 25. Passive Reconnaissance
 26. Red Team Recon
 27. SQL Injection {Blind SQLi - Time Based}
+28. OWASP Top 10 { [Severity 3] Sensitive Data Exposure (Introduction)}
+
 
