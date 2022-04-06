@@ -31,6 +31,6 @@ Tracking my progress on TryHackMe
 25. Passive Reconnaissance
 26. Red Team Recon
 27. SQL Injection
-28. OWASP Top 10 { [Severity 3] Sensitive Data Exposure (Introduction)}
+28. OWASP Top 10 { [Severity 5] Broken Access Control (IDOR Challenge)}
 
 
