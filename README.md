@@ -32,5 +32,6 @@ Tracking my progress on TryHackMe
 26. Red Team Recon
 27. SQL Injection
 28. OWASP Top 10 { [Severity 5] Broken Access Control (IDOR Challenge)}
+29. MAL: Malware Introductory{}
 
 
