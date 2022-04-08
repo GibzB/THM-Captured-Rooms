@@ -34,5 +34,6 @@ Tracking my progress on TryHackMe
 28. MAL: Malware Introductory
 29. Hydra
 30. OWASP Top 10 { [Severity 5] Broken Access Control (IDOR Challenge)}
+31. Kenobi{}
 
 
