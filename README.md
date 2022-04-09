@@ -36,7 +36,7 @@ Tracking my progress on TryHackMe
 30. The Cod Caper
 31. OWASP Top 10 { [Severity 5] Broken Access Control (IDOR Challenge)}
 32. Kenobi
-33. 
+33. OWASP Juice Shop{ Let's go on an adventure!}
 
 
 
