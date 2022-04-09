@@ -35,7 +35,7 @@ Tracking my progress on TryHackMe
 29. Hydra
 30. The Cod Caper
 31. OWASP Top 10 { [Severity 5] Broken Access Control (IDOR Challenge)}
-32. Kenobi{Gain initial access with ProFtpd}
+32. Kenobi
 33. 
 
 
