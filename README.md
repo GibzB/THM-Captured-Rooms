@@ -33,7 +33,10 @@ Tracking my progress on TryHackMe
 27. SQL Injection
 28. MAL: Malware Introductory
 29. Hydra
-30. OWASP Top 10 { [Severity 5] Broken Access Control (IDOR Challenge)}
-31. Kenobi{Gain initial access with ProFtpd}
+30. The Cod Caper
+31. OWASP Top 10 { [Severity 5] Broken Access Control (IDOR Challenge)}
+32. Kenobi{Gain initial access with ProFtpd}
+33. 
+
 
 
