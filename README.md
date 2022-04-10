@@ -29,7 +29,7 @@ Tracking my progress on TryHackMe
 23. TMUX(Terminal Multiplexer)
 24. Burp Suite: Repeater
 25. Sublist3r
-26. EasyCTF{}
+26. SimpleCTF{}
 27. Passive Reconnaissance
 28. Red Team Recon
 29. SQL Injection
