@@ -37,9 +37,10 @@ Tracking my progress on TryHackMe
 31. Hydra
 32. The Cod Caper
 33.  Kenobi
-34.  OWASP Juice Shop{ Let's go on an adventure!}
-35.  Intro to IoT Pentesting{}
-36.  OWASP Top 10 { [Severity 6] Security Misconfiguration}
+34.  Intro to IoT Pentesting
+35.  OWASP Juice Shop{ Let's go on an adventure!}
+36. OWASP Top 10 { [Severity 6] Security Misconfiguration}
+37. 
 
 
 
