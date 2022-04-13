@@ -39,7 +39,7 @@ Tracking my progress on TryHackMe
 33.  Kenobi
 34.  Intro to IoT Pentesting
 35.  OWASP Juice Shop{ Let's go on an adventure!}
-36. OWASP Top 10 { [Severity 6] Security Misconfiguration}
+36. OWASP Top 10 { [Severity 8] Insecure Deserialization - Cookies Practical}
 37. 
 
 
