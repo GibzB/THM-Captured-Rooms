@@ -39,9 +39,10 @@ Tracking my progress on TryHackMe
 33.  Kenobi
 34.  Intro to IoT Pentesting
 35.   OWASP Top 10
-36.  OWASP Juice Shop{Inject the juice}
-37.
-38. 
+36.  OWASP Juice Shop { Inject the juice }
+37.  Metasploit: Introduction { Main Components of Metasploit }
+38.
+39. 
 
 
 
