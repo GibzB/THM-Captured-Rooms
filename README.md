@@ -36,11 +36,11 @@ Tracking my progress on TryHackMe
 30. MAL: Malware Introductory
 31. Hydra
 32. The Cod Caper
-33.  Kenobi
-34.  Intro to IoT Pentesting
-35.   OWASP Top 10
-36.  OWASP Juice Shop { Inject the juice }
-37.  Metasploit: Introduction { Main Components of Metasploit }
+33. Kenobi
+34. Intro to IoT Pentesting
+35. OWASP Top 10
+36. OWASP Juice Shop
+37. Metasploit: Introduction { Main Components of Metasploit }
 38.
 39. 
 
