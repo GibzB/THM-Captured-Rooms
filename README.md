@@ -40,9 +40,11 @@ Tracking my progress on TryHackMe
 34. Intro to IoT Pentesting
 35. OWASP Top 10
 36. OWASP Juice Shop
-37. Metasploit: Introduction { Main Components of Metasploit }
-38.
-39. 
+37. Crack the hash
+38. Agent Sudo { }
+39. Metasploit: Introduction { Main Components of Metasploit }
+40.
+41. 
 
 
 
