@@ -41,10 +41,11 @@ Tracking my progress on TryHackMe
 35. OWASP Top 10
 36. OWASP Juice Shop
 37. Crack the hash
-38. Agent Sudo { Enumarate }
-39. Metasploit: Introduction { Main Components of Metasploit }
-40.
-41. 
+38. Tech_Supp0rt: 1
+39. Agent Sudo { Enumarate }
+40. Metasploit: Introduction { Main Components of Metasploit }
+41.
+42. 
 
 
 
