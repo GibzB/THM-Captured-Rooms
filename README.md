@@ -44,7 +44,7 @@ Tracking my progress on TryHackMe
 38. Tech_Supp0rt: 1
 39. Intrusion Detection { }
 40. Agent Sudo { Enumarate }
-41. Nessus { }
+41. Nessus
 42. Cyborg
 43. Metasploit: Introduction { Main Components of Metasploit }
 44.
