@@ -47,7 +47,7 @@ Tracking my progress on TryHackMe
 41. SimpleCTF { }
 42. Metasploit: Introduction { Main Components of Metasploit }
 43. Agent Sudo { Enumarate }
-44. Linux Server Forensics { }
+44. Linux Server Forensics { Apache Log Analysis I }
 45. 
 
 
