@@ -29,7 +29,7 @@ Tracking my progress on TryHackMe
 23. TMUX(Terminal Multiplexer)
 24. Burp Suite: Repeater
 25. Sublist3r
-26. SimpleCTF{}
+26. Cyborg
 27. Passive Reconnaissance
 28. Red Team Recon
 29. SQL Injection
@@ -44,10 +44,11 @@ Tracking my progress on TryHackMe
 38. Tech_Supp0rt: 1
 39. Intrusion Detection
 40. Nessus
-41. Cyborg
+41. SimpleCTF { }
 42. Metasploit: Introduction { Main Components of Metasploit }
 43. Agent Sudo { Enumarate }
-44. 
+44. Linux Server Forensics { }
+45. 
 
 
 
