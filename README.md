@@ -44,11 +44,12 @@ Tracking my progress on TryHackMe
 38. Tech_Supp0rt: 1
 39. Intrusion Detection
 40. Nessus
-41. SimpleCTF { }
-42. Metasploit: Introduction { Main Components of Metasploit }
-43. Agent Sudo { Enumarate }
-44. Linux Server Forensics { Apache Log Analysis I }
-45. 
+41. Ignite 
+42. SimpleCTF { }
+43. Metasploit: Introduction { Main Components of Metasploit }
+44. Agent Sudo { Enumarate }
+45. Linux Server Forensics { Apache Log Analysis I }
+46. 
 
 
 
