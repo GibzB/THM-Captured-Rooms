@@ -46,7 +46,7 @@ Tracking my progress on TryHackMe
 40. Nessus
 41. Ignite 
 42. SimpleCTF
-43. Metasploit: Introduction { Main Components of Metasploit }
+43. Metasploit: Introduction 
 44. Agent Sudo { Enumarate }
 45. Linux Server Forensics { Apache Log Analysis I }
 46. 
