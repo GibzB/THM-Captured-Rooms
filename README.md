@@ -47,7 +47,7 @@ Tracking my progress on TryHackMe
 41. Ignite 
 42. SimpleCTF
 43. Metasploit: Introduction 
-44. Agent Sudo { Enumarate }
+44. Agent Sudo
 45. Linux Server Forensics { Apache Log Analysis I }
 46. 
 
