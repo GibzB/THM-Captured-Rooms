@@ -46,7 +46,7 @@ Tracking my progress on TryHackMe
 40. Nessus
 41. Ignite 
 42. SimpleCTF
-43. Metasploit: Introduction 
+43. Metasploit: We're in, now what?
 44. Agent Sudo
 45. Linux Server Forensics { Apache Log Analysis I }
 46. 
