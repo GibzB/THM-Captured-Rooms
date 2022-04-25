@@ -34,23 +34,24 @@ Tracking my progress on TryHackMe
 28. Red Team Recon
 29. SQL Injection
 30. MAL: Malware Introductory
-31. Hydra
-32. The Cod Caper
-33. Kenobi
-34. Intro to IoT Pentesting
-35. OWASP Top 10
-36. OWASP Juice Shop
-37. Crack the hash
-38. Tech_Supp0rt: 1
-39. Intrusion Detection
-40. Nessus
-41. Ignite 
-42. SimpleCTF
-43. Agent Sudo
-44. Metasploit { We're in, now what? }
-45. Linux Server Forensics { Apache Log Analysis I }
-46. Linux PrivEsc { }
-47. 
+31. Bounty Hacker
+32. Hydra
+33. The Cod Caper
+34. Kenobi
+35. Intro to IoT Pentesting
+36. OWASP Top 10
+37. OWASP Juice Shop
+38. Crack the hash
+39. Tech_Supp0rt: 1
+40. Intrusion Detection
+41. Nessus
+42. Ignite 
+43. SimpleCTF
+44. Agent Sudo
+45. Metasploit { We're in, now what? }
+46. Linux Server Forensics { Apache Log Analysis I }
+47. Linux PrivEsc { }
+48. 
 
 
 
