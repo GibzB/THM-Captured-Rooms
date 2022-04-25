@@ -49,7 +49,7 @@ Tracking my progress on TryHackMe
 43. Agent Sudo
 44. Metasploit { We're in, now what? }
 45. Linux Server Forensics { Apache Log Analysis I }
-46. 
+46. Linux PrivEsc { }
 47. 
 
 
