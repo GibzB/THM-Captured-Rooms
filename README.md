@@ -50,7 +50,7 @@ Tracking my progress on TryHackMe
 44. Agent Sudo
 45. Metasploit { We're in, now what? }
 46. Linux Server Forensics { Apache Log Analysis I }
-47. Linux PrivEsc { }
+47. Linux PrivEsc { Weak File Permissions - Readable /etc/shadow }
 48. 
 
 
