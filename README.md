@@ -1,5 +1,5 @@
 # THM-Captured-Rooms 🚩
-Tracking my progress on TryHackMe 
+Tracking my room completion progress on TryHackMe 
 
 
 ## Rooms Completed 
@@ -50,7 +50,7 @@ Tracking my progress on TryHackMe
 44. Agent Sudo
 45. Metasploit { We're in, now what? }
 46. Linux Server Forensics { Apache Log Analysis I }
-47. Linux PrivEsc { Weak File Permissions - Readable /etc/shadow }
+47. Linux PrivEsc { Passwords & Keys - Config Files }
 48. Vulnerabilities 101 { Introduction to Vulnerabilities }
 49. What is Networking?
 
