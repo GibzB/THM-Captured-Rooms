@@ -52,7 +52,8 @@ Tracking my room completion progress on TryHackMe
 46. Linux Server Forensics { Apache Log Analysis I }
 47. Linux PrivEsc { Passwords & Keys - Config Files }
 48. Vulnerabilities 101 { Introduction to Vulnerabilities }
-49. What is Networking?
+49. Kubernetes for Everyone { }
+50. What is Networking?
 
 
 
