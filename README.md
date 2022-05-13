@@ -56,6 +56,7 @@ Tracking my room completion progress on TryHackMe
 50. Kubernetes for Everyone { }
 51. What is Networking { Hacking your first machine }
 52. Web Application Security { Web Application Security Risks }
-53. 
+53. CVE-2022-26923 { A brief look at certificate templates }
+54. 
 
 
