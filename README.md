@@ -54,7 +54,8 @@ Tracking my room completion progress on TryHackMe
 48. Vulnerabilities 101 { Introduction to Vulnerabilities }
 49. Intro to Offensive Security { }
 50. Kubernetes for Everyone { }
-51. What is Networking { }
-
+51. What is Networking { Hacking your first machine }
+52. Web Application Security { Web Application Security Risks }
+53. 
 
 
