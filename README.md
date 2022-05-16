@@ -11,56 +11,58 @@ Tracking my room completion progress on TryHackMe
 5. Windows Fundamentals 1
 6. Windows Fundamentals 2
 7. Windows Fundamentals 3
-8. Nmap
-9. Web Scanning
-10. Lazy Admin
-11. Intro to x86-64
-12. CC: Steganography
-13. Principles of Security
-14. Content Discovery
-15. Shodan.io
-16. Burp Suite: The Basics
-17. The Hacker Methodology
-18. CC: Pen Testing
-19. Introductory Researching
-20. Google Dorking
-21. OhSINT
-22. Vulnversity
-23. TMUX(Terminal Multiplexer)
-24. Burp Suite: Repeater
-25. Sublist3r
-26. Cyborg
-27. Passive Reconnaissance
-28. Red Team Recon
-29. SQL Injection
-30. MAL: Malware Introductory
-31. Bounty Hacker
-32. Hydra
-33. The Cod Caper
-34. Kenobi
-35. Intro to IoT Pentesting
-36. OWASP Top 10
-37. OWASP Juice Shop
-38. Crack the hash
-39. Tech_Supp0rt: 1
-40. Intrusion Detection
-41. Nessus
-42. Ignite 
-43. SimpleCTF
-44. Agent Sudo
-45. Metasploit { We're in, now what? }
-46. Linux Server Forensics { Apache Log Analysis I }
-47. Linux PrivEsc { Passwords & Keys - Config Files }
-48. Vulnerabilities 101 { Introduction to Vulnerabilities }
-49. Intro to Offensive Security { }
-50. Kubernetes for Everyone { }
-51. What is Networking { Hacking your first machine }
-52. Web Application Security { Web Application Security Risks }
-53. CVE-2022-26923 { Exploiting CVE-2022-26923 }
-54. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-55. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-56. Solar, exploiting log4j { Reconnaissance }
-57. Pwnkit: CVE-2021-4034 { Background }
-58. PrintNightmare { Windows Print Spooler Service }
+8. Phishing Emails 1
+9. Phishing Emails 2
+10. Nmap
+11. Web Scanning
+12. Lazy Admin
+13. Intro to x86-64
+14. CC: Steganography
+15. Principles of Security
+16. Content Discovery
+17. Shodan.io
+18. Burp Suite: The Basics
+19. The Hacker Methodology
+20. CC: Pen Testing
+21. Introductory Researching
+22. Google Dorking
+23. OhSINT
+24. Vulnversity
+25. TMUX(Terminal Multiplexer)
+26. Burp Suite: Repeater
+27. Sublist3r
+28. Cyborg
+29. Passive Reconnaissance
+30. Red Team Recon
+31. SQL Injection
+32. MAL: Malware Introductory
+33. Bounty Hacker
+34. Hydra
+35. The Cod Caper
+36. Kenobi
+37. Intro to IoT Pentesting
+38. OWASP Top 10
+39. OWASP Juice Shop
+40. Crack the hash
+41. Tech_Supp0rt: 1
+42. Intrusion Detection
+43. Nessus
+44. Ignite 
+45. SimpleCTF
+46. Agent Sudo
+47. Metasploit { We're in, now what? }
+48. Linux Server Forensics { Apache Log Analysis I }
+49. Linux PrivEsc { Passwords & Keys - Config Files }
+50. Vulnerabilities 101 { Introduction to Vulnerabilities }
+51. Intro to Offensive Security { }
+52. Kubernetes for Everyone { }
+53. What is Networking { Hacking your first machine }
+54. Web Application Security { Web Application Security Risks }
+55. CVE-2022-26923 { Exploiting CVE-2022-26923 }
+56. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+57. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+58. Solar, exploiting log4j { Reconnaissance }
+59. Pwnkit: CVE-2021-4034 { Background }
+60. PrintNightmare { Windows Print Spooler Service }
 
 
