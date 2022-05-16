@@ -57,6 +57,10 @@ Tracking my room completion progress on TryHackMe
 51. What is Networking { Hacking your first machine }
 52. Web Application Security { Web Application Security Risks }
 53. CVE-2022-26923 { Exploiting CVE-2022-26923 }
-54. 
+54. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+55. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+56. Solar, exploiting log4j { Reconnaissance }
+57. Pwnkit: CVE-2021-4034 { Background }
+58. PrintNightmare { Windows Print Spooler Service }
 
 
