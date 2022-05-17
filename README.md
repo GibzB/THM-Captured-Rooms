@@ -54,7 +54,7 @@ Tracking my room completion progress on TryHackMe
 48. Linux Server Forensics { Apache Log Analysis I }
 49. Linux PrivEsc { Passwords & Keys - Config Files }
 50. Vulnerabilities 101 { Introduction to Vulnerabilities }
-51. Intro to Offensive Security { }
+51. Intro to Offensive Security { Hacking your first machine }
 52. Kubernetes for Everyone { }
 53. What is Networking { Hacking your first machine }
 54. Web Application Security { Web Application Security Risks }
