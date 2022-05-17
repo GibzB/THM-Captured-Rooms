@@ -64,5 +64,6 @@ Tracking my room completion progress on TryHackMe
 58. Solar, exploiting log4j { Reconnaissance }
 59. Pwnkit: CVE-2021-4034 { Background }
 60. PrintNightmare { Windows Print Spooler Service }
+61. Intro to Digital Forensics { Digital Forensics Process }
 
 
