@@ -50,20 +50,21 @@ Tracking my room completion progress on TryHackMe
 44. Ignite 
 45. SimpleCTF
 46. Agent Sudo
-47. Metasploit { We're in, now what? }
-48. Linux Server Forensics { Apache Log Analysis I }
-49. Linux PrivEsc { Passwords & Keys - Config Files }
-50. Vulnerabilities 101 { Introduction to Vulnerabilities }
-51. Intro to Offensive Security { Hacking your first machine }
-52. Kubernetes for Everyone { }
-53. What is Networking { Hacking your first machine }
-54. Web Application Security { Practical Example of Web Application Security }
-55. CVE-2022-26923 { Exploiting CVE-2022-26923 }
-56. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-57. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-58. Solar, exploiting log4j { Reconnaissance }
-59. Pwnkit: CVE-2021-4034 { Background }
-60. PrintNightmare { Windows Print Spooler Service }
-61. Intro to Digital Forensics { Digital Forensics Process }
+47. Intro to Digital Forensics
+48. Metasploit { We're in, now what? }
+49. Linux Server Forensics { Apache Log Analysis I }
+50. Linux PrivEsc { Passwords & Keys - Config Files }
+51. Vulnerabilities 101 { Introduction to Vulnerabilities }
+52. Intro to Offensive Security { Hacking your first machine }
+53. Kubernetes for Everyone { }
+54. What is Networking { Hacking your first machine }
+55. Web Application Security { Practical Example of Web Application Security }
+56. CVE-2022-26923 { Exploiting CVE-2022-26923 }
+57. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+58. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+59. Solar, exploiting log4j { Reconnaissance }
+60. Pwnkit: CVE-2021-4034 { Background }
+61. PrintNightmare { Windows Print Spooler Service }
+ 
 
 
