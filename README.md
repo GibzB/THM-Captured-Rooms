@@ -57,7 +57,7 @@ Tracking my room completion progress on TryHackMe
 51. Intro to Offensive Security { Hacking your first machine }
 52. Kubernetes for Everyone { }
 53. What is Networking { Hacking your first machine }
-54. Web Application Security { Web Application Security Risks }
+54. Web Application Security { Practical Example of Web Application Security }
 55. CVE-2022-26923 { Exploiting CVE-2022-26923 }
 56. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
 57. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
