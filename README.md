@@ -67,6 +67,7 @@ Tracking my room completion progress on TryHackMe
 61. Solar, exploiting log4j { Reconnaissance }
 62. Pwnkit: CVE-2021-4034 { Background }
 63. PrintNightmare { Windows Print Spooler Service }
+64. RootMe {  }
  
 
 
