@@ -48,34 +48,35 @@ Tracking my room completion progress on TryHackMe
 42. Crack the hash
 43. Tech_Supp0rt: 1
 44. Intrusion Detection
-45. Nessus
-46. Ignite 
-47. SimpleCTF
-48. Agent Sudo
-49. Intro to Digital Forensics
-50. Overpass 2 - Hacked {  }
-51. Metasploit { We're in, now what? }
-52. Pickle Rick { }
-53. Linux Server Forensics { Apache Log Analysis I }
-54. Linux PrivEsc { Passwords & Keys - Config Files }
-55. Vulnerabilities 101 { Introduction to Vulnerabilities }
-56. Intro to Offensive Security { Hacking your first machine }
-57. Kubernetes for Everyone { }
-58. What is Networking { Hacking your first machine }
-59. Web Application Security { Practical Example of Web Application Security }
-60. CVE-2022-26923 { Exploiting CVE-2022-26923 }
-61. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-62. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-63. Solar, exploiting log4j { Reconnaissance }
-64. Pwnkit: CVE-2021-4034 { Background }
-65. PrintNightmare { Windows Print Spooler Service }
-66. RootMe {  }
-67. Mr Robot CTF { Hack the Machine }
-68. Tomghost {  }
-69. Dogcat{  }
-70. Nax {  }
-71. The Marketplace{  }
-72. Kiba{  }
+45. Kiba
+46. Nessus
+47. Ignite 
+48. SimpleCTF
+49. Agent Sudo
+50. Intro to Digital Forensics
+51. Overpass 2 - Hacked {  }
+52. Metasploit { We're in, now what? }
+53. Pickle Rick { }
+54. Linux Server Forensics { Apache Log Analysis I }
+55. Linux PrivEsc { Passwords & Keys - Config Files }
+56. Vulnerabilities 101 { Introduction to Vulnerabilities }
+57. Intro to Offensive Security { Hacking your first machine }
+58. Kubernetes for Everyone { }
+59. What is Networking { Hacking your first machine }
+60. Web Application Security { Practical Example of Web Application Security }
+61. CVE-2022-26923 { Exploiting CVE-2022-26923 }
+62. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+63. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+64. Solar, exploiting log4j { Reconnaissance }
+65. Pwnkit: CVE-2021-4034 { Background }
+66. PrintNightmare { Windows Print Spooler Service }
+67. RootMe {  }
+68. Mr Robot CTF { Hack the Machine }
+69. Tomghost {  }
+70. Dogcat{  }
+71. Nax {  }
+72. The Marketplace{  }
+73. 
  
 
 
