@@ -70,6 +70,12 @@ Tracking my room completion progress on TryHackMe
 64. Pwnkit: CVE-2021-4034 { Background }
 65. PrintNightmare { Windows Print Spooler Service }
 66. RootMe {  }
+67. Mr Robot CTF { Hack the Machine }
+68. Tomghost {  }
+69. Dogcat{  }
+70. Nax {  }
+71. The Marketplace{  }
+72. Kiba{  }
  
 
 
