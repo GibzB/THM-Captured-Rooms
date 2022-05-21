@@ -76,7 +76,8 @@ Tracking my room completion progress on TryHackMe
 70. Dogcat{  }
 71. Nax {  }
 72. The Marketplace{  }
-73. 
+73. Investigating Windows {  }
+74. 
  
 
 
