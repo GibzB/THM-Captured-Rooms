@@ -77,7 +77,7 @@ Tracking my room completion progress on TryHackMe
 71. Nax {  }
 72. The Marketplace{  }
 73. Investigating Windows {  }
-74. 
+74. Memory Forensics { Login }
  
 
 
