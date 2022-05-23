@@ -78,6 +78,7 @@ Tracking my room completion progress on TryHackMe
 72. The Marketplace{  }
 73. Investigating Windows {  }
 74. Memory Forensics { Login }
+75. Attacktive Directory { Setup }
  
 
 
