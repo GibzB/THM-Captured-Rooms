@@ -81,6 +81,11 @@ Tracking my room completion progress on TryHackMe
 75. Attacktive Directory { Setup }
 76. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
 77. History of Malware { The Creeper Program }
+78. Python Basics { Variables and Data Types }
+79. MITRE { Basic Terminology }
+80. Volatility { Obtaining Memory Samples }
+81. Post-Exploitation Basics { Enumeration w/ Powerview }
+82. 
  
 
 
