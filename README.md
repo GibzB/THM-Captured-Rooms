@@ -79,6 +79,8 @@ Tracking my room completion progress on TryHackMe
 73. Investigating Windows {  }
 74. Memory Forensics { Login }
 75. Attacktive Directory { Setup }
+76. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+77. History of Malware { The Creeper Program }
  
 
 
