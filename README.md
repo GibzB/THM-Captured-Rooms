@@ -54,38 +54,39 @@ Tracking my room completion progress on TryHackMe
 48. SimpleCTF
 49. Agent Sudo
 50. Intro to Digital Forensics
-51. Overpass 2 - Hacked {  }
-52. Metasploit { We're in, now what? }
-53. Pickle Rick { }
-54. Linux Server Forensics { Apache Log Analysis I }
-55. Linux PrivEsc { Passwords & Keys - Config Files }
-56. Vulnerabilities 101 { Introduction to Vulnerabilities }
-57. Intro to Offensive Security { Hacking your first machine }
-58. Kubernetes for Everyone { }
-59. What is Networking { Hacking your first machine }
-60. Web Application Security { Practical Example of Web Application Security }
-61. CVE-2022-26923 { Exploiting CVE-2022-26923 }
-62. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-63. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-64. Solar, exploiting log4j { Reconnaissance }
-65. Pwnkit: CVE-2021-4034 { Background }
-66. PrintNightmare { Windows Print Spooler Service }
-67. RootMe {  }
-68. Mr Robot CTF { Hack the Machine }
-69. Tomghost {  }
-70. Dogcat{  }
-71. Nax {  }
-72. The Marketplace{  }
-73. Investigating Windows {  }
-74. Memory Forensics { Login }
-75. Attacktive Directory { Setup }
-76. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
-77. History of Malware { The Creeper Program }
-78. Python Basics { Variables and Data Types }
-79. MITRE { Basic Terminology }
-80. Volatility { Obtaining Memory Samples }
-81. Post-Exploitation Basics { Enumeration w/ Powerview }
+51. Vulnerabilities 101
+52. Linux PrivEsc
+53. Pickle Rick 
+54. Overpass 2 - Hacked {  }
+55. Metasploit { We're in, now what? }
+56. MITRE { Basic Terminology }
+57. Linux Server Forensics { Apache Log Analysis I }
+58. Volatility { Obtaining Memory Samples }
+59. Post-Exploitation Basics { Enumeration w/ Powerview }
+60. Intro to Offensive Security { Hacking your first machine }
+61. Kubernetes for Everyone { }
+62. What is Networking { Hacking your first machine }
+63. Web Application Security { Practical Example of Web Application Security }
+64. CVE-2022-26923 { Exploiting CVE-2022-26923 }
+65. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+66. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+67. Solar, exploiting log4j { Reconnaissance }
+68. Pwnkit: CVE-2021-4034 { Background }
+69. PrintNightmare { Windows Print Spooler Service }
+70. RootMe {  }
+71. Mr Robot CTF { Hack the Machine }
+72. Tomghost {  }
+73. Dogcat{  }
+74. Nax {  }
+75. The Marketplace{  }
+76. Investigating Windows {  }
+77. Memory Forensics { Login }
+78. Attacktive Directory { Setup }
+79. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+80. History of Malware { The Creeper Program }
+81. Python Basics { Variables and Data Types }
 82. 
+
  
 
 
