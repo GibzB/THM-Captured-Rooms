@@ -85,8 +85,9 @@ Tracking my room completion progress on TryHackMe
 79. Attacktive Directory { Setup }
 80. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
 81. History of Malware { The Creeper Program }
-82. 
-83. 
+82. How to use TryHackMe { Starting your first machine }
+83. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
+84. Introduction to OWASP ZAP { Intro to ZAP }
 
  
 
