@@ -57,35 +57,36 @@ Tracking my room completion progress on TryHackMe
 51. Vulnerabilities 101
 52. Linux PrivEsc
 53. Pickle Rick 
-54. Overpass 2 - Hacked {  }
-55. Metasploit { We're in, now what? }
-56. MITRE { Basic Terminology }
-57. Linux Server Forensics { Apache Log Analysis I }
-58. Volatility { Obtaining Memory Samples }
-59. Post-Exploitation Basics { Enumeration w/ Powerview }
-60. Intro to Offensive Security { Hacking your first machine }
-61. Kubernetes for Everyone { }
-62. What is Networking { Hacking your first machine }
-63. Web Application Security { Practical Example of Web Application Security }
-64. CVE-2022-26923 { Exploiting CVE-2022-26923 }
-65. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-66. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-67. Solar, exploiting log4j { Reconnaissance }
-68. Pwnkit: CVE-2021-4034 { Background }
-69. PrintNightmare { Windows Print Spooler Service }
-70. RootMe {  }
-71. Mr Robot CTF { Hack the Machine }
-72. Tomghost {  }
-73. Dogcat{  }
-74. Nax {  }
-75. The Marketplace{  }
-76. Investigating Windows {  }
-77. Memory Forensics { Login }
-78. Attacktive Directory { Setup }
-79. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
-80. History of Malware { The Creeper Program }
-81. Python Basics { Variables and Data Types }
+54. Web Application Security
+55. Overpass 2 - Hacked {  }
+56. Metasploit { We're in, now what? }
+57. MITRE { Basic Terminology }
+58. Linux Server Forensics { Apache Log Analysis I }
+59. Volatility { Obtaining Memory Samples }
+60. Post-Exploitation Basics { Enumeration w/ Powerview }
+61. Intro to Offensive Security { Hacking your first machine }
+62. Kubernetes for Everyone { }
+63. What is Networking { Hacking your first machine }
+64. Python Basics { Variables and Data Types }
+65. CVE-2022-26923 { Exploiting CVE-2022-26923 }
+66. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+67. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+68. Solar, exploiting log4j { Reconnaissance }
+69. Pwnkit: CVE-2021-4034 { Background }
+70. PrintNightmare { Windows Print Spooler Service }
+71. RootMe {  }
+72. Mr Robot CTF { Hack the Machine }
+73. Tomghost {  }
+74. Dogcat{  }
+75. Nax {  }
+76. The Marketplace{  }
+77. Investigating Windows {  }
+78. Memory Forensics { Login }
+79. Attacktive Directory { Setup }
+80. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+81. History of Malware { The Creeper Program }
 82. 
+83. 
 
  
 
