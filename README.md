@@ -88,6 +88,7 @@ Tracking my room completion progress on TryHackMe
 82. How to use TryHackMe { Starting your first machine }
 83. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 84. Introduction to OWASP ZAP { Intro to ZAP }
+85. Basic Malware RE { Introduction }
 
  
 
