@@ -89,6 +89,14 @@ Tracking my room completion progress on TryHackMe
 83. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 84. Introduction to OWASP ZAP { Intro to ZAP }
 85. Basic Malware RE { Introduction }
+86. Sudo Security Bypass { Deploy }
+87. Common Attacks { Multi-Factor Authentication and Password Managers }
+88. Security Awareness { Data and account security }
+89. Sudo Buffer Overflow { Buffer Overflow }
+90. CVE-2021-41773/42013 { What is Path Traversal anyways? }
+91. Bypass Disable Functions { Introduction }
+92. Polkit: CVE-2021-3560 { Deploy }
+93. 
 
  
 
