@@ -96,7 +96,7 @@ Tracking my room completion progress on TryHackMe
 90. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 91. Bypass Disable Functions { Introduction }
 92. Polkit: CVE-2021-3560 { Deploy }
-93. 
+93. Introduction to DevSecOps { DevSecOps Culture }
 
  
 
