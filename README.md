@@ -58,46 +58,46 @@ Tracking my room completion progress on TryHackMe
 52. Linux PrivEsc
 53. Pickle Rick 
 54. Web Application Security
-55. Overpass 2 - Hacked {  }
-56. Metasploit { We're in, now what? }
-57. MITRE { Basic Terminology }
-58. Linux Server Forensics { Apache Log Analysis I }
-59. Volatility { Obtaining Memory Samples }
-60. Post-Exploitation Basics { Enumeration w/ Powerview }
-61. Intro to Offensive Security { Hacking your first machine }
-62. Kubernetes for Everyone { }
-63. What is Networking { Hacking your first machine }
-64. Python Basics { Variables and Data Types }
-65. CVE-2022-26923 { Exploiting CVE-2022-26923 }
-66. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-67. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-68. Solar, exploiting log4j { Reconnaissance }
-69. Pwnkit: CVE-2021-4034 { Background }
-70. PrintNightmare { Windows Print Spooler Service }
-71. RootMe {  }
-72. Mr Robot CTF { Hack the Machine }
-73. Tomghost {  }
-74. Dogcat{  }
-75. Nax {  }
-76. The Marketplace{  }
-77. Investigating Windows {  }
-78. Memory Forensics { Login }
-79. Attacktive Directory { Setup }
-80. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
-81. History of Malware { The Creeper Program }
-82. How to use TryHackMe { Starting your first machine }
-83. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
-84. Introduction to OWASP ZAP { Intro to ZAP }
-85. Basic Malware RE { Introduction }
-86. Sudo Security Bypass { Deploy }
-87. Common Attacks { Multi-Factor Authentication and Password Managers }
-88. Security Awareness { Data and account security }
-89. Sudo Buffer Overflow { Buffer Overflow }
-90. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-91. Bypass Disable Functions { Introduction }
-92. Polkit: CVE-2021-3560 { Deploy }
-93. Introduction to DevSecOps { DevSecOps Culture }
-
+55. Introduction to DevSecOps
+56. Overpass 2 - Hacked {  }
+57. Metasploit { We're in, now what? }
+58. MITRE { Basic Terminology }
+59. Linux Server Forensics { Apache Log Analysis I }
+60. Volatility { Obtaining Memory Samples }
+61. Post-Exploitation Basics { Enumeration w/ Powerview }
+62. Intro to Offensive Security { Hacking your first machine }
+63. Kubernetes for Everyone { }
+64. What is Networking { Hacking your first machine }
+65. Python Basics { Variables and Data Types }
+66. CVE-2022-26923 { Exploiting CVE-2022-26923 }
+67. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+68. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+69. Solar, exploiting log4j { Reconnaissance }
+70. Pwnkit: CVE-2021-4034 { Background }
+71. PrintNightmare { Windows Print Spooler Service }
+72. RootMe {  }
+73. Mr Robot CTF { Hack the Machine }
+74. Tomghost {  }
+75. Dogcat{  }
+76. Nax {  }
+77. The Marketplace{  }
+78. Investigating Windows {  }
+79. Memory Forensics { Login }
+80. Attacktive Directory { Setup }
+81. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+82. History of Malware { The Creeper Program }
+83. How to use TryHackMe { Starting your first machine }
+84. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
+85. Introduction to OWASP ZAP { Intro to ZAP }
+86. Basic Malware RE { Introduction }
+87. Sudo Security Bypass { Deploy }
+88. Common Attacks { Multi-Factor Authentication and Password Managers }
+89. Security Awareness { Data and account security }
+90. Sudo Buffer Overflow { Buffer Overflow }
+91. CVE-2021-41773/42013 { What is Path Traversal anyways? }
+92. Bypass Disable Functions { Introduction }
+93. Polkit: CVE-2021-3560 { Deploy }
+94. 
  
 
 
