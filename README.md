@@ -61,7 +61,7 @@ Tracking my room completion progress on TryHackMe
 55. Introduction to DevSecOps
 56. Overpass 2 - Hacked {  }
 57. Metasploit { We're in, now what? }
-58. MITRE { Basic Terminology }
+58. MITRE { CAR Knowledge Base }
 59. Linux Server Forensics { Apache Log Analysis I }
 60. Volatility { Obtaining Memory Samples }
 61. Post-Exploitation Basics { Enumeration w/ Powerview }
