@@ -66,7 +66,7 @@ Tracking my room completion progress on TryHackMe
 60. Overpass 2 - Hacked {  }
 61. Metasploit { We're in, now what? }
 62. Polkit: CVE-2021-3560 { Deploy }
-63. Linux Server Forensics { Apache Log Analysis I }
+63. Linux Server Forensics { User Accounts }
 64. Volatility { Obtaining Memory Samples }
 65. Post-Exploitation Basics { Enumeration w/ Powerview }
 66. Intro to Offensive Security { Hacking your first machine }
