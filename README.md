@@ -65,7 +65,7 @@ Tracking my room completion progress on TryHackMe
 59. Intro to Offensive Security
 60. Python Basics
 61. Jupyter 101 { Deploying Instance & Logging In }
-62. Introduction to Django { }
+62. Introduction to Django { Unit 3 - Creating a website }
 63. Blue { Recon }
 64. Overpass 2 - Hacked {  }
 65. Metasploit { We're in, now what? }
