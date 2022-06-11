@@ -4,7 +4,7 @@ Tracking my room completion progress on TryHackMe
 
 ## Rooms Completed 
 
-1. Welcome
+1. - [x] Welcome
 2. Starting Out In Cyber Sec
 3. Linux Fundamentals Part 1 
 4. Linux Fundamentals Part 2
