@@ -68,7 +68,7 @@ Tracking my room completion progress on TryHackMe
 62. Nmap Live Host Discovery { Discovering Live Hosts }
 63. Jupyter 101 { Deploying Instance & Logging In }
 64. Introduction to Django { Unit 3 - Creating a website }
-65. Blue { Recon }
+65. Blue { Escalate }
 66. Overpass 2 - Hacked {  }
 67. Metasploit { We're in, now what? }
 68. Polkit: CVE-2021-3560 { Deploy }
