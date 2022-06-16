@@ -104,7 +104,7 @@ Tracking my room completion progress on TryHackMe
 98. Sudo Security Bypass { Deploy }
 99. Common Attacks { Multi-Factor Authentication and Password Managers }
 100. Sudo Buffer Overflow { Buffer Overflow }
-101. 
+101. Enumerating Active Directory { Cedential Injection}
 102. 
 103. 
 104. 
