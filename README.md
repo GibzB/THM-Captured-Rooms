@@ -68,7 +68,7 @@ Tracking my room completion progress on TryHackMe
 62. Windows Forensics 1 { }
 63. Nmap Live Host Discovery { Discovering Live Hosts }
 64. Jupyter 101 { Deploying Instance & Logging In }
-65. Introduction to Django { Unit 3 - Creating a website }
+65. Intro to Django { Unit 4 - Concluding }
 66. Blue { Escalate }
 67. Overpass 2 - Hacked {  }
 68. Metasploit { We're in, now what? }
