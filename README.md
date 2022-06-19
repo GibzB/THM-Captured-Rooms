@@ -65,7 +65,7 @@ Tracking my room completion progress on TryHackMe
 59. MITRE
 60. Intro to Offensive Security
 61. Python Basics
-62. Windows Forensics 1 { }
+62. Windows Forensics 1 { Usage or knowledge of files/folders }
 63. Nmap Live Host Discovery { Discovering Live Hosts }
 64. Jupyter 101 { Deploying Instance & Logging In }
 65. Intro to Django { Unit 4 - Concluding }
