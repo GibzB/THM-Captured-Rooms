@@ -66,7 +66,7 @@ Tracking my room completion progress on TryHackMe
 60. Intro to Offensive Security
 61. Python Basics
 62. Windows Forensics 1 
-63. KAPE { Module Options }
+63. Kroll Artifact Parser and Extractor (KAPE)
 64. Nmap Live Host Discovery { Discovering Live Hosts }
 65. Jupyter 101 { Deploying Instance & Logging In }
 66. Intro to Django { Unit 4 - Concluding }
