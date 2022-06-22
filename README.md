@@ -106,7 +106,7 @@ Tracking my room completion progress on TryHackMe
 100. Common Attacks { Multi-Factor Authentication and Password Managers }
 101. Sudo Buffer Overflow { Buffer Overflow }
 102. Enumerating Active Directory { Cedential Injection}
-103. 
+103. Linux Strength Training { Reading SQL databases }
 104. 
 105. 
  
