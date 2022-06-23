@@ -53,62 +53,65 @@ Tracking my room completion progress on TryHackMe
 47. Nessus
 48. Ignite 
 49. SimpleCTF
-50. Agent Sudo
-51. Pickle Rick 
-52. Vulnerabilities 101
-53. Linux PrivEsc
-54. Active Reconnaissance
-55. Web Application Security
-56. Introduction to DevSecOps
-57. Security Awareness 
-58. Metasploit: Introduction
-59. MITRE
-60. Intro to Offensive Security
-61. Python Basics
-62. Windows Forensics 1 
-63. Kroll Artifact Parser and Extractor (KAPE)
-64. Nmap Live Host Discovery { Discovering Live Hosts }
-65. Jupyter 101 { Deploying Instance & Logging In }
-66. Intro to Django { Unit 4 - Concluding }
-67. Blue { Escalate }
-68. Overpass 2 - Hacked {  }
-69. Metasploit { We're in, now what? }
-70. Polkit: CVE-2021-3560 { Deploy }
-71. Linux Server Forensics { User Accounts }
-72. Volatility { Obtaining Memory Samples }
-73. Post-Exploitation Basics { Enumeration w/ Powerview }
-74. Bypass Disable Functions { Introduction }
-75. Kubernetes for Everyone { }
-76. What is Networking { Hacking your first machine }
-77. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-78. CVE-2022-26923 { Exploiting CVE-2022-26923 }
-79. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-80. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-81. Solar, exploiting log4j { Reconnaissance }
-82. Pwnkit: CVE-2021-4034 { Background }
-83. PrintNightmare { Windows Print Spooler Service }
-84. RootMe {  }
-85. Mr Robot CTF { Hack the Machine }
-86. Tomghost {  }
-87. Dogcat{  }
-88. Nax {  }
-89. The Marketplace{  }
-90. Investigating Windows {  }
-91. Memory Forensics { Login }
-92. Attacktive Directory { Setup }
-93. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
-94. History of Malware { The Creeper Program }
-95. How to use TryHackMe { Starting your first machine }
-96. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
-97. Introduction to OWASP ZAP { Intro to ZAP }
-98. Basic Malware RE { Introduction }
-99. Sudo Security Bypass { Deploy }
-100. Common Attacks { Multi-Factor Authentication and Password Managers }
-101. Sudo Buffer Overflow { Buffer Overflow }
-102. Enumerating Active Directory { Cedential Injection}
-103. Linux Strength Training { Reading SQL databases }
-104. 
+50. Mr Robot CTF
+51. Agent Sudo
+52. Pickle Rick 
+53. Vulnerabilities 101
+54. Linux PrivEsc
+55. Active Reconnaissance
+56. Web Application Security
+57. Introduction to DevSecOps
+58. Security Awareness 
+59. Metasploit: Introduction
+60. MITRE
+61. Intro to Offensive Security
+62. Python Basics
+63. Forensics
+64. Windows Forensics 1 
+65. Enumerating Active Directory { Cedential Injection }
+66. Kroll Artifact Parser and Extractor (KAPE)
+67. Nmap Live Host Discovery { Discovering Live Hosts }
+68. Jupyter 101 { Deploying Instance & Logging In }
+69. Intro to Django { Unit 4 - Concluding }
+70. Blue { Escalate }
+71. Overpass 2 - Hacked {  }
+72. Metasploit { We're in, now what? }
+73. Polkit: CVE-2021-3560 { Deploy }
+74. Linux Server Forensics { User Accounts }
+75. Volatility { Obtaining Memory Samples }
+76. Post-Exploitation Basics { Enumeration w/ Powerview }
+77. Bypass Disable Functions { Introduction }
+78. Kubernetes for Everyone { }
+79. What is Networking { Hacking your first machine }
+80. CVE-2021-41773/42013 { What is Path Traversal anyways? }
+81. CVE-2022-26923 { Exploiting CVE-2022-26923 }
+82. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+83. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+84. Solar, exploiting log4j { Reconnaissance }
+85. Pwnkit: CVE-2021-4034 { Background }
+86. PrintNightmare { Windows Print Spooler Service }
+87. RootMe {  }
+88. Linux Strength Training { Reading SQL databases }
+89. Tomghost {  }
+90. Dogcat{  }
+91. Nax {  }
+92. The Marketplace{  }
+93. Investigating Windows {  }
+94. Memory Forensics { Login }
+95. Attacktive Directory { Setup }
+96. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+97. History of Malware { The Creeper Program }
+98. How to use TryHackMe { Starting your first machine }
+99. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
+100. Introduction to OWASP ZAP { Intro to ZAP }
+101. Basic Malware RE { Introduction }
+102. Sudo Security Bypass { Deploy }
+103. Common Attacks { Multi-Factor Authentication and Password Managers }
+104. Sudo Buffer Overflow { Buffer Overflow }
 105. 
+106. 
+107. 
+108. 
  
 
 
