@@ -108,7 +108,7 @@ Tracking my room completion progress on TryHackMe
 102. Sudo Security Bypass { Deploy }
 103. Common Attacks { Multi-Factor Authentication and Password Managers }
 104. Sudo Buffer Overflow { Buffer Overflow }
-105. 
+105. Aratus { Get both flags }
 106. 
 107. 
 108. 
