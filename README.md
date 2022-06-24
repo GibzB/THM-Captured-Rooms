@@ -68,7 +68,7 @@ Tracking my room completion progress on TryHackMe
 62. Python Basics
 63. Forensics
 64. Windows Forensics 1 
-65. Enumerating Active Directory { Cedential Injection }
+65. Enumerating Active Directory
 66. Kroll Artifact Parser and Extractor (KAPE)
 67. Nmap Live Host Discovery { Discovering Live Hosts }
 68. Jupyter 101 { Deploying Instance & Logging In }
