@@ -109,7 +109,7 @@ Tracking my room completion progress on TryHackMe
 103. Common Attacks { Multi-Factor Authentication and Password Managers }
 104. Sudo Buffer Overflow { Buffer Overflow }
 105. Aratus { Get both flags }
-106. 
+106. Bypassing UAC { Introduction }
 107. 
 108. 
  
