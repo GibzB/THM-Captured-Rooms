@@ -70,7 +70,7 @@ Tracking my room completion progress on TryHackMe
 64. Windows Forensics 1 
 65. Enumerating Active Directory
 66. Kroll Artifact Parser and Extractor (KAPE)
-67. Nmap Live Host Discovery { Discovering Live Hosts }
+67. Nmap Live Host Discovery 
 68. Jupyter 101 { Deploying Instance & Logging In }
 69. Intro to Django { Unit 4 - Concluding }
 70. Blue { Escalate }
