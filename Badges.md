@@ -6,3 +6,6 @@
 - Metasploitable [badge](https://tryhackme.com/rgibesh/badges/metasploitable).
 - Pentesting Principles [badge](https://tryhackme.com/rgibesh/badges/intro-to-pentesting).
 - Hash Cracker [badge](https://tryhackme.com/rgibesh/badges/hash-cracker).
+- Blue [badge](https://tryhackme.com/rgibesh/badges/blue).
+- Mr Robot [badge](https://tryhackme.com/rgibesh/badges/mr-robot).
+- Linux PrivEsc [badge](https://tryhackme.com/rgibesh/badges/linux-privesc).
