@@ -53,11 +53,11 @@ Tracking my room completion progress on TryHackMe
 47. Nessus
 48. Ignite 
 49. SimpleCTF
-50. Mr Robot CTF
+50. Mr Robot CTF - **_📛 badge earned_**
 51. Agent Sudo
 52. Pickle Rick 
 53. Vulnerabilities 101
-54. Linux PrivEsc
+54. Linux PrivEsc - **_📛 badge earned_**
 55. Active Reconnaissance
 56. Web Application Security
 57. Introduction to DevSecOps
