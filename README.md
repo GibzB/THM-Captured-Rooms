@@ -73,7 +73,7 @@ Tracking my room completion progress on TryHackMe
 67. Nmap Live Host Discovery 
 68. Jupyter 101 
 69. Blue - **_📛 badge earned_**
-70. Intro to Django { Unit 4 - Concluding }
+70. Introduction to Django 
 71. Bypassing UAC { Introduction }
 72. Overpass 2 - Hacked {  }
 73. Metasploit { We're in, now what? }
