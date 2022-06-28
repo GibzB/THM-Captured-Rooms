@@ -74,7 +74,7 @@ Tracking my room completion progress on TryHackMe
 68. Jupyter 101 
 69. Blue - **_📛 badge earned_**
 70. Introduction to Django 
-71. Bypassing UAC { Introduction }
+71. Bypassing UAC 
 72. Overpass 2 - Hacked {  }
 73. Metasploit { We're in, now what? }
 74. Polkit: CVE-2021-3560 { Deploy }
