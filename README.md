@@ -75,8 +75,8 @@ Tracking my room completion progress on TryHackMe
 69. Blue - **_📛 badge earned_**
 70. Introduction to Django 
 71. Bypassing UAC 
-72. Overpass 2 - Hacked {  }
-73. Metasploit { We're in, now what? }
+72. Overpass 2 - Hacked
+73. Metasploit
 74. Polkit: CVE-2021-3560 { Deploy }
 75. Linux Server Forensics { User Accounts }
 76. Volatility { Obtaining Memory Samples }
@@ -110,7 +110,7 @@ Tracking my room completion progress on TryHackMe
 104. Common Attacks { Multi-Factor Authentication and Password Managers }
 105. Sudo Buffer Overflow { Buffer Overflow }
 106. Aratus { Get both flags }
-107. 
+107. Linux Modules { }
 108. 
 109. 
  
