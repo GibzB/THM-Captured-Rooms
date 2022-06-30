@@ -9,3 +9,4 @@
 - Blue [badge](https://tryhackme.com/rgibesh/badges/blue).
 - Mr Robot [badge](https://tryhackme.com/rgibesh/badges/mr-robot).
 - Linux PrivEsc [badge](https://tryhackme.com/rgibesh/badges/linux-privesc).
+- Security Awareness badge [badge](https://tryhackme.com/rgibesh/badges/security-awareness).
