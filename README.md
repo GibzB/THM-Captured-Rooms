@@ -17,6 +17,7 @@ Tracking my room completion progress on TryHackMe
 11. Phishing Emails 2
 12. Common Attacks 
 13. Linux Modules
+- Jr Security Analyst Intro
 14. Ovapass
 15. Nmap
 16. Web Scanning
@@ -112,7 +113,9 @@ Tracking my room completion progress on TryHackMe
 106. Common Attacks
 107. Sudo Buffer Overflow { Buffer Overflow }
 108. Aratus { Get both flags }
-109. 
+109. Red Team Fundamentals {}
+110. Red Team Engagements {}
+111. 
 
  
 
