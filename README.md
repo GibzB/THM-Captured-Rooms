@@ -18,6 +18,7 @@ Tracking my room completion progress on TryHackMe
 12. Common Attacks 
 13. Linux Modules
 - Jr Security Analyst Intro
+- Red Team Fundamentals
 14. Ovapass
 15. Nmap
 16. Web Scanning
