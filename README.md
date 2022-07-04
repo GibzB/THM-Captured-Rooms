@@ -21,6 +21,7 @@ Tracking my room completion progress on TryHackMe
 - Red Team Fundamentals
 - Pentesting Fundamentals
 - Red Team Engagements
+- Linux Server Forensics
 14. Ovapass
 15. Nmap
 16. Web Scanning
@@ -116,7 +117,7 @@ Tracking my room completion progress on TryHackMe
 106. Common Attacks
 107. Sudo Buffer Overflow { Buffer Overflow }
 108. Aratus { Get both flags }
-109. 
+109. Linux PrivEsc Arena { }
 
  
 
