@@ -22,6 +22,7 @@ Tracking my room completion progress on TryHackMe
 - Pentesting Fundamentals
 - Red Team Engagements
 - Linux Server Forensics
+- AD Certificate Templates
 14. Ovapass
 15. Nmap
 16. Web Scanning
@@ -84,6 +85,7 @@ Tracking my room completion progress on TryHackMe
 73. Bypassing UAC 
 74. Overpass 2 - Hacked
 75. Metasploit
+- Magician
 76. Polkit: CVE-2021-3560 { Deploy }
 77. Linux Server Forensics { User Accounts }
 78. Volatility { Obtaining Memory Samples }
@@ -118,6 +120,7 @@ Tracking my room completion progress on TryHackMe
 107. Sudo Buffer Overflow { Buffer Overflow }
 108. Aratus { Get both flags }
 109. Linux PrivEsc Arena { }
+110. 
 
  
 
