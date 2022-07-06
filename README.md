@@ -23,6 +23,7 @@ Tracking my room completion progress on TryHackMe
 - Red Team Engagements
 - Linux Server Forensics
 - AD Certificate Templates
+- Printer Hacking 101
 14. Ovapass
 15. Nmap
 16. Web Scanning
