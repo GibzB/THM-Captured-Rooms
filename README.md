@@ -24,6 +24,7 @@ Tracking my room completion progress on TryHackMe
 - Linux Server Forensics
 - AD Certificate Templates
 - Printer Hacking 101
+- PrintNightmare
 14. Ovapass
 15. Nmap
 16. Web Scanning
