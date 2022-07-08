@@ -25,6 +25,7 @@ Tracking my room completion progress on TryHackMe
 - AD Certificate Templates
 - Printer Hacking 101
 - PrintNightmare
+- Pyramid Of Pain
 14. Ovapass
 15. Nmap
 16. Web Scanning
