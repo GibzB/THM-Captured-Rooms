@@ -14,7 +14,7 @@ Tracking my room completion progress on TryHackMe
 - Part 1
 - Part 2
 - Part 3
-8. Windows Fundamentals 1
+8. Windows Fundamentals 
 - Part 1
 - Part 2
 - Part 3
