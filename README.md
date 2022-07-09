@@ -5,125 +5,130 @@ Tracking my room completion progress on TryHackMe
 ## Rooms Completed 
 
 1. Welcome
-2. Starting Out In Cyber Sec
-3. Intro to Digital Forensics
-4. Linux Fundamentals Part 1 
-5. Linux Fundamentals Part 2
-6. Linux Fundamentals Part 3
-7. Windows Fundamentals 1
-8. Windows Fundamentals 2
-9. Windows Fundamentals 3
-10. Phishing Emails 1
-11. Phishing Emails 2
-12. Common Attacks 
-13. Linux Modules
-- Jr Security Analyst Intro
-- Red Team Fundamentals
-- Pentesting Fundamentals
-- Red Team Engagements
-- Linux Server Forensics
-- AD Certificate Templates
-- Printer Hacking 101
-- PrintNightmare
-- Pyramid Of Pain
-14. Ovapass
-15. Nmap
+2. c4ptur3-th3-fl4g
+3. Pyramid Of Pain
+4. PrintNightmare
+5. Starting Out In Cyber Sec
+6. Intro to Digital Forensics
+7. Linux Fundamentals 
+- Part 1
+- Part 2
+- Part 3
+8. Windows Fundamentals 1
+- Part 1
+- Part 2
+- Part 3
+9. Phishing Emails 
+- Part 1
+- Part 2 
+
+10. Jr Security Analyst Intro
+11. Pentesting Fundamentals
+12. Red Team Fundamentals
+13. Linux Server Forensics
+14. Printer Hacking 101
+15. AD Certificate Templates
 16. Web Scanning
-17. Lazy Admin
-18. Intro to x86-64
-19. CC: Steganography
-20. Principles of Security
-21. Content Discovery
-22. Shodan.io
-23. Burp Suite: The Basics
-24. The Hacker Methodology
-25. CC: Pen Testing
-26. Introductory Researching
-27. Google Dorking
-28. OhSINT
-29. Vulnversity
-30. TMUX(Terminal Multiplexer)
-31. Burp Suite: Repeater
-32. Sublist3r
-33. Cyborg
-34. Passive Reconnaissance
-35. Red Team Recon
-36. SQL Injection
-37. MAL: Malware Introductory
-38. Bounty Hacker
-39. Hydra
-40. The Cod Caper
-41. Kenobi
-42. Intro to IoT Pentesting
-43. OWASP Top 10
-44. OWASP Juice Shop
-45. Crack the hash
-46. Tech_Supp0rt: 1
-47. Intrusion Detection
-48. Kiba
-49. Nessus
-50. Ignite 
-51. SimpleCTF
-52. Mr Robot CTF - **_📛 badge earned_**
-53. Agent Sudo
-54. Pickle Rick 
-55. Vulnerabilities 101
-56. Linux PrivEsc - **_📛 badge earned_**
-57. Active Reconnaissance
-58. Web Application Security
-59. Introduction to DevSecOps
-60. Security Awareness 
-61. Metasploit: Introduction
-62. MITRE
-63. Intro to Offensive Security
-64. Python Basics
-65. Forensics
-66. Windows Forensics 1 
-67. Enumerating Active Directory
-68. Kroll Artifact Parser and Extractor (KAPE)
-69. Nmap Live Host Discovery 
-70. Jupyter 101 
-71. Blue - **_📛 badge earned_**
-72. Introduction to Django 
-73. Bypassing UAC 
-74. Overpass 2 - Hacked
-75. Metasploit
-- Magician
-76. Polkit: CVE-2021-3560 { Deploy }
-77. Linux Server Forensics { User Accounts }
-78. Volatility { Obtaining Memory Samples }
-79. Post-Exploitation Basics { Enumeration w/ Powerview }
-80. Bypass Disable Functions { Introduction }
-81. Kubernetes for Everyone { }
-82. What is Networking { Hacking your first machine }
-83. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-84. CVE-2022-26923 { Exploiting CVE-2022-26923 }
-85. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-86. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-87. Solar, exploiting log4j { Reconnaissance }
-88. Pwnkit: CVE-2021-4034 { Background }
-89. PrintNightmare { Windows Print Spooler Service }
-90. RootMe {  }
-91. Linux Strength Training { Reading SQL databases }
-92. Tomghost {  }
-93. Dogcat{  }
-94. Nax {  }
-95. The Marketplace{  }
-96. Investigating Windows {  }
-97. Memory Forensics { Login }
-98. Attacktive Directory { Setup }
-99. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
-100. History of Malware { The Creeper Program }
-101. How to use TryHackMe { Starting your first machine }
-102. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
-103. Introduction to OWASP ZAP { Intro to ZAP }
-104. Basic Malware RE { Introduction }
-105. Sudo Security Bypass { Deploy }
-106. Common Attacks
-107. Sudo Buffer Overflow { Buffer Overflow }
-108. Aratus { Get both flags }
-109. Linux PrivEsc Arena { }
-110. 
+17. Principles of Security
+18. Lazy Admin
+19. Content Discovery
+20. CC: Steganography
+21. Common Attacks 
+22. Linux Modules
+23. Intro to x86-64
+24. Nmap
+25. Shodan.io
+26. Burp Suite: The Basics
+27. The Hacker Methodology
+28. CC: Pen Testing
+29. Introductory Researching
+30. Google Dorking
+31. OhSINT
+32. Vulnversity
+33. TMUX(Terminal Multiplexer)
+34. Burp Suite: Repeater
+35. Sublist3r
+36. Cyborg
+37. Passive Reconnaissance
+38. Red Team Recon
+39. SQL Injection
+40. MAL: Malware Introductory
+41. Bounty Hacker
+42. Hydra
+43. The Cod Caper
+44. Kenobi
+45. Intro to IoT Pentesting
+46. OWASP Top 10
+47. OWASP Juice Shop
+48. Crack the hash
+49. Tech_Supp0rt: 1
+50. Intrusion Detection
+51. Kiba
+52. Nessus
+53. Ignite 
+54. SimpleCTF
+55. Mr Robot CTF - **_📛 badge earned_**
+56. Agent Sudo
+57. Pickle Rick 
+58. Vulnerabilities 101
+59. Linux PrivEsc - **_📛 badge earned_**
+60. Active Reconnaissance
+61. Web Application Security
+62. Introduction to DevSecOps
+63. Security Awareness 
+64. Metasploit: Introduction
+65. MITRE
+66. Intro to Offensive Security
+67. Python Basics
+68. Forensics
+69. Windows Forensics 1 
+70. Enumerating Active Directory
+71. Kroll Artifact Parser and Extractor (KAPE)
+72. Nmap Live Host Discovery 
+73. Jupyter 101 
+74. Blue - **_📛 badge earned_**
+75. Introduction to Django 
+76. Bypassing UAC 
+77. Overpass 2 - Hacked
+78. Metasploit
+79. Ovapass
+80. Magician
+81. Polkit: CVE-2021-3560 { Deploy }
+82. Linux Server Forensics { User Accounts }
+83. Volatility { Obtaining Memory Samples }
+84. Post-Exploitation Basics { Enumeration w/ Powerview }
+85. Bypass Disable Functions { Introduction }
+86. Kubernetes for Everyone { }
+87. What is Networking { Hacking your first machine }
+88. CVE-2021-41773/42013 { What is Path Traversal anyways? }
+89. CVE-2022-26923 { Exploiting CVE-2022-26923 }
+90. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+91. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+92. Solar, exploiting log4j { Reconnaissance }
+93. Pwnkit: CVE-2021-4034 { Background }
+94. PrintNightmare { Windows Print Spooler Service }
+95. RootMe {  }
+96. Linux Strength Training { Reading SQL databases }
+97. Tomghost {  }
+98. Dogcat{  }
+99. Nax {  }
+100. The Marketplace{  }
+101. Investigating Windows {  }
+102. Memory Forensics { Login }
+103. Attacktive Directory { Setup }
+104. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+105. History of Malware { The Creeper Program }
+106. How to use TryHackMe { Starting your first machine }
+107. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
+108. Introduction to OWASP ZAP { Intro to ZAP }
+109. Basic Malware RE { Introduction }
+110. Sudo Security Bypass { Deploy }
+111. Common Attacks
+112. Sudo Buffer Overflow { Buffer Overflow }
+113. Aratus { Get both flags }
+114. Linux PrivEsc Arena { }
+115. 
+116. 
 
  
 
