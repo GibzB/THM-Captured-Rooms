@@ -63,6 +63,8 @@ Tracking my room completion progress on TryHackMe
 48. Crack the hash
 49. Tech_Supp0rt: 1
 50. Intrusion Detection
+- The Marketplace
+- Investigating Windows
 51. Kiba
 52. Nessus
 53. Ignite 
@@ -112,8 +114,8 @@ Tracking my room completion progress on TryHackMe
 97. Tomghost {  }
 98. Dogcat{  }
 99. Nax {  }
-100. The Marketplace{  }
-101. Investigating Windows {  }
+100. Aratus { Get both flags }
+101. Sudo Buffer Overflow { Buffer Overflow }
 102. Memory Forensics { Login }
 103. Attacktive Directory { Setup }
 104. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
@@ -123,10 +125,10 @@ Tracking my room completion progress on TryHackMe
 108. Introduction to OWASP ZAP { Intro to ZAP }
 109. Basic Malware RE { Introduction }
 110. Sudo Security Bypass { Deploy }
-111. Common Attacks
-112. Sudo Buffer Overflow { Buffer Overflow }
-113. Aratus { Get both flags }
-114. Linux PrivEsc Arena { }
+111. Linux PrivEsc Arena { }
+112. 
+113.
+114. 
 115. 
 116. 
 
