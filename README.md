@@ -65,6 +65,7 @@ Tracking my room completion progress on TryHackMe
 50. Intrusion Detection
 - The Marketplace
 - Investigating Windows
+- Baron Samedit
 51. Kiba
 52. Nessus
 53. Ignite 
