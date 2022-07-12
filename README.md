@@ -96,42 +96,43 @@ Tracking my room completion progress on TryHackMe
 78. Metasploit
 79. Ovapass
 80. Magician
-81. Polkit: CVE-2021-3560 { Deploy }
-82. Linux Server Forensics { User Accounts }
-83. Volatility { Obtaining Memory Samples }
-84. Post-Exploitation Basics { Enumeration w/ Powerview }
-85. Bypass Disable Functions { Introduction }
-86. Kubernetes for Everyone { }
-87. What is Networking { Hacking your first machine }
-88. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-89. CVE-2022-26923 { Exploiting CVE-2022-26923 }
-90. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-91. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-92. Solar, exploiting log4j { Reconnaissance }
-93. Pwnkit: CVE-2021-4034 { Background }
-94. PrintNightmare { Windows Print Spooler Service }
-95. RootMe {  }
-96. Linux Strength Training { Reading SQL databases }
-97. Tomghost {  }
-98. Dogcat{  }
-99. Nax {  }
-100. Aratus { Get both flags }
-101. Sudo Buffer Overflow { Buffer Overflow }
-102. Memory Forensics { Login }
-103. Attacktive Directory { Setup }
-104. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
-105. History of Malware { The Creeper Program }
-106. How to use TryHackMe { Starting your first machine }
-107. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
-108. Introduction to OWASP ZAP { Intro to ZAP }
-109. Basic Malware RE { Introduction }
-110. Sudo Security Bypass { Deploy }
-111. Linux PrivEsc Arena { }
+81. History of Malware
+82. Polkit: CVE-2021-3560 { Deploy }
+83. Linux Server Forensics { User Accounts }
+84. Volatility { Obtaining Memory Samples }
+85. Post-Exploitation Basics { Enumeration w/ Powerview }
+86. Bypass Disable Functions { Introduction }
+87. Kubernetes for Everyone { }
+88. What is Networking { Hacking your first machine }
+89. CVE-2021-41773/42013 { What is Path Traversal anyways? }
+90. CVE-2022-26923 { Exploiting CVE-2022-26923 }
+91. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+92. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+93. Solar, exploiting log4j { Reconnaissance }
+94. Pwnkit: CVE-2021-4034 { Background }
+95. PrintNightmare { Windows Print Spooler Service }
+96. RootMe {  }
+97. Linux Strength Training { Reading SQL databases }
+98. Tomghost {  }
+99. Dogcat{  }
+100. Nax {  }
+101. Aratus { Get both flags }
+102. Sudo Buffer Overflow { Buffer Overflow }
+103. Memory Forensics { Login }
+104. Attacktive Directory { Setup }
+105. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+106. Linux PrivEsc Arena { }
+107. How to use TryHackMe { Starting your first machine }
+108. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
+109. Introduction to OWASP ZAP { Intro to ZAP }
+110. Basic Malware RE { Introduction }
+111. Sudo Security Bypass { Deploy }
 112. Advent of Cyber 1 [2019] { }
-113.
-114. 
+113. 
+114.
 115. 
 116. 
+117. 
 
  
 
