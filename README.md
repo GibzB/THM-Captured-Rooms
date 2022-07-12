@@ -127,7 +127,7 @@ Tracking my room completion progress on TryHackMe
 109. Basic Malware RE { Introduction }
 110. Sudo Security Bypass { Deploy }
 111. Linux PrivEsc Arena { }
-112. 
+112. Advent of Cyber 1 [2019] { }
 113.
 114. 
 115. 
