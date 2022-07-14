@@ -14,10 +14,12 @@ Tracking my room completion progress on TryHackMe
 - Part 1
 - Part 2
 - Part 3
+
 8. Windows Fundamentals 
 - Part 1
 - Part 2
 - Part 3
+
 9. Phishing Emails 
 - Part 1
 - Part 2 
@@ -98,8 +100,8 @@ Tracking my room completion progress on TryHackMe
    - Overpass 3 - Hosting
 80. Magician
 81. History of Malware
-82. Polkit: CVE-2021-3560 { Deploy }
-83. Linux Server Forensics { User Accounts }
+82. Linux Server Forensics
+83. RootMe
 84. Volatility { Obtaining Memory Samples }
 85. Post-Exploitation Basics { Enumeration w/ Powerview }
 86. Bypass Disable Functions { Introduction }
@@ -112,7 +114,7 @@ Tracking my room completion progress on TryHackMe
 93. Solar, exploiting log4j { Reconnaissance }
 94. Pwnkit: CVE-2021-4034 { Background }
 95. PrintNightmare { Windows Print Spooler Service }
-96. RootMe {  }
+96. Polkit: CVE-2021-3560 { Deploy }
 97. Linux Strength Training { Reading SQL databases }
 98. Tomghost {  }
 99. Dogcat{  }
