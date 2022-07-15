@@ -102,7 +102,7 @@ Tracking my room completion progress on TryHackMe
 81. History of Malware
 82. Linux Server Forensics
 83. RootMe
-84. Volatility { Obtaining Memory Samples }
+84. Basic Malware RE 
 85. Post-Exploitation Basics { Enumeration w/ Powerview }
 86. Bypass Disable Functions { Introduction }
 87. Kubernetes for Everyone { }
@@ -128,7 +128,7 @@ Tracking my room completion progress on TryHackMe
 107. How to use TryHackMe { Starting your first machine }
 108. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 109. Introduction to OWASP ZAP { Intro to ZAP }
-110. Basic Malware RE { Introduction }
+110. Volatility { Obtaining Memory Samples }
 111. Sudo Security Bypass { Deploy }
 112. Advent of Cyber 1 [2019] { }
 113. 
