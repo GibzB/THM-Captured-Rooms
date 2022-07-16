@@ -4,10 +4,12 @@ Tracking my room completion progress on TryHackMe
 
 ## Rooms Completed 
 
-1. Welcome
+1. Welcome 
+2. Getting Started
 2. c4ptur3-th3-fl4g
 3. Pyramid Of Pain
 4. PrintNightmare
+Cryptography for Dummies
 5. Starting Out In Cyber Sec
 6. Intro to Digital Forensics
 7. Linux Fundamentals 
@@ -132,7 +134,7 @@ Tracking my room completion progress on TryHackMe
 111. Volatility { Obtaining Memory Samples }
 112. Sudo Security Bypass { Deploy }
 113. Advent of Cyber 1 [2019] { }
-114. 
+114. Cryptography for Dummies
 115.
 116. 
 117. 
