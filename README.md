@@ -135,7 +135,7 @@ Cryptography for Dummies
 112. Sudo Security Bypass { Deploy }
 113. Advent of Cyber 1 [2019] { }
 114. Cryptography for Dummies
-115.
+115. Hip Flask {}
 116. 
 117. 
 118. 
