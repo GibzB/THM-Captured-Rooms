@@ -27,6 +27,8 @@ Cryptography for Dummies
 - Part 2 
 
 10. Jr Security Analyst Intro
+- Linux Strength Training
+- Linux Backdoors
 11. Pentesting Fundamentals
 12. Red Team Fundamentals
 13. Linux Server Forensics
@@ -118,7 +120,7 @@ Cryptography for Dummies
 95. Pwnkit: CVE-2021-4034 { Background }
 96. PrintNightmare { Windows Print Spooler Service }
 97. Polkit: CVE-2021-3560 { Deploy }
-98. Linux Strength Training { Reading SQL databases }
+98. 
 99. Tomghost {  }
 100. Dogcat{  }
 101. Nax {  }
