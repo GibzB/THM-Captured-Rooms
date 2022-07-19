@@ -29,6 +29,7 @@ Cryptography for Dummies
 10. Jr Security Analyst Intro
 - Linux Strength Training
 - Linux Backdoors
+- Wifi Hacking 101
 11. Pentesting Fundamentals
 12. Red Team Fundamentals
 13. Linux Server Forensics
