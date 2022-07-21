@@ -110,7 +110,7 @@ Cryptography for Dummies
 83. RootMe
 84. Basic Malware RE 
 85. Git Happens
-86. Post-Exploitation Basics { Enumeration w/ Powerview }
+86. Post-Exploitation Basics 
 87. Bypass Disable Functions { Introduction }
 88. Kubernetes for Everyone { }
 89. What is Networking { Hacking your first machine }
@@ -140,7 +140,7 @@ Cryptography for Dummies
 113. Advent of Cyber 1 [2019] { }
 114. Cryptography for Dummies
 115. Hip Flask {}
-116. 
+116. OWASP Mutillidae II {}
 117. 
 118. 
 
