@@ -112,7 +112,7 @@ Cryptography for Dummies
 85. Git Happens
 86. Post-Exploitation Basics 
 87. Bypass Disable Functions { Introduction }
-88. Kubernetes for Everyone { }
+88. Kubernetes for Everyone { Game of Pods }
 89. What is Networking { Hacking your first machine }
 90. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 91. CVE-2022-26923 { Exploiting CVE-2022-26923 }
