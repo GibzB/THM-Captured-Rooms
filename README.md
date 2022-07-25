@@ -113,6 +113,7 @@ Cryptography for Dummies
 85. Git Happens
 86. Post-Exploitation Basics
 - Adventure Time
+- Anonforce
 87. Bypass Disable Functions { Introduction }
 88. Kubernetes for Everyone { Game of Pods }
 89. What is Networking { Hacking your first machine }
