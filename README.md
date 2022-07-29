@@ -115,6 +115,7 @@ Cryptography for Dummies
 86. Post-Exploitation Basics
 - Adventure Time
 - Anonforce
+- Empire
 87. Bypass Disable Functions { Introduction }
 88. Kubernetes for Everyone { Game of Pods }
 89. What is Networking { Hacking your first machine }
