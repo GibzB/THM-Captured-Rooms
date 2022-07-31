@@ -116,9 +116,9 @@ Cryptography for Dummies
 - Adventure Time
 - Anonforce
 - Empire
-87. Bypass Disable Functions { Introduction }
-88. Kubernetes for Everyone { Game of Pods }
-89. What is Networking { Hacking your first machine }
+87. Bypass Disable Functions 
+88. What is Networking
+89. Kubernetes for Everyone { Game of Pods }
 90. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 91. CVE-2022-26923 { Exploiting CVE-2022-26923 }
 92. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
