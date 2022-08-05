@@ -118,6 +118,8 @@ Cryptography for Dummies
 - Empire
 - Toc2
 - Source
+- Investigating Windows 2.0
+- Volatility
 87. Bypass Disable Functions 
 88. What is Networking
 - Tomghost
@@ -143,7 +145,7 @@ Cryptography for Dummies
 108. How to use TryHackMe { Starting your first machine }
 109. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 110. Introduction to OWASP ZAP { Intro to ZAP }
-111. Volatility { Obtaining Memory Samples }
+111. 
 112. Sudo Security Bypass { Deploy }
 113. Advent of Cyber 1 [2019] { }
 114. Cryptography for Dummies
