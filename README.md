@@ -123,6 +123,7 @@ Cryptography for Dummies
 87. Bypass Disable Functions 
 88. What is Networking
 - Tomghost
+- Dogcat
 89. Kubernetes for Everyone { Game of Pods }
 90. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 91. CVE-2022-26923 { Exploiting CVE-2022-26923 }
@@ -134,7 +135,7 @@ Cryptography for Dummies
 97. Polkit: CVE-2021-3560 { Deploy }
 98. 
 99. 
-100. Dogcat{  }
+100. 
 101. Nax {  }
 102. Aratus { Get both flags }
 103. Sudo Buffer Overflow { Buffer Overflow }
