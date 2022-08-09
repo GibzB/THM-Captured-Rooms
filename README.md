@@ -124,14 +124,16 @@ Cryptography for Dummies
 88. What is Networking
 - Tomghost
 - Dogcat
+- CVE-2022-26923 
+- PrintNightmare
 89. Kubernetes for Everyone { Game of Pods }
 90. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-91. CVE-2022-26923 { Exploiting CVE-2022-26923 }
+91. 
 92. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
 93. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
 94. Solar, exploiting log4j { Reconnaissance }
 95. Pwnkit: CVE-2021-4034 { Background }
-96. PrintNightmare { Windows Print Spooler Service }
+96.  
 97. Polkit: CVE-2021-3560 { Deploy }
 98. 
 99. 
