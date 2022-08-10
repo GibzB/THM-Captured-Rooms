@@ -133,7 +133,7 @@ Cryptography for Dummies
 93. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
 94. Solar, exploiting log4j { Reconnaissance }
 95. Pwnkit: CVE-2021-4034 { Background }
-96.  
+96. Library { }
 97. Polkit: CVE-2021-3560 { Deploy }
 98. 
 99. 
