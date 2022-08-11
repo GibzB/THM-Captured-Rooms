@@ -127,6 +127,7 @@ Cryptography for Dummies
 - Dogcat
 - CVE-2022-26923 
 - PrintNightmare
+- Chocolate Factory
 89. Kubernetes for Everyone { Game of Pods }
 90. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 91. Follina MSDT { CVE-2022-30190 }
@@ -136,7 +137,7 @@ Cryptography for Dummies
 95. Pwnkit: CVE-2021-4034 { Background }
 96. Library { }
 97. Polkit: CVE-2021-3560 { Deploy }
-98. 
+98. Investigating Windows 3.x { }
 99. 
 100. 
 101. Nax {  }
