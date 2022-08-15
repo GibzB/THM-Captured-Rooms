@@ -132,6 +132,7 @@ Cryptography for Dummies
 - Internal
 - Archangel
 - GamingServer
+- GoldenEye
 89. Kubernetes for Everyone { Game of Pods }
 90. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 91. Follina MSDT { CVE-2022-30190 }
