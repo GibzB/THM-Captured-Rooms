@@ -11,3 +11,4 @@
 - Linux PrivEsc [badge](https://tryhackme.com/rgibesh/badges/linux-privesc).
 - Security Awareness badge [badge](https://tryhackme.com/rgibesh/badges/security-awareness).
 - Overpassed badge [badge](https://tryhackme.com/rgibesh/badges/overpass).
+- Investigations badge [badge](https://tryhackme.com/rgibesh/badges/investigations).
