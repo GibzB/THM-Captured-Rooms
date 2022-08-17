@@ -31,88 +31,90 @@ Cryptography for Dummies
 - Linux Backdoors
 - Wifi Hacking 101
 11. Pentesting Fundamentals
-12. Red Team Fundamentals
-13. Linux Server Forensics
-14. Printer Hacking 101
-15. AD Certificate Templates
-16. Web Scanning
-17. Principles of Security
-18. Lazy Admin
-19. Content Discovery
-20. CC: Steganography
-21. Common Attacks 
-22. Linux Modules
-23. Intro to x86-64
-24. Nmap
-25. Shodan.io
-26. Burp Suite: The Basics
-27. The Hacker Methodology
-28. CC: Pen Testing
-29. Introductory Researching
-30. Google Dorking
-31. OhSINT
-32. Vulnversity
-33. TMUX(Terminal Multiplexer)
-34. Burp Suite: Repeater
-35. Sublist3r
-36. Cyborg
-37. Passive Reconnaissance
-38. Red Team Recon
-39. SQL Injection
-40. MAL: Malware Introductory
-41. Bounty Hacker
-42. Hydra
-43. The Cod Caper
-44. Kenobi
-45. Intro to IoT Pentesting
-46. OWASP Top 10
-47. OWASP Juice Shop
-48. Crack the hash
-49. Tech_Supp0rt: 1
-50. Intrusion Detection
+12. Advent of Cyber 
+- 1 [2019] {[Day 1] Inventory Management}
+14. Red Team Fundamentals
+15. Linux Server Forensics
+16. Printer Hacking 101
+17. AD Certificate Templates
+18. Web Scanning
+19. Principles of Security
+20. Lazy Admin
+21. Content Discovery
+22. CC: Steganography
+23. Common Attacks 
+24. Linux Modules
+25. Intro to x86-64
+26. Nmap
+27. Shodan.io
+28. Burp Suite: The Basics
+29. The Hacker Methodology
+30. CC: Pen Testing
+31. Introductory Researching
+32. Google Dorking
+33. OhSINT
+34. Vulnversity
+35. TMUX(Terminal Multiplexer)
+36. Burp Suite: Repeater
+37. Sublist3r
+38. Cyborg
+39. Passive Reconnaissance
+40. Red Team Recon
+41. SQL Injection
+42. MAL: Malware Introductory
+43. Bounty Hacker
+44. Hydra
+45. The Cod Caper
+46. Kenobi
+47. Intro to IoT Pentesting
+48. OWASP Top 10
+49. OWASP Juice Shop
+50. Crack the hash
+51. Tech_Supp0rt: 1
+52. Intrusion Detection
 - The Marketplace
 - Investigating Windows
 - Baron Samedit
 - Bolt
 - All in One
 - Attacktive Directory
-51. Kiba
-52. Nessus
-53. Ignite 
-54. SimpleCTF
-55. Mr Robot CTF - **_📛 badge earned_**
-56. Agent Sudo
-57. Pickle Rick 
-58. Vulnerabilities 101
-59. Linux PrivEsc - **_📛 badge earned_**
-60. Active Reconnaissance
-61. Web Application Security
-62. Introduction to DevSecOps
-63. Security Awareness 
-64. Metasploit: Introduction
-65. MITRE
-66. Intro to Offensive Security
-67. Python Basics
-68. Forensics
-69. Windows Forensics 1 
-70. Enumerating Active Directory
-71. Kroll Artifact Parser and Extractor (KAPE)
-72. Nmap Live Host Discovery 
-73. Jupyter 101 
-74. Blue - **_📛 badge earned_**
-75. Introduction to Django 
-76. Bypassing UAC 
-77. Overpass 2 - Hacked
-78. Metasploit
-79. Ovapass
+53. Kiba
+54. Nessus
+55. Ignite 
+56. SimpleCTF
+57. Mr Robot CTF - **_📛 badge earned_**
+58. Agent Sudo
+59. Pickle Rick 
+60. Vulnerabilities 101
+61. Linux PrivEsc - **_📛 badge earned_**
+62. Active Reconnaissance
+63. Web Application Security
+64. Introduction to DevSecOps
+65. Security Awareness 
+66. Metasploit: Introduction
+67. MITRE
+68. Intro to Offensive Security
+69. Python Basics
+70. Forensics
+71. Windows Forensics 1 
+72. Enumerating Active Directory
+73. Kroll Artifact Parser and Extractor (KAPE)
+74. Nmap Live Host Discovery 
+75. Jupyter 101 
+76. Blue - **_📛 badge earned_**
+77. Introduction to Django 
+78. Bypassing UAC 
+79. Overpass 2 - Hacked
+80. Metasploit
+81. Ovapass
    - Overpass 3 - Hosting
-80. Magician
-81. History of Malware
-82. Linux Server Forensics
-83. RootMe
-84. Basic Malware RE 
-85. Git Happens
-86. Post-Exploitation Basics
+82. Magician
+83. History of Malware
+84. Linux Server Forensics
+85. RootMe
+86. Basic Malware RE 
+87. Git Happens
+88. Post-Exploitation Basics
 - Adventure Time
 - Anonforce
 - Empire
@@ -121,8 +123,8 @@ Cryptography for Dummies
 - Investigating Windows 2.0
 - Volatility
 - Introduction to Flask
-87. Bypass Disable Functions 
-88. What is Networking
+89. Bypass Disable Functions 
+90. What is Networking
 - Tomghost
 - Dogcat
 - CVE-2022-26923 
@@ -135,36 +137,36 @@ Cryptography for Dummies
 - GoldenEye
 - Dave's Blog
 - Jack of all Trades
-89. Kubernetes for Everyone { Game of Pods }
-90. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-91. Follina MSDT { CVE-2022-30190 }
-92. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-93. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-94. Solar, exploiting log4j { Reconnaissance }
-95. Pwnkit: CVE-2021-4034 { Background }
-96. Library { }
-97. Polkit: CVE-2021-3560 { Deploy }
-98. Investigating Windows 3.x { }
-99. 
-100. 
-101. Nax {  }
-102. Aratus { Get both flags }
-103. Sudo Buffer Overflow { Buffer Overflow }
-104. Memory Forensics { Login }
-105. Attacktive Directory { Setup }
-106. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
-107. Linux PrivEsc Arena { }
-108. How to use TryHackMe { Starting your first machine }
-109. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
-110. Introduction to OWASP ZAP { Intro to ZAP }
-111. 
-112. Sudo Security Bypass { Deploy }
-113. Advent of Cyber 1 [2019] { }
-114. Cryptography for Dummies
-115. Hip Flask {}
-116. OWASP Mutillidae II {}
-117. 
-118. 
+91. Kubernetes for Everyone { Game of Pods }
+92. CVE-2021-41773/42013 { What is Path Traversal anyways? }
+93. Follina MSDT { CVE-2022-30190 }
+94. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+95. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+96. Solar, exploiting log4j { Reconnaissance }
+97. Pwnkit: CVE-2021-4034 { Background }
+98. Library { }
+99. Polkit: CVE-2021-3560 { Deploy }
+100. Investigating Windows 3.x { }
+101. 
+102. 
+103. Nax {  }
+104. Aratus { Get both flags }
+105. Sudo Buffer Overflow { Buffer Overflow }
+106. Memory Forensics { Login }
+107. Attacktive Directory { Setup }
+108. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+109. Linux PrivEsc Arena { }
+110. How to use TryHackMe { Starting your first machine }
+111. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
+112. Introduction to OWASP ZAP { Intro to ZAP }
+113. 
+114. Sudo Security Bypass { Deploy }
+115. Advent of Cyber 1 [2019] { }
+116. Cryptography for Dummies
+117. Hip Flask {}
+118. OWASP Mutillidae II {}
+119. 
+120. 
 
  
 
