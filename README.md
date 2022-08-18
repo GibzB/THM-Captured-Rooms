@@ -137,6 +137,7 @@ Cryptography for Dummies
 - GoldenEye
 - Dave's Blog
 - Jack of all Trades
+- Jeff 
 91. Kubernetes for Everyone { Game of Pods }
 92. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 93. Follina MSDT { CVE-2022-30190 }
@@ -147,7 +148,7 @@ Cryptography for Dummies
 98. Library { }
 99. Polkit: CVE-2021-3560 { Deploy }
 100. Investigating Windows 3.x { }
-101. 
+101. SQL Injection Lab { }
 102. 
 103. Nax {  }
 104. Aratus { Get both flags }
