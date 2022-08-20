@@ -6,6 +6,7 @@ Tracking my room completion progress on TryHackMe
 
 1. Welcome 
 2. Getting Started
+- JavaScript Basics
 2. c4ptur3-th3-fl4g
 3. Pyramid Of Pain
 4. PrintNightmare
