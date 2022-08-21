@@ -31,6 +31,8 @@ Cryptography for Dummies
 - Linux Strength Training
 - Linux Backdoors
 - Wifi Hacking 101
+- Tor
+- Easy Peasy
 11. Pentesting Fundamentals
 12. Advent of Cyber 
 - 1 [2019] {[Day 1] Inventory Management}
