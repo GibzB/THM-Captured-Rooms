@@ -7,6 +7,7 @@ Tracking my room completion progress on TryHackMe
 1. Welcome 
 2. Getting Started
 - JavaScript Basics
+- 
 2. c4ptur3-th3-fl4g
 3. Pyramid Of Pain
 4. PrintNightmare
@@ -33,6 +34,7 @@ Cryptography for Dummies
 - Wifi Hacking 101
 - Tor
 - Easy Peasy
+- 
 11. Pentesting Fundamentals
 12. Advent of Cyber 
 - 1 [2019] {[Day 1] Inventory Management}
@@ -141,36 +143,38 @@ Cryptography for Dummies
 - Dave's Blog
 - Jack of all Trades
 - Jeff 
+- Poster 
 91. Kubernetes for Everyone { Game of Pods }
-92. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-93. Follina MSDT { CVE-2022-30190 }
-94. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-95. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-96. Solar, exploiting log4j { Reconnaissance }
-97. Pwnkit: CVE-2021-4034 { Background }
-98. Library { }
-99. Polkit: CVE-2021-3560 { Deploy }
-100. Investigating Windows 3.x { }
-101. SQL Injection Lab { }
-102. 
-103. Nax {  }
-104. Aratus { Get both flags }
-105. Sudo Buffer Overflow { Buffer Overflow }
-106. Memory Forensics { Login }
-107. Attacktive Directory { Setup }
-108. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
-109. Linux PrivEsc Arena { }
-110. How to use TryHackMe { Starting your first machine }
-111. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
-112. Introduction to OWASP ZAP { Intro to ZAP }
-113. 
-114. Sudo Security Bypass { Deploy }
-115. Advent of Cyber 1 [2019] { }
-116. Cryptography for Dummies
-117. Hip Flask {}
-118. OWASP Mutillidae II {}
-119. 
+92. Intro To Pwntools { CheckSec }
+93. CVE-2021-41773/42013 { What is Path Traversal anyways? }
+94. Follina MSDT { CVE-2022-30190 }
+95. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+96. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+97. Solar, exploiting log4j { Reconnaissance }
+98. Pwnkit: CVE-2021-4034 { Background }
+99. Library { }
+100. Polkit: CVE-2021-3560 { Deploy }
+101. Investigating Windows 3.x { }
+102. SQL Injection Lab { }
+103. 
+104. Nax {  }
+105. Aratus { Get both flags }
+106. Sudo Buffer Overflow { Buffer Overflow }
+107. Memory Forensics { Login }
+108. Attacktive Directory { Setup }
+109. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+110. Linux PrivEsc Arena { }
+111. How to use TryHackMe { Starting your first machine }
+112. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
+113. Introduction to OWASP ZAP { Intro to ZAP }
+114. 
+115. Sudo Security Bypass { Deploy }
+116. Advent of Cyber 1 [2019] { }
+117. Cryptography for Dummies
+118. Hip Flask {}
+119. OWASP Mutillidae II {}
 120. 
+121. 
 
  
 
