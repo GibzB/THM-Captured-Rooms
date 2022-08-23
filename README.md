@@ -40,6 +40,7 @@ Cryptography for Dummies
 - 1 [2019] {[Day 1] Inventory Management}
 14. Red Team Fundamentals
 15. Linux Server Forensics
+- Threat Intelligence Tools
 16. Printer Hacking 101
 17. AD Certificate Templates
 18. Web Scanning
