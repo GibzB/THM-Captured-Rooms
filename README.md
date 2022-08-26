@@ -85,6 +85,7 @@ Cryptography for Dummies
 - All in One
 - Attacktive Directory
 - Anonymous
+- DVWA
 53. Kiba
 54. Nessus
 55. Ignite 
@@ -146,6 +147,7 @@ Cryptography for Dummies
 - Jack of all Trades
 - Jeff 
 - Poster 
+- Toolbox: Vim
 91. Kubernetes for Everyone { Game of Pods }
 92. Intro To Pwntools { CheckSec }
 93. CVE-2021-41773/42013 { What is Path Traversal anyways? }
