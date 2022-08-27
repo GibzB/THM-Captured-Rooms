@@ -148,6 +148,7 @@ Cryptography for Dummies
 - Jeff 
 - Poster 
 - Toolbox: Vim
+- Badbyte
 91. Kubernetes for Everyone { Game of Pods }
 92. Intro To Pwntools { CheckSec }
 93. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -171,13 +172,13 @@ Cryptography for Dummies
 111. How to use TryHackMe { Starting your first machine }
 112. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 113. Introduction to OWASP ZAP { Intro to ZAP }
-114. 
+114. Wireshark: The Basics { }
 115. Sudo Security Bypass { Deploy }
 116. Advent of Cyber 1 [2019] { }
 117. Cryptography for Dummies
 118. Hip Flask {}
 119. OWASP Mutillidae II {}
-120. 
+120. Gotta Catch'em All! { }
 121. 
 
  
