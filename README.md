@@ -34,7 +34,7 @@ Cryptography for Dummies
 - Wifi Hacking 101
 - Tor
 - Easy Peasy
-- 
+- Introduction to Antivirus
 11. Pentesting Fundamentals
 12. Advent of Cyber 
 - 1 [2019] {[Day 1] Inventory Management}
@@ -132,7 +132,7 @@ Cryptography for Dummies
 - Volatility
 - Introduction to Flask
 89. Bypass Disable Functions 
-90. What is Networking
+90. What is Networking 
 - Tomghost
 - Dogcat
 - CVE-2022-26923 
@@ -179,7 +179,9 @@ Cryptography for Dummies
 118. Hip Flask {}
 119. OWASP Mutillidae II {}
 120. Gotta Catch'em All! { }
-121. 
+121. CyberHeroes. { }
+122. 
+
 
  
 
