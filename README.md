@@ -131,6 +131,7 @@ Cryptography for Dummies
 - Investigating Windows 2.0
 - Volatility
 - Introduction to Flask
+- Active Directory Basics
 89. Bypass Disable Functions 
 90. What is Networking 
 - Tomghost
@@ -180,7 +181,7 @@ Cryptography for Dummies
 119. OWASP Mutillidae II {}
 120. Gotta Catch'em All! { }
 121. CyberHeroes. { }
-122. 
+122. Android Malware Analysis { }
 
 
  
