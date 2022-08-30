@@ -150,6 +150,7 @@ Cryptography for Dummies
 - Poster 
 - Toolbox: Vim
 - Badbyte
+- Jacob the Boss
 91. Kubernetes for Everyone { Game of Pods }
 92. Intro To Pwntools { CheckSec }
 93. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -182,6 +183,8 @@ Cryptography for Dummies
 120. Gotta Catch'em All! { }
 121. CyberHeroes. { }
 122. Android Malware Analysis { }
+123. Cat Pictures { }
+124. 
 
 
  
