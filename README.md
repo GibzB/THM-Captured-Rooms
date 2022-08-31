@@ -86,6 +86,7 @@ Cryptography for Dummies
 - Attacktive Directory
 - Anonymous
 - DVWA
+- Confidential
 53. Kiba
 54. Nessus
 55. Ignite 
