@@ -152,6 +152,7 @@ Cryptography for Dummies
 - Toolbox: Vim
 - Badbyte
 - Jacob the Boss
+- Android Hacking 101
 91. Kubernetes for Everyone { Game of Pods }
 92. Intro To Pwntools { CheckSec }
 93. CVE-2021-41773/42013 { What is Path Traversal anyways? }
