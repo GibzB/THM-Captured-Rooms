@@ -187,6 +187,7 @@ Cryptography for Dummies
 122. Android Malware Analysis { }
 123. Cat Pictures { }
 124. SqlMap { }
+125. Daily Bugle { }
 
 
  
