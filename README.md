@@ -188,6 +188,9 @@ Cryptography for Dummies
 123. Cat Pictures { }
 124. SqlMap { }
 125. Daily Bugle { }
+126. Mr. Phisher { }
+127. Introduction to Windows API { }
+128. Dear QA { }
 
 
  
