@@ -7,7 +7,7 @@ Tracking my room completion progress on TryHackMe
 1. Welcome 
 2. Getting Started
 - JavaScript Basics
-- 
+- OpenVPN
 2. c4ptur3-th3-fl4g
 3. Pyramid Of Pain
 4. PrintNightmare
@@ -153,6 +153,9 @@ Cryptography for Dummies
 - Badbyte
 - Jacob the Boss
 - Android Hacking 101
+- Relevant
+- Debug
+- 
 91. Kubernetes for Everyone { Game of Pods }
 92. Intro To Pwntools { CheckSec }
 93. CVE-2021-41773/42013 { What is Path Traversal anyways? }
