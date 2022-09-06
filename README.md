@@ -155,7 +155,7 @@ Cryptography for Dummies
 - Android Hacking 101
 - Relevant
 - Debug
-- 
+- RustScan
 91. Kubernetes for Everyone { Game of Pods }
 92. Intro To Pwntools { CheckSec }
 93. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -194,6 +194,8 @@ Cryptography for Dummies
 126. Mr. Phisher { }
 127. Introduction to Windows API { }
 128. Dear QA { }
+129. 
+130. 
 
 
  
