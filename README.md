@@ -198,6 +198,7 @@ Cryptography for Dummies
 130. Wreath { High-level Overview }
 131. Introduction To Honeypots { }
 132. Dumping Router Firmware { }
+133. Windows PrivEsc { }
 
 
  
