@@ -199,6 +199,7 @@ Cryptography for Dummies
 131. Introduction To Honeypots { }
 132. Dumping Router Firmware { }
 133. Windows PrivEsc { }
+134. Blueprint { }
 
 
  
