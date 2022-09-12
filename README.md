@@ -35,6 +35,7 @@ Cryptography for Dummies
 - Tor
 - Easy Peasy
 - Introduction to Antivirus
+- Intro to Defensive Security
 11. Pentesting Fundamentals
 12. Advent of Cyber 
 - 1 [2019] {[Day 1] Inventory Management}
@@ -200,7 +201,7 @@ Cryptography for Dummies
 132. Dumping Router Firmware { }
 133. Windows PrivEsc { }
 134. Blueprint { }
-135. Intro to Defensive Security { }
+135. 
 
 
  
