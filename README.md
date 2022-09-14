@@ -202,7 +202,8 @@ Cryptography for Dummies
 132. Dumping Router Firmware { }
 133. Windows PrivEsc { }
 134. Blueprint { }
-135. 
+135. Dig Dug {}
+136. h4cked {}
 
 
  
