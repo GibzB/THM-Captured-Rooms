@@ -123,8 +123,9 @@ Cryptography for Dummies
 84. Linux Server Forensics
 85. RootMe
 86. Basic Malware RE 
-87. Git Happens
-88. Post-Exploitation Basics
+87. h4cked
+88. Git Happens
+89. Post-Exploitation Basics
 - Adventure Time
 - Anonforce
 - Empire
@@ -134,8 +135,8 @@ Cryptography for Dummies
 - Volatility
 - Introduction to Flask
 - Active Directory Basics
-89. Bypass Disable Functions 
-90. What is Networking 
+90. Bypass Disable Functions 
+91. What is Networking 
 - Tomghost
 - Dogcat
 - CVE-2022-26923 
@@ -158,52 +159,53 @@ Cryptography for Dummies
 - Debug
 - RustScan
 - Fowsniff CTF
-91. Kubernetes for Everyone { Game of Pods }
-92. Intro To Pwntools { CheckSec }
-93. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-94. Follina MSDT { CVE-2022-30190 }
-95. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
-96. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-97. Solar, exploiting log4j { Reconnaissance }
-98. Pwnkit: CVE-2021-4034 { Background }
-99. Library { }
-100. Polkit: CVE-2021-3560 { Deploy }
-101. Investigating Windows 3.x { }
-102. SQL Injection Lab { }
-103. REmux The Tmux { Intro }
-104. Nax {  }
-105. Aratus { Get both flags }
-106. Sudo Buffer Overflow { Buffer Overflow }
-107. Memory Forensics { Login }
-108. Attacktive Directory { Setup }
-109. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
-110. Linux PrivEsc Arena { }
-111. How to use TryHackMe { Starting your first machine }
-112. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
-113. Introduction to OWASP ZAP { Intro to ZAP }
-114. Wireshark: The Basics { }
-115. Sudo Security Bypass { Deploy }
-116. Advent of Cyber 1 [2019] { }
-117. Cryptography for Dummies
-118. Hip Flask {}
-119. OWASP Mutillidae II {}
-120. Gotta Catch'em All! { }
-121. CyberHeroes. { }
-122. Android Malware Analysis { }
-123. Cat Pictures { }
-124. SqlMap { }
-125. Daily Bugle { }
-126. Mr. Phisher { }
-127. Introduction to Windows API { }
-128. Dear QA { }
-129. Mustacchio { }
-130. Wreath { High-level Overview }
-131. Introduction To Honeypots { }
-132. Dumping Router Firmware { }
-133. Windows PrivEsc { }
-134. Blueprint { }
-135. Dig Dug {}
-136. h4cked {}
+92. Kubernetes for Everyone { Game of Pods }
+93. Intro To Pwntools { CheckSec }
+94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
+95. Follina MSDT { CVE-2022-30190 }
+96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
+97. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
+98. Solar, exploiting log4j { Reconnaissance }
+99. Pwnkit: CVE-2021-4034 { Background }
+100. Library { }
+101. Polkit: CVE-2021-3560 { Deploy }
+102. Investigating Windows 3.x { }
+103. SQL Injection Lab { }
+104. REmux The Tmux { Intro }
+105. Nax {  }
+106. Aratus { Get both flags }
+107. Sudo Buffer Overflow { Buffer Overflow }
+108. Memory Forensics { Login }
+109. Attacktive Directory { Setup }
+110. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+111. Linux PrivEsc Arena { }
+112. How to use TryHackMe { Starting your first machine }
+113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
+114. Introduction to OWASP ZAP { Intro to ZAP }
+115. Wireshark: The Basics { }
+116. Sudo Security Bypass { Deploy }
+117. Advent of Cyber 1 [2019] { }
+118. Cryptography for Dummies
+119. Hip Flask {}
+120. OWASP Mutillidae II {}
+121. Gotta Catch'em All! { }
+122. CyberHeroes. { }
+123. Android Malware Analysis { }
+124. Cat Pictures { }
+125. SqlMap { }
+126. Daily Bugle { }
+127. Mr. Phisher { }
+128. Introduction to Windows API { }
+129. Dear QA { }
+130. Mustacchio { }
+131. Wreath { High-level Overview }
+132. Introduction To Honeypots { }
+133. Dumping Router Firmware { }
+134. Windows PrivEsc { }
+135. Blueprint { }
+136. Dig Dug {}
+137. Quotient {}
+138. 
 
 
  
