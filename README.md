@@ -136,7 +136,7 @@ Cryptography for Dummies
 - Introduction to Flask
 - Active Directory Basics
 90. Bypass Disable Functions 
-91. What is Networking 
+91. What is Networking
 - Tomghost
 - Dogcat
 - CVE-2022-26923 
@@ -149,6 +149,7 @@ Cryptography for Dummies
 - GoldenEye
 - Dave's Blog
 - Jack of all Trades
+- Ice - **_📛 badge earned_**
 - Jeff 
 - Poster 
 - Toolbox: Vim
@@ -208,6 +209,7 @@ Cryptography for Dummies
 138. Brute Force Heroes {}
 139. Committed {}
 140. Atlas {}
+141. 
 
 
  
