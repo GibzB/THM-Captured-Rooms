@@ -12,4 +12,4 @@
 - Security Awareness badge [badge](https://tryhackme.com/rgibesh/badges/security-awareness).
 - Overpassed badge [badge](https://tryhackme.com/rgibesh/badges/overpass).
 - Investigations badge [badge](https://tryhackme.com/rgibesh/badges/investigations).
-- Ice badge [badge](https://tryhackme.com/rgibesh/badges/investigations](https://tryhackme.com/rgibesh/badges/ice).
+- Ice badge [badge](https://tryhackme.com/rgibesh/badges/ice).
