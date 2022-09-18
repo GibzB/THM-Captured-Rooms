@@ -160,6 +160,7 @@ Cryptography for Dummies
 - Debug
 - RustScan
 - Fowsniff CTF
+- Tony the Tiger
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -209,7 +210,7 @@ Cryptography for Dummies
 138. Brute Force Heroes {}
 139. Committed {}
 140. Atlas {}
-141. Tony the Tiger {}
+141. 
 
 
  
