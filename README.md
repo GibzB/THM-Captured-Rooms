@@ -135,6 +135,7 @@ Cryptography for Dummies
 - Volatility
 - Introduction to Flask
 - Active Directory Basics
+- Aster
 90. Bypass Disable Functions 
 91. What is Networking
 - Tomghost
@@ -212,7 +213,7 @@ Cryptography for Dummies
 139. Committed {}
 140. Atlas {}
 141. ContainMe {}
-142. Aster {}
+142. 
 
 
  
