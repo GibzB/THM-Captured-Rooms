@@ -203,7 +203,7 @@ Cryptography for Dummies
 128. Introduction to Windows API { }
 129. Dear QA { }
 130. Mustacchio { }
-131. Wreath { High-level Overview }
+131. Wreath { Pivoting }
 132. Introduction To Honeypots { }
 133. Dumping Router Firmware { }
 134. Windows PrivEsc { }
