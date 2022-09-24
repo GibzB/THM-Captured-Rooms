@@ -8,6 +8,7 @@ Tracking my room completion progress on TryHackMe
 2. Getting Started
 - JavaScript Basics
 - OpenVPN
+- Learn & win prizes - Fall 2022
 2. c4ptur3-th3-fl4g
 3. Pyramid Of Pain
 4. PrintNightmare
