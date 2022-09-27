@@ -138,6 +138,8 @@ Cryptography for Dummies
 - Introduction to Flask
 - Active Directory Basics
 - Aster
+- WebGoat
+- Android Malware Analysis
 90. Bypass Disable Functions 
 91. What is Networking
 - Tomghost
@@ -198,7 +200,7 @@ Cryptography for Dummies
 120. OWASP Mutillidae II {}
 121. Gotta Catch'em All! { }
 122. CyberHeroes. { }
-123. Android Malware Analysis { }
+123. ISO27001 { }
 124. Cat Pictures { }
 125. SqlMap { }
 126. Daily Bugle { }
