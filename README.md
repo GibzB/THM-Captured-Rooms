@@ -195,6 +195,8 @@ Cryptography for Dummies
 115. Wireshark: The Basics { }
 116. Sudo Security Bypass { Deploy }
 117. Advent of Cyber 1 [2019] { }
+ - Advent of Cyber 2 [2020] {}
+ - Advent of Cyber 3 (2021) {}
 118. Cryptography for Dummies
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
@@ -221,6 +223,9 @@ Cryptography for Dummies
 141. ContainMe {}
 142. Cooctus Stories {}
 143. Cyber Scotland 2021 {}
+144.
+145.
+146. 
 
 
 
