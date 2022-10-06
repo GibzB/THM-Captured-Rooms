@@ -225,7 +225,7 @@ Cryptography for Dummies
 141. ContainMe {}
 142. Cooctus Stories {}
 143. Cyber Scotland 2021 {}
-144. Physical Security Intro {}
+144. Physical Security Intro { Lock Anatomy }
 145. NoSQL injection Basics {}
 146. Phishing: HiddenEye {}
 147. VulnNet: Node {}
