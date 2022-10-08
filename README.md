@@ -172,6 +172,7 @@ Cryptography for Dummies
 - CherryBlossom
 - Intermediate Nmap
 - Physical Security Intro
+- VulnNet: Roasted
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -226,11 +227,12 @@ Cryptography for Dummies
 141. ContainMe {}
 142. Cooctus Stories {}
 143. Cyber Scotland 2021 {}
-144. 
+144. VulnNet: Internal {}
 145. NoSQL injection Basics {}
 146. Phishing: HiddenEye {}
 147. VulnNet: Node {}
-
+148. Madness {}
+149. 
 
 
  
