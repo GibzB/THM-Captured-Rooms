@@ -200,12 +200,12 @@ Cryptography for Dummies
 116. Sudo Security Bypass { Deploy }
 117. Advent of Cyber 1 [2019] { }
  - Advent of Cyber 2 [2020] {}
- - Advent of Cyber 3 (2021) {}
+ - Advent of Cyber 3 (2021) { Christmas Blackout }
 118. Cryptography for Dummies
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
 121. Gotta Catch'em All! { }
-122. CyberHeroes. { }
+122. CyberHeroes { }
 123. ISO27001 { }
 124. Cat Pictures { }
 125. SqlMap { }
