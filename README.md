@@ -200,7 +200,7 @@ Cryptography for Dummies
 115. Wireshark: The Basics { }
 116. Sudo Security Bypass { Deploy }
 117. Advent of Cyber 1 [2019] { }
- - Advent of Cyber 2 [2020] { [Day 1] Web Exploitation A Christmas Crisis }
+ - Advent of Cyber 2 [2020] { [Day 6] Be careful with what you wish on a Christmas night }
  - Advent of Cyber 3 (2021) { Migration Without Security }
 118. Cryptography for Dummies
 119. Hip Flask {}
