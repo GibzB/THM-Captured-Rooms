@@ -201,7 +201,7 @@ Cryptography for Dummies
 116. Sudo Security Bypass { Deploy }
 117. Advent of Cyber 1 [2019] { }
  - Advent of Cyber 2 [2020] { [Day 6] Be careful with what you wish on a Christmas night }
- - Advent of Cyber 3 (2021) { Migration Without Security }
+ - Advent of Cyber 3 (2021) {  [Day 8] Special by John Hammond Santa's Bag of Toys }
 118. Cryptography for Dummies
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
