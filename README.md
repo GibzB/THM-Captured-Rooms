@@ -174,10 +174,11 @@ Cryptography for Dummies
 - Physical Security Intro
 - VulnNet: Roasted
 - Startup
+- Follina MSDT 
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-95. Follina MSDT { CVE-2022-30190 }
+95. Linux Privilege Escalation { }
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
 97. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
 98. Solar, exploiting log4j { Reconnaissance }
