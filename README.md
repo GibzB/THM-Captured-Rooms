@@ -178,6 +178,7 @@ Cryptography for Dummies
 - Solar, exploiting log4j 
 - DFIR: An Introduction
 - Disk Analysis & Autopsy
+- Snort
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
