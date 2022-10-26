@@ -180,6 +180,7 @@ Cryptography for Dummies
 - Disk Analysis & Autopsy
 - Snort
 - Diamond Model
+- Wireshark: The Basics
 - Intro to Cyber Threat Intel
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
@@ -204,7 +205,7 @@ Cryptography for Dummies
 112. How to use TryHackMe { Starting your first machine }
 113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 114. Introduction to OWASP ZAP { Intro to ZAP }
-115. Wireshark: The Basics { }
+115. 
 116. Sudo Security Bypass { Deploy }
 117. Advent of Cyber 1 [2019] { }
  - Advent of Cyber 2 [2020] { [Day 6] Be careful with what you wish on a Christmas night }
