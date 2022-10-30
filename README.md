@@ -206,7 +206,7 @@ Cryptography for Dummies
 112. How to use TryHackMe { Starting your first machine }
 113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 114. Introduction to OWASP ZAP { Intro to ZAP }
-115. 
+115. Redline { Endpoint Investigation }
 116. Sudo Security Bypass { Deploy }
 117. Advent of Cyber 1 [2019] { }
  - Advent of Cyber 2 [2020] { [Day 6] Be careful with what you wish on a Christmas night }
@@ -229,21 +229,21 @@ Cryptography for Dummies
 133. Dumping Router Firmware { }
 134. Windows PrivEsc { }
 135. Blueprint { }
-136. Dig Dug {}
-137. Quotient {}
-138. Brute Force Heroes {}
-139. Committed {}
-140. Atlas {}
-141. ContainMe {}
-142. Cooctus Stories {}
-143. Cyber Scotland 2021 {}
-144. VulnNet: Internal {}
+136. Dig Dug { }
+137. Quotient { }
+138. Brute Force Heroes { }
+139. Committed { }
+140. Atlas { }
+141. ContainMe { }
+142. Cooctus Stories { }
+143. Cyber Scotland 2021 { }
+144. VulnNet: Internal { }
 145. NoSQL injection Basics {}
-146. Phishing: HiddenEye {}
-147. VulnNet: Node {}
-148. Madness {}
-149. Diamond Model {}
-150. Redline {Endpoint Investigation}
+146. Phishing: HiddenEye { }
+147. VulnNet: Node { }
+148. Madness { }
+149. Diamond Model { }
+150. Wazuh { Wazuh Agents }
 
 
 
