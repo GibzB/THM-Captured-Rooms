@@ -245,6 +245,7 @@ Cryptography for Dummies
 149. Diamond Model { }
 150. Wazuh { Wazuh Agents }
 151. OpenVAS { } 
+152. Sakura { }
 
 
  
