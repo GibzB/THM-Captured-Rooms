@@ -183,6 +183,7 @@ Cryptography for Dummies
 - Wireshark: The Basics
 - Intro to Cyber Threat Intel
 - Intro to Endpoint Security
+- Daily Bugle
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -219,7 +220,7 @@ Cryptography for Dummies
 123. ISO27001 { }
 124. Cat Pictures { }
 125. SqlMap { }
-126. Daily Bugle { }
+126. Sakura { }
 127. Mr. Phisher { }
 128. Introduction to Windows API { }
 129. Dear QA { }
@@ -245,7 +246,7 @@ Cryptography for Dummies
 149. Diamond Model { }
 150. Wazuh { Wazuh Agents }
 151. OpenVAS { } 
-152. Sakura { }
+152. 
 
 
  
