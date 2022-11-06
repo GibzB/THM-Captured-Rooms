@@ -186,13 +186,14 @@ Cryptography for Dummies
 - Daily Bugle
 - Looking Glass
 - Wonderland
+- 25 Days of Cyber Security
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 95. Linux Privilege Escalation { Enumeration }
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
 97. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-98. 25 Days of Cyber Security { [Day 20] PowershELlF to the rescue }
+98. 
 99. Pwnkit: CVE-2021-4034 { Background }
 100. Library { }
 101. Polkit: CVE-2021-3560 { Deploy }
