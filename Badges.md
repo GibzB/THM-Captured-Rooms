@@ -14,3 +14,6 @@
 - Investigations badge [badge](https://tryhackme.com/rgibesh/badges/investigations).
 - Ice badge [badge](https://tryhackme.com/rgibesh/badges/ice).
 - CatLinux.txt [badge](https://tryhackme.com/rgibesh/badges/terminaled).
+- Webbed [badge](https://tryhackme.com/rgibesh/badges/web-fund).
+- OhSINT [badge](https://tryhackme.com/rgibesh/badges/ohsint).
+- OWASP Top 10 [badge](https://tryhackme.com/rgibesh/badges/owasp-10).
