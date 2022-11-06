@@ -13,3 +13,4 @@
 - Overpassed badge [badge](https://tryhackme.com/rgibesh/badges/overpass).
 - Investigations badge [badge](https://tryhackme.com/rgibesh/badges/investigations).
 - Ice badge [badge](https://tryhackme.com/rgibesh/badges/ice).
+- CatLinux.txt [badge](https://tryhackme.com/rgibesh/badges/terminaled).
