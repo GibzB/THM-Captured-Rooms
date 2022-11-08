@@ -38,8 +38,8 @@ Cryptography for Dummies
 - Introduction to Antivirus
 - Intro to Defensive Security
 11. Pentesting Fundamentals
-12. Advent of Cyber 
-- 1 [2019] { [Day 11] Elf Applications }
+12. What is Networking
+13. 25 Days of Cyber Security
 14. Red Team Fundamentals
 15. Linux Server Forensics
 - Threat Intelligence Tools
@@ -142,7 +142,7 @@ Cryptography for Dummies
 - WebGoat
 - Android Malware Analysis
 90. Bypass Disable Functions 
-91. What is Networking
+91. 
 - Tomghost
 - Dogcat
 - CVE-2022-26923 
@@ -186,7 +186,7 @@ Cryptography for Dummies
 - Daily Bugle
 - Looking Glass
 - Wonderland
-- 25 Days of Cyber Security
+- 
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -212,7 +212,7 @@ Cryptography for Dummies
 114. Introduction to OWASP ZAP { Intro to ZAP }
 115. Redline { Endpoint Investigation }
 116. Sudo Security Bypass { Deploy }
-117. Advent of Cyber 1 [2019] { }
+117. Advent of Cyber 1 [2019] { [Day 11] Elf Applications }
  - Advent of Cyber 2 [2020] { [Day 6] Be careful with what you wish on a Christmas night }
  - Advent of Cyber 3 (2021) {  [Day 8] Special by John Hammond Santa's Bag of Toys }
 118. Cryptography for Dummies
