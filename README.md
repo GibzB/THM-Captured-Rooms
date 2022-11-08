@@ -39,7 +39,7 @@ Cryptography for Dummies
 - Intro to Defensive Security
 11. Pentesting Fundamentals
 12. Advent of Cyber 
-- 1 [2019] { [Day 3] Evil Elf }
+- 1 [2019] { [Day 11] Elf Applications }
 14. Red Team Fundamentals
 15. Linux Server Forensics
 - Threat Intelligence Tools
