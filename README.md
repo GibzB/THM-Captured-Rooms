@@ -212,7 +212,7 @@ Cryptography for Dummies
 114. Introduction to OWASP ZAP { Intro to ZAP }
 115. Redline { Endpoint Investigation }
 116. Sudo Security Bypass { Deploy }
-117. Advent of Cyber 1 [2019] { [Day 11] Elf Applications }
+117. Advent of Cyber 1 [2019] { [Day 21] Reverse Elf-ineering }
  - Advent of Cyber 2 [2020] { [Day 6] Be careful with what you wish on a Christmas night }
  - Advent of Cyber 3 (2021) {  [Day 8] Special by John Hammond Santa's Bag of Toys }
 118. Cryptography for Dummies
