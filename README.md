@@ -213,7 +213,7 @@ Cryptography for Dummies
 115. Redline { Endpoint Investigation }
 116. Sudo Security Bypass { Deploy }
 117. 
- - Advent of Cyber 2 [2020] { [Day 6] Be careful with what you wish on a Christmas night }
+ - Advent of Cyber 2 [2020] { [Day 9] Networking Anyone can be Santa! }
  - Advent of Cyber 3 (2021) {  [Day 8] Special by John Hammond Santa's Bag of Toys }
 118. Cryptography for Dummies
 119. Hip Flask {}
