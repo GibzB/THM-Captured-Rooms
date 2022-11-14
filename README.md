@@ -91,6 +91,7 @@ Cryptography for Dummies
 - Confidential
 - Introduction to Windows API
 - Introduction to OWASP ZAP
+- Wgel CTF
 53. Kiba
 54. Nessus
 55. Ignite 
