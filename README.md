@@ -146,6 +146,7 @@ Cryptography for Dummies
 90. Bypass Disable Functions 
 91. CTF collection Vol.1
 - CTF collection Vol.2
+- NerdHerd 
 - Tomghost
 - Dogcat
 - CVE-2022-26923 
