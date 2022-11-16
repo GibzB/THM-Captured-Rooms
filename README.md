@@ -193,6 +193,7 @@ Tracking my room completion progress on TryHackMe
 - Advent of Cyber 1 [2019] **_📛 badge earned_**
 - Brooklyn Nine Nine
 - Year of the Rabbit
+- Lian_Yu
 - Starting Out In Cyber Sec
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
