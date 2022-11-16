@@ -9,13 +9,13 @@ Tracking my room completion progress on TryHackMe
 - JavaScript Basics
 - OpenVPN
 - Learn & win prizes - Fall 2022
+
 2. c4ptur3-th3-fl4g
 3. Pyramid Of Pain
 4. PrintNightmare
-Cryptography for Dummies
-5. Starting Out In Cyber Sec
+5. Cryptography for Dummies
 6. Intro to Digital Forensics
-7. Linux Fundamentals 
+7. Linux Fundamentals
 - Part 1
 - Part 2
 - Part 3
@@ -192,13 +192,15 @@ Cryptography for Dummies
 - Wonderland
 - Advent of Cyber 1 [2019] **_📛 badge earned_**
 - Brooklyn Nine Nine
+- Year of the Rabbit
+- Starting Out In Cyber Sec
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 95. Linux Privilege Escalation { Enumeration }
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
 97. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
-98. 
+98. Wazuh { Wazuh Agents }
 99. Pwnkit: CVE-2021-4034 { Background }
 100. Library { }
 101. Polkit: CVE-2021-3560 { Deploy }
@@ -217,13 +219,13 @@ Cryptography for Dummies
 114. Introduction to OWASP ZAP { Intro to ZAP }
 115. Redline { Endpoint Investigation }
 116. Sudo Security Bypass { Deploy }
-117. 
+117. OpenVAS { } 
  - Advent of Cyber 2 [2020] { [Day 9] Networking Anyone can be Santa! }
  - Advent of Cyber 3 (2021) {  [Day 8] Special by John Hammond Santa's Bag of Toys }
 118. Cryptography for Dummies
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
-121. 
+121. Diamond Model { }
 122. CyberHeroes { }
 123. ISO27001 { }
 124. Cat Pictures { }
@@ -251,9 +253,9 @@ Cryptography for Dummies
 146. Phishing: HiddenEye { }
 147. VulnNet: Node { }
 148. Madness { }
-149. Diamond Model { }
-150. Wazuh { Wazuh Agents }
-151. OpenVAS { } 
+149. 
+150. 
+151. 
 152. 
 
 
