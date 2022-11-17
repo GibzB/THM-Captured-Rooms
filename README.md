@@ -195,6 +195,7 @@ Tracking my room completion progress on TryHackMe
 - Year of the Rabbit
 - Lian_Yu
 - Starting Out In Cyber Sec
+- Break Out The Cage
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
