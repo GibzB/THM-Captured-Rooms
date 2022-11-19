@@ -198,6 +198,8 @@ Tracking my room completion progress on TryHackMe
 - Break Out The Cage
 - DAV
 - Retro
+- AttackerKB
+- Blog
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
