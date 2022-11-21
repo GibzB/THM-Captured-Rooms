@@ -202,6 +202,7 @@ Tracking my room completion progress on TryHackMe
 - Blog
 - Madness
 - Team
+- Library
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -210,7 +211,7 @@ Tracking my room completion progress on TryHackMe
 97. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
 98. Wazuh { Wazuh Agents }
 99. Pwnkit: CVE-2021-4034 { Background }
-100. Library { }
+100. 
 101. Polkit: CVE-2021-3560 { Deploy }
 102. Investigating Windows 3.x { }
 103. SQL Injection Lab { }
