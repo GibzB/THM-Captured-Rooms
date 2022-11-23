@@ -206,10 +206,11 @@ Tracking my room completion progress on TryHackMe
 - Thompson
 - VulnNet: Internal 
 - Traffic Analysis Essentials
+- Linux Privilege Escalation 
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-95. Linux Privilege Escalation { Enumeration }
+95. 
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
 97. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
 98. Wazuh { Wazuh Agents }
