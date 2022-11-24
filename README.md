@@ -219,7 +219,7 @@ Tracking my room completion progress on TryHackMe
 101. Polkit: CVE-2021-3560 { Deploy }
 102. Investigating Windows 3.x { }
 103. SQL Injection Lab { }
-104. REmux The Tmux { Intro }
+104. REmux The Tmux { Manage tmux "Windows" }
 105. Nax {  }
 106. Aratus { Get both flags }
 107. Sudo Buffer Overflow { Buffer Overflow }
