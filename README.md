@@ -6,6 +6,7 @@ Tracking my room completion progress on TryHackMe
 
 1. Welcome 
 2. Getting Started
+- How to use TryHackMe
 - JavaScript Basics
 - OpenVPN
 - Learn & win prizes - Fall 2022
@@ -230,7 +231,7 @@ Tracking my room completion progress on TryHackMe
 109. Attacktive Directory { Setup }
 110. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
 111. Linux PrivEsc Arena { }
-112. How to use TryHackMe { Starting your first machine }
+112. 
 113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 114. Introduction to OWASP ZAP { Intro to ZAP }
 115. Redline { Endpoint Investigation }
@@ -268,8 +269,8 @@ Tracking my room completion progress on TryHackMe
 145. NoSQL injection Basics {}
 146. Phishing: HiddenEye { }
 147. VulnNet: Node { }
-148. 
-149. 
+148. ColddBox: Easy { }
+149. Reversing ELF
 150. 
 151. 
 152. 
