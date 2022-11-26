@@ -274,6 +274,7 @@ Tracking my room completion progress on TryHackMe
 150. Git and Crumpets { }
 151. VulnNet: Active { }
 152. Unstable Twin { }
+153. Tokyo Ghoul { }
 
 
  
