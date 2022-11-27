@@ -231,7 +231,7 @@ Tracking my room completion progress on TryHackMe
 109. Attacktive Directory { Setup }
 110. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
 111. Linux PrivEsc Arena { }
-112. 
+112. Searchlight - IMINT { Coffee and a light lunch }
 113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 114. Introduction to OWASP ZAP { Intro to ZAP }
 115. Redline { Endpoint Investigation }
@@ -274,7 +274,7 @@ Tracking my room completion progress on TryHackMe
 150. Git and Crumpets { }
 151. VulnNet: Active { }
 152. Unstable Twin { }
-153. 
+153. UltraTech { }
 
 
  
