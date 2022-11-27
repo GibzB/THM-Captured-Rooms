@@ -210,7 +210,7 @@ Tracking my room completion progress on TryHackMe
 - Linux Privilege Escalation 
 - Blueprint
 - Smag Grotto
-- 
+- Tokyo Ghoul 
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -274,7 +274,7 @@ Tracking my room completion progress on TryHackMe
 150. Git and Crumpets { }
 151. VulnNet: Active { }
 152. Unstable Twin { }
-153. Tokyo Ghoul { }
+153. 
 
 
  
