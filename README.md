@@ -211,6 +211,8 @@ Tracking my room completion progress on TryHackMe
 - Blueprint
 - Smag Grotto
 - Tokyo Ghoul 
+- ISO27001 
+- Neighbour 
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -244,7 +246,7 @@ Tracking my room completion progress on TryHackMe
 120. OWASP Mutillidae II {}
 121. Diamond Model { }
 122. CyberHeroes { }
-123. ISO27001 { }
+123. 
 124. Cat Pictures { }
 125. SqlMap { }
 126. Sakura { }
@@ -274,7 +276,9 @@ Tracking my room completion progress on TryHackMe
 150. Git and Crumpets { }
 151. VulnNet: Active { }
 152. Unstable Twin { }
-153. UltraTech { }
+153. UltraTech { } 
+154. Intro PoC Scripting 
+155. Intro PoC Scripting
 
 
  
