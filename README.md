@@ -214,7 +214,8 @@ Tracking my room completion progress on TryHackMe
 - ISO27001 
 - Neighbour 
 - 0x41haz 
-- Dig Dug
+- Dig Dug 
+- CyberHeroes
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -247,7 +248,7 @@ Tracking my room completion progress on TryHackMe
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
 121. Diamond Model { }
-122. CyberHeroes { }
+122. Intro PoC Scripting { }
 123. Unstable Twin { }
 124. Cat Pictures { }
 125. SqlMap { }
@@ -277,7 +278,7 @@ Tracking my room completion progress on TryHackMe
 149. Reversing ELF
 150. Git and Crumpets { }
 151. VulnNet: Active { }
-152. Intro PoC Scripting { }
+152. 
 153. 
 154. 
 155. 
