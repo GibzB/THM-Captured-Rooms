@@ -257,7 +257,7 @@ Tracking my room completion progress on TryHackMe
 128. Introduction to Windows API { }
 129. Dear QA { }
 130. Mustacchio { }
-131. Wreath { Pivoting }
+131. Wreath { Task 40  AV Evasion PHP Payload Obfuscation }
 132. Introduction To Honeypots { }
 133. Dumping Router Firmware { }
 134. Windows PrivEsc { }
