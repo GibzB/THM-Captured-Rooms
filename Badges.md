@@ -18,3 +18,4 @@
 - OhSINT [badge](https://tryhackme.com/rgibesh/badges/ohsint).
 - OWASP Top 10 [badge](https://tryhackme.com/rgibesh/badges/owasp-10).
 - Christmas 2019 [badge](https://tryhackme.com/rgibesh/badges/christmas2019).
+- Wreath [badge](https://tryhackme.com/rgibesh/badges/wreath).
