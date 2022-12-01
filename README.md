@@ -215,7 +215,9 @@ Tracking my room completion progress on TryHackMe
 - Neighbour 
 - 0x41haz 
 - Dig Dug 
-- CyberHeroes
+- CyberHeroes 
+- Wreath 
+- Intro to Containerisation 
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -257,7 +259,7 @@ Tracking my room completion progress on TryHackMe
 128. Introduction to Windows API { }
 129. Dear QA { }
 130. Mustacchio { }
-131. Wreath { Task 40  AV Evasion PHP Payload Obfuscation }
+131. 
 132. Introduction To Honeypots { }
 133. Dumping Router Firmware { }
 134. Windows PrivEsc { }
@@ -278,7 +280,7 @@ Tracking my room completion progress on TryHackMe
 149. Reversing ELF
 150. Git and Crumpets { }
 151. VulnNet: Active { }
-152. Intro to Containerisation { }
+152. 
 153. 
 154. 
 155. 
