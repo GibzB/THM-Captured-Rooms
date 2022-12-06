@@ -286,7 +286,7 @@ Tracking my room completion progress on TryHackMe
 149. Reversing ELF
 150. Gallery { }
 151. Juicy Details { }
-152. 
+152. Psycho Break { }
 153. 
 154. 
 155. 
