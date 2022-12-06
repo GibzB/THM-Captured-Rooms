@@ -287,7 +287,7 @@ Tracking my room completion progress on TryHackMe
 150. Gallery { }
 151. Juicy Details { }
 152. Psycho Break { }
-153. 
+153. GLITCH { }
 154. 
 155. 
 
