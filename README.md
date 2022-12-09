@@ -288,7 +288,7 @@ Tracking my room completion progress on TryHackMe
 151. Juicy Details { }
 152. Psycho Break { }
 153. GLITCH { }
-154. Advent of Cyber 2022 { Task 8  [Day 3] OSINT Nothing escapes detective McRed }
+154. Advent of Cyber 2022 {  [Day 7] CyberChef Maldocs roasting on an open fire }
 155. 
 
 
