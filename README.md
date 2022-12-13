@@ -251,7 +251,7 @@ Tracking my room completion progress on TryHackMe
 116. Sudo Security Bypass { Deploy }
 117. OpenVAS { } 
  - Advent of Cyber 2 [2020] { [Day 9] Networking Anyone can be Santa! }
- - Advent of Cyber 3 (2021) { [Day 9] Networking Where Is All This Data Going }
+ - Advent of Cyber 3 (2021) {  [Day 11] Networking Where Are The Reindeers? }
 118. Cryptography for Dummies
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
