@@ -197,6 +197,7 @@ Tracking my room completion progress on TryHackMe
 - Lian_Yu
 - Starting Out In Cyber Sec
 - Break Out The Cage
+- OWASP Mutillidae II
 - DAV
 - Retro
 - AttackerKB
