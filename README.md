@@ -224,6 +224,7 @@ Tracking my room completion progress on TryHackMe
 - Memory Forensics 
 - Bookstore
 - WebOSINT
+- Kali Machine
 - Mindgames
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
