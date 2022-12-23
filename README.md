@@ -253,7 +253,7 @@ Tracking my room completion progress on TryHackMe
 116. Sudo Security Bypass { Deploy }
 117. OpenVAS { } 
  - Advent of Cyber 2 [2020] { [Day 9] Networking Anyone can be Santa! }
- - Advent of Cyber 3 (2021) {  [[Day 20] Blue Teaming What's the Worst That Could Happen? }
+ - Advent of Cyber 3 (2021) {   [Day 23] Blue Teaming PowershELlF Magic }
 118. Cryptography for Dummies
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
