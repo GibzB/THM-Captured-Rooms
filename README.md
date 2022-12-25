@@ -290,7 +290,7 @@ Tracking my room completion progress on TryHackMe
 151. Juicy Details { }
 152. Psycho Break { }
 153. GLITCH { }
-154. Advent of Cyber 2022 {  [Day 9] Pivoting Dock the halls }
+154. Advent of Cyber 2022 { [Day 10] Hack a game You're a mean one, Mr. Yeti }
 155. Introduction to SIEM { }
 
 
