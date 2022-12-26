@@ -193,6 +193,7 @@ Tracking my room completion progress on TryHackMe
 - Looking Glass
 - Wonderland
 - Advent of Cyber 1 [2019] **_📛 badge earned_**
+- Advent of Cyber 4 [2022] **_📛 badge earned_**
 - Brooklyn Nine Nine
 - Year of the Rabbit
 - Lian_Yu
@@ -227,6 +228,7 @@ Tracking my room completion progress on TryHackMe
 - WebOSINT
 - Kali Machine
 - Mindgames
+- 
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -291,7 +293,7 @@ Tracking my room completion progress on TryHackMe
 151. Juicy Details { }
 152. Psycho Break { }
 153. GLITCH { }
-154. Advent of Cyber 2022 { [Day 10] Hack a game You're a mean one, Mr. Yeti }
+154. 
 155. Introduction to SIEM { }
 
 
