@@ -144,6 +144,7 @@ Tracking my room completion progress on TryHackMe
 - WebGoat
 - Android Malware Analysis
 - Gotta Catch'em All! 
+- Introduction to SIEM 
 90. Bypass Disable Functions 
 91. CTF collection Vol.1
 - CTF collection Vol.2
