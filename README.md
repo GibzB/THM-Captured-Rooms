@@ -193,7 +193,9 @@ Tracking my room completion progress on TryHackMe
 - Looking Glass
 - Wonderland
 - Advent of Cyber 1 [2019] **_📛 badge earned_**
+- Advent of Cyber 3 (2021) **_📛 badge earned_**
 - Advent of Cyber 4 [2022] **_📛 badge earned_**
+- Introduction to SIEM
 - Brooklyn Nine Nine
 - Year of the Rabbit
 - Lian_Yu
@@ -256,7 +258,6 @@ Tracking my room completion progress on TryHackMe
 116. Sudo Security Bypass { Deploy }
 117. OpenVAS { } 
  - Advent of Cyber 2 [2020] { [Day 9] Networking Anyone can be Santa! }
- - Advent of Cyber 3 (2021) { [Day 24] Post Exploitation Learning From The Grinch }
 118. Cryptography for Dummies
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
@@ -294,7 +295,7 @@ Tracking my room completion progress on TryHackMe
 152. Psycho Break { }
 153. GLITCH { }
 154. 
-155. Introduction to SIEM { }
+155. 
 
 
  
