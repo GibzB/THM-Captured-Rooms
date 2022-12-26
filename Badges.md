@@ -20,3 +20,4 @@
 - Christmas 2019 [badge](https://tryhackme.com/rgibesh/badges/christmas2019).
 - Wreath [badge](https://tryhackme.com/rgibesh/badges/wreath).
 - Advent of Cyber 3 [badge](https://tryhackme.com/rgibesh/badges/adventofcyber3).
+- Advent of Cyber 4 [badge](https://tryhackme.com/rgibesh/badges/adventofcyber4)
