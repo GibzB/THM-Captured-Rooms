@@ -257,7 +257,7 @@ Tracking my room completion progress on TryHackMe
 115. Redline { Endpoint Investigation }
 116. Sudo Security Bypass { Deploy }
 117. OpenVAS { } 
- - Advent of Cyber 2 [2020] { [Day 15] Scripting There's a Python in my stocking! }
+ - Advent of Cyber 2 [2020] { [Day 23] Blue Teaming The Grinch strikes again! }
 118. Cryptography for Dummies
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
