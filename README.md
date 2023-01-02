@@ -295,7 +295,7 @@ Tracking my room completion progress on TryHackMe
 151. Juicy Details { }
 152. Psycho Break { }
 153. GLITCH { }
-154. 
+154. Mobile Malware Analysis { }
 155. 
 
 
