@@ -297,7 +297,7 @@ Tracking my room completion progress on TryHackMe
 152. Psycho Break { }
 153. GLITCH { }
 154. Mobile Malware Analysis { }
-155. 
+155. Wekor { }
 
 
  
