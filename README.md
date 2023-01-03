@@ -233,6 +233,9 @@ Tracking my room completion progress on TryHackMe
 - Mindgames
 - DNS Manipulation
 - The Great Escape
+- Sustah 
+- Sudo Buffer Overflow 
+- 
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -248,7 +251,7 @@ Tracking my room completion progress on TryHackMe
 104. REmux The Tmux { Manage tmux "Windows" }
 105. Nax {  }
 106. Aratus { Get both flags }
-107. Sudo Buffer Overflow { Buffer Overflow }
+107. 
 108. VulnNet: Active { }
 109. Attacktive Directory { Setup }
 110. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
