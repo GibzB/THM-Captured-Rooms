@@ -259,7 +259,6 @@ Tracking my room completion progress on TryHackMe
 115. Redline { Endpoint Investigation }
 116. Sudo Security Bypass { Deploy }
 117. OpenVAS { } 
- 
 118. Cryptography for Dummies
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
@@ -298,6 +297,7 @@ Tracking my room completion progress on TryHackMe
 153. GLITCH { }
 154. Mobile Malware Analysis { }
 155. Wekor { }
+156. Linux Agency { mission 6 flag }
 
 
  
