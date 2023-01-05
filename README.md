@@ -305,6 +305,7 @@ Tracking my room completion progress on TryHackMe
 158. Windows PrivEsc Arena { Task 12  Password Mining Escalation - Configuration Files }
 159. Windows x64 Assembly { Number Systems }
 160. NahamStore { Task 2  Setup }
+170. SSTI { Setup }
 
  
 
