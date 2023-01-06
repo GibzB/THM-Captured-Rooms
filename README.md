@@ -307,7 +307,9 @@ Tracking my room completion progress on TryHackMe
 159. Windows x64 Assembly { Number Systems }
 160. NahamStore { Task 2  Setup }
 170. SSTI { Setup }
-
+171. One Piece { }
+172. Red Stone One Carat { }
+173. DLL HIJACKING { Task 7  System Check }
  
 
 
