@@ -236,7 +236,7 @@ Tracking my room completion progress on TryHackMe
 - Sustah 
 - Sudo Buffer Overflow 
 - CMesS 
-- 
+- KoTH Food CTF
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
