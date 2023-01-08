@@ -301,7 +301,7 @@ Tracking my room completion progress on TryHackMe
 153. GLITCH { }
 154. Mobile Malware Analysis { }
 155. Wekor { }
-156. Linux Agency { mission 6 flag }
+156. Linux Agency { Task 3  Linux Fundamentals}
 157. Couch { }
 158. Windows PrivEsc Arena { Task 12  Password Mining Escalation - Configuration Files }
 159. Windows x64 Assembly { Number Systems }
