@@ -312,6 +312,7 @@ Tracking my room completion progress on TryHackMe
 173. DLL HIJACKING { Task 7  System Check }
 174. Crack The Hash Level 2 { }
 175. JVM Reverse Engineering { }
+176. pyLon { }
  
 
 
