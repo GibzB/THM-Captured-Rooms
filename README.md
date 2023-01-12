@@ -304,7 +304,7 @@ Tracking my room completion progress on TryHackMe
 156. Linux Agency { Task 3  Linux Fundamentals}
 157. Couch { }
 158. Windows PrivEsc Arena { Task 12  Password Mining Escalation - Configuration Files }
-159. Windows x64 Assembly { Number Systems }
+159. Windows x64 Assembly { Task 6  Instructions }
 160. NahamStore { Task 2  Setup }
 170. SSTI { Setup }
 171. One Piece { }
