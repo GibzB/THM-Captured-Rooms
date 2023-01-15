@@ -306,7 +306,7 @@ Tracking my room completion progress on TryHackMe
 157. Couch { }
 158. Windows PrivEsc Arena { Task 12  Password Mining Escalation - Configuration Files }
 159. Windows x64 Assembly { Task 6  Instructions }
-160. NahamStore { Task 2  Setup }
+160. NahamStore { Task 8  Local File Inclusion }
 170. SSTI { Setup }
 171. One Piece { }
 172. Red Stone One Carat { }
