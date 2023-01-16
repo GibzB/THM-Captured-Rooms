@@ -317,6 +317,7 @@ Tracking my room completion progress on TryHackMe
 176. pyLon { }
 177. Enterprise { Task 2  Flag Submission Panel } 
 178. SigHunt { }
+179. CMSpit { Task 1  Ready Set Go }
  
 
 
