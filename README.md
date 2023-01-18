@@ -240,6 +240,7 @@ Tracking my room completion progress on TryHackMe
 - Madeye’s Castle
 - Brainpan 1 
 - Inferno 
+- NoSQL injection Basics
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -293,7 +294,7 @@ Tracking my room completion progress on TryHackMe
 142. Cooctus Stories { }
 143. Cyber Scotland 2021 { }
 144. OverlayFS - CVE-2021-3493 { }
-145. NoSQL injection Basics {}
+145. CMSpit { Task 1  Ready Set Go }
 146. Phishing: HiddenEye { }
 147. VulnNet: Node { }
 148. ColddBox: Easy { }
@@ -318,7 +319,7 @@ Tracking my room completion progress on TryHackMe
 176. pyLon { }
 177. Enterprise { Task 2  Flag Submission Panel } 
 178. SigHunt { }
-179. CMSpit { Task 1  Ready Set Go }
+179. 
  
 
 
