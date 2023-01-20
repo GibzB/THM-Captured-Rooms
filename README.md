@@ -321,6 +321,7 @@ Tracking my room completion progress on TryHackMe
 177. Enterprise { Task 2  Flag Submission Panel } 
 178. SigHunt { }
 179. Year of the Fox { Task 1  Hack the machine and obtain the flags }
+180. Wordpress: CVE-2021-29447 { Task 2  Ready Set Go }
  
 
 
