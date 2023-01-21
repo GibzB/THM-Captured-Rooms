@@ -243,6 +243,7 @@ Tracking my room completion progress on TryHackMe
 - NoSQL injection Basics
 - Attacking ICS Plant #1
 - Ninja Skills
+- Buffer Overflow Prep
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -261,7 +262,7 @@ Tracking my room completion progress on TryHackMe
 107. L2 MAC Flooding & ARP Spoofing { }
 108. VulnNet: Active { }
 109. Attacktive Directory { Setup }
-110. Buffer Overflow Prep { oscp.exe - OVERFLOW1 }
+110. Wordpress: CVE-2021-29447 { Task 2  Ready Set Go }
 111. Linux PrivEsc Arena { }
 112. Searchlight - IMINT { Coffee and a light lunch }
 113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
@@ -322,7 +323,7 @@ Tracking my room completion progress on TryHackMe
 177. Enterprise { Task 2  Flag Submission Panel } 
 178. SigHunt { }
 179. Year of the Fox { Task 1  Hack the machine and obtain the flags }
-180. Wordpress: CVE-2021-29447 { Task 2  Ready Set Go }
+180. 
  
 
 
