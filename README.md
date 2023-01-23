@@ -325,6 +325,7 @@ Tracking my room completion progress on TryHackMe
 178. SigHunt { }
 179. Tempest { } 
 180. Dissecting PE Headers { Task 2  Overview of PE headers }
+181. New Hire Old Artifacts { }
  
 
 
