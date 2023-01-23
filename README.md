@@ -324,7 +324,7 @@ Tracking my room completion progress on TryHackMe
 177. Enterprise { Task 2  Flag Submission Panel } 
 178. SigHunt { }
 179. Tempest { } 
-180. 
+180. Dissecting PE Headers { Task 2  Overview of PE headers }
  
 
 
