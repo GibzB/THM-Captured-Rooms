@@ -246,7 +246,8 @@ Tracking my room completion progress on TryHackMe
 - Buffer Overflow Prep
 - UltraTech 
 - HaskHell 
-- Gatekeeper
+- Gatekeeper 
+- REmux The Tmux
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -259,7 +260,7 @@ Tracking my room completion progress on TryHackMe
 101. Polkit: CVE-2021-3560 { Deploy }
 102. Investigating Windows 3.x { }
 103. SQL Injection Lab { }
-104. REmux The Tmux { Manage tmux "Windows" }
+104. New Hire Old Artifacts { }
 105. Nax {  }
 106. Aratus { Get both flags }
 107. L2 MAC Flooding & ARP Spoofing { }
@@ -327,7 +328,7 @@ Tracking my room completion progress on TryHackMe
 178. SigHunt { }
 179. Tempest { } 
 180. Dissecting PE Headers { Task 2  Overview of PE headers }
-181. New Hire Old Artifacts { }
+181. 
  
 
 
