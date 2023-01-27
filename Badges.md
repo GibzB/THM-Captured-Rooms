@@ -21,3 +21,4 @@
 - Wreath [badge](https://tryhackme.com/rgibesh/badges/wreath).
 - Advent of Cyber 3 [badge](https://tryhackme.com/rgibesh/badges/adventofcyber3).
 - Advent of Cyber 4 [badge](https://tryhackme.com/rgibesh/badges/adventofcyber4)
+- Linux PrivEsc [badge](https://tryhackme.com/rgibesh/badges/linux-privesc)
