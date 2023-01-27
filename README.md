@@ -248,6 +248,7 @@ Tracking my room completion progress on TryHackMe
 - HaskHell 
 - Gatekeeper 
 - REmux The Tmux
+- Linux PrivEsc Arena **_📛 badge earned_**
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -267,7 +268,7 @@ Tracking my room completion progress on TryHackMe
 108. VulnNet: Active { }
 109. Attacktive Directory { Setup }
 110. Wordpress: CVE-2021-29447 { Task 2  Ready Set Go }
-111. Linux PrivEsc Arena { }
+111. Dissecting PE Headers { Task 2  Overview of PE headers }
 112. Searchlight - IMINT { Coffee and a light lunch }
 113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 114. Introduction to OWASP ZAP { Intro to ZAP }
@@ -327,7 +328,7 @@ Tracking my room completion progress on TryHackMe
 177. Enterprise { Task 2  Flag Submission Panel } 
 178. SigHunt { }
 179. Tempest { } 
-180. Dissecting PE Headers { Task 2  Overview of PE headers }
+180. 
 181. 
  
 
