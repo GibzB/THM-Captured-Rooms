@@ -251,6 +251,7 @@ Tracking my room completion progress on TryHackMe
 - Linux PrivEsc Arena **_📛 badge earned_**
 - Ra 
 - Reversing ELF
+- Psycho Break
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -311,7 +312,7 @@ Tracking my room completion progress on TryHackMe
 149. Tempest { }
 150. Gallery { }
 151. Juicy Details { }
-152. Psycho Break { }
+152. SigHunt { }
 153. GLITCH { }
 154. Mobile Malware Analysis { }
 155. Wekor { }
@@ -328,7 +329,7 @@ Tracking my room completion progress on TryHackMe
 175. JVM Reverse Engineering { }
 176. pyLon { }
 177. Enterprise { Task 2  Flag Submission Panel } 
-178. SigHunt { }
+178. 
 179.  
 180. 
 181. 
