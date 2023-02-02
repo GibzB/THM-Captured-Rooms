@@ -255,6 +255,7 @@ Tracking my room completion progress on TryHackMe
 - Musical Stego
 - Cicada-3301 Vol:1
 - Sudo Security Bypass
+- HA Joker CTF
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -279,7 +280,7 @@ Tracking my room completion progress on TryHackMe
 113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 114. Introduction to OWASP ZAP { Intro to ZAP }
 115. Redline { Endpoint Investigation }
-116. 
+116. Enterprise { Task 2  Flag Submission Panel }
 117. OpenVAS { } 
 118. Cryptography for Dummies
 119. Hip Flask {}
@@ -331,7 +332,7 @@ Tracking my room completion progress on TryHackMe
 174. Crack The Hash Level 2 { }
 175. JVM Reverse Engineering { }
 176. pyLon { }
-177. Enterprise { Task 2  Flag Submission Panel } 
+177.  
 178. 
 179.  
 180. 
