@@ -254,6 +254,7 @@ Tracking my room completion progress on TryHackMe
 - Psycho Break
 - Musical Stego
 - Cicada-3301 Vol:1
+- Sudo Security Bypass
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -278,7 +279,7 @@ Tracking my room completion progress on TryHackMe
 113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 114. Introduction to OWASP ZAP { Intro to ZAP }
 115. Redline { Endpoint Investigation }
-116. Sudo Security Bypass { Deploy }
+116. 
 117. OpenVAS { } 
 118. Cryptography for Dummies
 119. Hip Flask {}
