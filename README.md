@@ -256,6 +256,8 @@ Tracking my room completion progress on TryHackMe
 - Cicada-3301 Vol:1
 - Sudo Security Bypass
 - HA Joker CTF
+- Develpy 
+- One Piece
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -326,7 +328,7 @@ Tracking my room completion progress on TryHackMe
 159. Windows x64 Assembly { Task 6  Instructions }
 160. NahamStore { Task 8  Local File Inclusion }
 170. SSTI { Setup }
-171. One Piece { }
+171. 
 172. Red Stone One Carat { }
 173. DLL HIJACKING { Task 7  System Check }
 174. Crack The Hash Level 2 { }
