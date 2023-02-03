@@ -328,12 +328,12 @@ Tracking my room completion progress on TryHackMe
 159. Windows x64 Assembly { Task 6  Instructions }
 160. NahamStore { Task 8  Local File Inclusion }
 170. SSTI { Setup }
-171. 
+171. pyLon { }
 172. Red Stone One Carat { }
 173. DLL HIJACKING { Task 7  System Check }
 174. Crack The Hash Level 2 { }
 175. JVM Reverse Engineering { }
-176. pyLon { }
+176. 
 177.  
 178. 
 179.  
