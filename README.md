@@ -258,6 +258,8 @@ Tracking my room completion progress on TryHackMe
 - HA Joker CTF
 - Develpy 
 - One Piece
+- 0day
+- Recovery
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
