@@ -342,7 +342,7 @@ Tracking my room completion progress on TryHackMe
 175. JVM Reverse Engineering { }
 176. Eavesdropper { Task 2  Find the Flag }
 177. Intro to Pipeline Automation { Task 6  Continuous Integration and Delivery }
-178. 
+178. Introduction to Cryptography { }
 179.  
 180. 
 181. 
