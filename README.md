@@ -267,6 +267,7 @@ Tracking my room completion progress on TryHackMe
 - Revenge
 - For Business Reasons
 - ffuf
+- OpenVAS 
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -292,7 +293,7 @@ Tracking my room completion progress on TryHackMe
 114. Introduction to OWASP ZAP { Intro to ZAP }
 115. Redline { Endpoint Investigation }
 116. Enterprise { Task 2  Flag Submission Panel }
-117. OpenVAS { } 
+117. Introduction to Cryptography { }
 118. Cryptography for Dummies
 119. Hip Flask {}
 120. OWASP Mutillidae II {}
@@ -344,7 +345,7 @@ Tracking my room completion progress on TryHackMe
 175. JVM Reverse Engineering { }
 176. Eavesdropper { Task 2  Find the Flag }
 177. Intro to Pipeline Automation { Task 6  Continuous Integration and Delivery }
-178. Introduction to Cryptography { }
+178. 
 179.  
 180. 
 181. 
