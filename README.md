@@ -268,6 +268,7 @@ Tracking my room completion progress on TryHackMe
 - For Business Reasons
 - ffuf
 - OpenVAS 
+- Sakura
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -302,7 +303,7 @@ Tracking my room completion progress on TryHackMe
 123. Unstable Twin { }
 124. Cat Pictures { }
 125. SqlMap { }
-126. Sakura { }
+126. 
 127. Mr. Phisher { }
 128. Introduction to Windows API { }
 129. Dear QA { }
