@@ -269,10 +269,11 @@ Tracking my room completion progress on TryHackMe
 - ffuf
 - OpenVAS 
 - Sakura
+- Searchlight - IMINT
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
-95. Searchlight - IMINT { }
+95. JVM Reverse Engineering { }
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
 97. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
 98. Wazuh { Wazuh Agents }
@@ -289,7 +290,7 @@ Tracking my room completion progress on TryHackMe
 109. Attacktive Directory { Setup }
 110. Wordpress: CVE-2021-29447 { Task 2  Ready Set Go }
 111. Dissecting PE Headers { Task 2  Overview of PE headers }
-112. Searchlight - IMINT { Coffee and a light lunch }
+112. Eavesdropper { Task 2  Find the Flag }
 113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
 114. Introduction to OWASP ZAP { Intro to ZAP }
 115. Redline { Endpoint Investigation }
@@ -303,7 +304,7 @@ Tracking my room completion progress on TryHackMe
 123. Unstable Twin { }
 124. Cat Pictures { }
 125. SqlMap { }
-126. 
+126. Intro to Pipeline Automation { Task 6  Continuous Integration and Delivery }
 127. Mr. Phisher { }
 128. Introduction to Windows API { }
 129. Dear QA { }
@@ -343,9 +344,9 @@ Tracking my room completion progress on TryHackMe
 172. Red Stone One Carat { }
 173. DLL HIJACKING { Task 7  System Check }
 174. Crack The Hash Level 2 { }
-175. JVM Reverse Engineering { }
-176. Eavesdropper { Task 2  Find the Flag }
-177. Intro to Pipeline Automation { Task 6  Continuous Integration and Delivery }
+175. 
+176. 
+177. 
 178. 
 179.  
 180. 
