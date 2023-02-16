@@ -271,6 +271,7 @@ Tracking my room completion progress on TryHackMe
 - Sakura
 - Searchlight - IMINT
 - Mr. Phisher
+- SQL Injection Lab
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -282,7 +283,7 @@ Tracking my room completion progress on TryHackMe
 100. Madness { }
 101. Polkit: CVE-2021-3560 { Deploy }
 102. Investigating Windows 3.x { }
-103. SQL Injection Lab { }
+103. DLL HIJACKING { Task 7  System Check }
 104. New Hire Old Artifacts { }
 105. Nax {  }
 106. Aratus { Get both flags }
@@ -343,7 +344,7 @@ Tracking my room completion progress on TryHackMe
 170. SSTI { Setup }
 171. pyLon { }
 172. Red Stone One Carat { }
-173. DLL HIJACKING { Task 7  System Check }
+173. 
 174. 
 175. 
 176. 
