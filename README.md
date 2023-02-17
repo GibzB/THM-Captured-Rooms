@@ -272,6 +272,7 @@ Tracking my room completion progress on TryHackMe
 - Searchlight - IMINT
 - Mr. Phisher
 - SQL Injection Lab
+- b3dr0ck
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -344,7 +345,7 @@ Tracking my room completion progress on TryHackMe
 170. SSTI { Setup }
 171. pyLon { }
 172. Red Stone One Carat { }
-173. 
+173. MAL: Researching { Task 3  Checksums 101 }
 174. 
 175. 
 176. 
