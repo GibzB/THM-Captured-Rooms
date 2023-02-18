@@ -273,6 +273,7 @@ Tracking my room completion progress on TryHackMe
 - Mr. Phisher
 - SQL Injection Lab
 - b3dr0ck
+- Crack The Hash Level 2 
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -308,7 +309,7 @@ Tracking my room completion progress on TryHackMe
 124. Cat Pictures { }
 125. SqlMap { }
 126. Intro to Pipeline Automation { Task 6  Continuous Integration and Delivery }
-127. Crack The Hash Level 2 { }
+127. 
 128. Introduction to Windows API { }
 129. Dear QA { }
 130. Mustacchio { }
