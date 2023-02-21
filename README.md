@@ -276,6 +276,7 @@ Tracking my room completion progress on TryHackMe
 - Crack The Hash Level 2 
 - Epoch
 - Regular expressions 
+- Mobile Malware Analysis
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -311,7 +312,7 @@ Tracking my room completion progress on TryHackMe
 124. Cat Pictures { }
 125. SqlMap { }
 126. Intro to Pipeline Automation { Task 6  Continuous Integration and Delivery }
-127. 
+127. Red Stone One Carat { }
 128. Introduction to Windows API { }
 129. Dear QA { }
 130. Mustacchio { }
@@ -338,7 +339,7 @@ Tracking my room completion progress on TryHackMe
 151. Juicy Details { }
 152. SigHunt { }
 153. GLITCH { }
-154. Mobile Malware Analysis { }
+154. MAL: Researching { Task 3  Checksums 101 }
 155. Wekor { }
 156. Linux Agency { Task 3  Linux Fundamentals}
 157. Couch { }
@@ -347,8 +348,8 @@ Tracking my room completion progress on TryHackMe
 160. NahamStore { Task 8  Local File Inclusion }
 170. SSTI { Setup }
 171. pyLon { }
-172. Red Stone One Carat { }
-173. MAL: Researching { Task 3  Checksums 101 }
+172. 
+173. 
 174. 
 175. 
 176. 
