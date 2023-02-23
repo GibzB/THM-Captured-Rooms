@@ -278,6 +278,7 @@ Tracking my room completion progress on TryHackMe
 - Regular expressions 
 - Mobile Malware Analysis
 - MAL: Researching
+- SqlMap
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -311,7 +312,7 @@ Tracking my room completion progress on TryHackMe
 122. Intro PoC Scripting { }
 123. Unstable Twin { }
 124. Cat Pictures { }
-125. SqlMap { }
+125. SSTI { Setup }
 126. Intro to Pipeline Automation { Task 6  Continuous Integration and Delivery }
 127. Red Stone One Carat { }
 128. Introduction to Windows API { }
@@ -347,7 +348,7 @@ Tracking my room completion progress on TryHackMe
 158. Windows PrivEsc Arena { Task 12  Password Mining Escalation - Configuration Files }
 159. Windows x64 Assembly { Task 6  Instructions }
 160. NahamStore { Task 8  Local File Inclusion }
-170. SSTI { Setup }
+170. 
 171. 
 172. 
 173. 
