@@ -279,6 +279,7 @@ Tracking my room completion progress on TryHackMe
 - Mobile Malware Analysis
 - MAL: Researching
 - SqlMap
+- Polkit: CVE-2021-3560
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -288,7 +289,7 @@ Tracking my room completion progress on TryHackMe
 98. Wazuh { Wazuh Agents }
 99. Pwnkit: CVE-2021-4034 { Background }
 100. Madness { }
-101. Polkit: CVE-2021-3560 { Deploy }
+101. NahamStore { Task 8  Local File Inclusion }
 102. Investigating Windows 3.x { }
 103. DLL HIJACKING { Task 7  System Check }
 104. New Hire Old Artifacts { }
@@ -347,7 +348,7 @@ Tracking my room completion progress on TryHackMe
 157. Couch { }
 158. Windows PrivEsc Arena { Task 12  Password Mining Escalation - Configuration Files }
 159. Windows x64 Assembly { Task 6  Instructions }
-160. NahamStore { Task 8  Local File Inclusion }
+160. 
 170. 
 171. 
 172. 
