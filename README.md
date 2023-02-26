@@ -280,6 +280,7 @@ Tracking my room completion progress on TryHackMe
 - MAL: Researching
 - SqlMap
 - Polkit: CVE-2021-3560
+- OverlayFS - CVE-2021-3493
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -332,7 +333,7 @@ Tracking my room completion progress on TryHackMe
 141. ContainMe { }
 142. Cooctus Stories { }
 143. Cyber Scotland 2021 { }
-144. OverlayFS - CVE-2021-3493 { }
+144. Windows x64 Assembly { Task 6  Instructions }
 145. CMSpit { Task 1  Ready Set Go }
 146. Phishing: HiddenEye { }
 147. VulnNet: Node { }
@@ -347,7 +348,7 @@ Tracking my room completion progress on TryHackMe
 156. Linux Agency { Task 3  Linux Fundamentals}
 157. Couch { }
 158. Windows PrivEsc Arena { Task 12  Password Mining Escalation - Configuration Files }
-159. Windows x64 Assembly { Task 6  Instructions }
+159. 
 160. 
 170. 
 171. 
