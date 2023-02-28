@@ -329,7 +329,7 @@ Tracking my room completion progress on TryHackMe
 135. Blueprint { }
 136. Year of the Fox { Task 1  Hack the machine and obtain the flags }
 137. Quotient { }
-138. Brute Force Heroes { }
+138. Brute Force Heroes { Task 6  Brute forcing - ZAP }
 139. Committed { }
 140. Atlas { }
 141. ContainMe { }
