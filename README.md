@@ -283,6 +283,7 @@ Tracking my room completion progress on TryHackMe
 - OverlayFS 
 - CVE-2021-3493
 - Cyber Scotland 2021 
+- Pwnkit: CVE-2021-4034
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -290,7 +291,7 @@ Tracking my room completion progress on TryHackMe
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
 97. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
 98. Wazuh { Wazuh Agents }
-99. Pwnkit: CVE-2021-4034 { Background }
+99. Couch { }
 100. Madness { }
 101. NahamStore { Task 8  Local File Inclusion }
 102. Investigating Windows 3.x { }
@@ -348,7 +349,7 @@ Tracking my room completion progress on TryHackMe
 154. pyLon { }
 155. Wekor { }
 156. Linux Agency { Task 3  Linux Fundamentals}
-157. Couch { }
+157. 
 158. 
 159. 
 160. 
