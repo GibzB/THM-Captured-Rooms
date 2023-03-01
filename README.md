@@ -284,6 +284,7 @@ Tracking my room completion progress on TryHackMe
 - CVE-2021-3493
 - Cyber Scotland 2021 
 - Pwnkit: CVE-2021-4034
+- Windows PrivEsc Arena **_📛 badge earned_**
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -305,14 +306,14 @@ Tracking my room completion progress on TryHackMe
 110. Wordpress: CVE-2021-29447 { Task 2  Ready Set Go }
 111. Dissecting PE Headers { Task 2  Overview of PE headers }
 112. Eavesdropper { Task 2  Find the Flag }
-113. Yara {  Installing Yara (Ubuntu/Debian & Windows) }
+113. Yara { Installing Yara (Ubuntu/Debian & Windows) }
 114. Introduction to OWASP ZAP { Intro to ZAP }
 115. Redline { Endpoint Investigation }
 116. Enterprise { Task 2  Flag Submission Panel }
 117. Introduction to Cryptography { }
 118. Cryptography for Dummies
 119. Hip Flask {}
-120. OWASP Mutillidae II {}
+120. OWASP Mutillidae II { }
 121. Diamond Model { }
 122. Intro PoC Scripting { }
 123. Unstable Twin { }
@@ -335,7 +336,7 @@ Tracking my room completion progress on TryHackMe
 140. Atlas { }
 141. ContainMe { }
 142. Cooctus Stories { }
-143. Windows PrivEsc Arena { Task 12  Password Mining Escalation - Configuration Files }
+143. Linux Agency { Task 3  Linux Fundamentals }
 144. Windows x64 Assembly { Task 6  Instructions }
 145. CMSpit { Task 1  Ready Set Go }
 146. Phishing: HiddenEye { }
@@ -348,7 +349,7 @@ Tracking my room completion progress on TryHackMe
 153. GLITCH { }
 154. pyLon { }
 155. Wekor { }
-156. Linux Agency { Task 3  Linux Fundamentals}
+156. 
 157. 
 158. 
 159. 
