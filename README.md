@@ -285,6 +285,7 @@ Tracking my room completion progress on TryHackMe
 - Cyber Scotland 2021 
 - Pwnkit: CVE-2021-4034
 - Windows PrivEsc Arena **_📛 badge earned_**
+- Dissecting PE Headers
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -304,7 +305,7 @@ Tracking my room completion progress on TryHackMe
 108. VulnNet: Active { }
 109. Attacktive Directory { Setup }
 110. Wordpress: CVE-2021-29447 { Task 2  Ready Set Go }
-111. Dissecting PE Headers { Task 2  Overview of PE headers }
+111. Wekor { }
 112. Eavesdropper { Task 2  Find the Flag }
 113. Yara { Installing Yara (Ubuntu/Debian & Windows) }
 114. Introduction to OWASP ZAP { Intro to ZAP }
@@ -348,7 +349,7 @@ Tracking my room completion progress on TryHackMe
 152. SigHunt { }
 153. GLITCH { }
 154. pyLon { }
-155. Wekor { }
+155. 
 156. 
 157. 
 158. 
