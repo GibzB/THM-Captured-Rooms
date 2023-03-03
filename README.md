@@ -286,6 +286,7 @@ Tracking my room completion progress on TryHackMe
 - Pwnkit: CVE-2021-4034
 - Windows PrivEsc Arena **_📛 badge earned_**
 - Dissecting PE Headers
+- Juicy Details
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -345,10 +346,10 @@ Tracking my room completion progress on TryHackMe
 148. ColddBox: Easy { }
 149. Tempest { }
 150. Gallery { }
-151. Juicy Details { }
+151. pyLon { }
 152. SigHunt { }
 153. GLITCH { }
-154. pyLon { }
+154. 
 155. 
 156. 
 157. 
