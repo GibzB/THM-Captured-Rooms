@@ -287,6 +287,7 @@ Tracking my room completion progress on TryHackMe
 - Windows PrivEsc Arena **_📛 badge earned_**
 - Dissecting PE Headers
 - Juicy Details
+- Intro PoC Scripting
 92. Kubernetes for Everyone { Game of Pods }
 93. Intro To Pwntools { CheckSec }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
@@ -317,7 +318,7 @@ Tracking my room completion progress on TryHackMe
 119. Hip Flask {}
 120. OWASP Mutillidae II { }
 121. Diamond Model { }
-122. Intro PoC Scripting { }
+122. GLITCH { }
 123. Unstable Twin { }
 124. Cat Pictures { }
 125. SSTI { Setup }
@@ -348,7 +349,7 @@ Tracking my room completion progress on TryHackMe
 150. Gallery { }
 151. pyLon { }
 152. SigHunt { }
-153. GLITCH { }
+153. 
 154. 
 155. 
 156. 
