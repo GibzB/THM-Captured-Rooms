@@ -94,6 +94,7 @@ Tracking my room completion progress on TryHackMe
 - Introduction to OWASP ZAP
 - Wgel CTF
 - MITRE
+- Ghizer
 53. Kiba
 54. Nessus
 55. Ignite 
