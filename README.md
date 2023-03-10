@@ -10,6 +10,7 @@ Tracking my room completion progress on TryHackMe
 - JavaScript Basics
 - OpenVPN
 - Learn & win prizes - Fall 2022
+- Intro to Offensive Security
 
 2. c4ptur3-th3-fl4g
 3. Pyramid Of Pain
