@@ -110,7 +110,7 @@ Tracking my room completion progress on TryHackMe
 64. Introduction to DevSecOps
 65. Security Awareness 
 66. Metasploit: Introduction
-67. 
+67. Insekube
 68. Intro to Offensive Security
 69. Python Basics
 70. Forensics
