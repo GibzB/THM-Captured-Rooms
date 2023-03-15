@@ -111,7 +111,7 @@ Tracking my room completion progress on TryHackMe
 65. Security Awareness 
 66. Metasploit: Introduction
 67. Insekube
-68. 
+68. Sweettooth Inc.
 69. Python Basics
 70. Forensics
 71. Windows Forensics 1 
