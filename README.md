@@ -111,7 +111,7 @@ Tracking my room completion progress on TryHackMe
 65. Security Awareness 
 66. Metasploit: Introduction
 67. Insekube
-68. Intro to Offensive Security
+68. 
 69. Python Basics
 70. Forensics
 71. Windows Forensics 1 
@@ -293,7 +293,7 @@ Tracking my room completion progress on TryHackMe
 - Intro PoC Scripting
 - PrintNightmare, again!
 92. Kubernetes for Everyone { Game of Pods }
-93. Intro To Pwntools { CheckSec }
+93. Intro To Pwntools { Task 3  Cyclic }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 95. JVM Reverse Engineering { }
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
