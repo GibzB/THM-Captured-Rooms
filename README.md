@@ -84,6 +84,7 @@ Tracking my room completion progress on TryHackMe
 52. Intrusion Detection
 - The Marketplace
 - Investigating Windows
+- L2 MAC Flooding & ARP Spoofing
 - Baron Samedit
 - Bolt
 - All in One
@@ -307,7 +308,7 @@ Tracking my room completion progress on TryHackMe
 104. New Hire Old Artifacts { }
 105. Nax {  }
 106. Aratus { Get both flags }
-107. L2 MAC Flooding & ARP Spoofing { }
+107. 
 108. VulnNet: Active { }
 109. Attacktive Directory { Setup }
 110. Wordpress: CVE-2021-29447 { Task 2  Ready Set Go }
