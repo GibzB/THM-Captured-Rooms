@@ -293,8 +293,9 @@ Tracking my room completion progress on TryHackMe
 - Juicy Details
 - Intro PoC Scripting
 - PrintNightmare, again!
+- Intro To Pwntools 
 92. Kubernetes for Everyone { Game of Pods }
-93. Intro To Pwntools { Task 3  Cyclic }
+93. Unattended { }
 94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
 95. JVM Reverse Engineering { }
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
@@ -308,7 +309,7 @@ Tracking my room completion progress on TryHackMe
 104. New Hire Old Artifacts { }
 105. Nax {  }
 106. Aratus { Get both flags }
-107. 
+107. Biohazard { Task 2  The Mansion }
 108. VulnNet: Active { }
 109. Attacktive Directory { Setup }
 110. Wordpress: CVE-2021-29447 { Task 2  Ready Set Go }
@@ -355,8 +356,8 @@ Tracking my room completion progress on TryHackMe
 151. pyLon { }
 152. SigHunt { }
 153. OWASP Top 10 - 2021 { }
-154. Unattended { }
-155. Biohazard { Task 2  The Mansion }
+154. 
+155. 
 156. 
 157. 
 158. 
