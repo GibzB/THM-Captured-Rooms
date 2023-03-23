@@ -94,6 +94,8 @@ Tracking my room completion progress on TryHackMe
 - Confidential
 - Introduction to Windows API
 - Introduction to OWASP ZAP
+- OWASP Top 10 - 2021
+- 
 - Wgel CTF
 - MITRE
 - Ghizer
@@ -208,6 +210,7 @@ Tracking my room completion progress on TryHackMe
 - Starting Out In Cyber Sec
 - Break Out The Cage
 - OWASP Mutillidae II
+- CVE-2021-41773/42013 
 - DAV
 - Retro
 - AttackerKB
@@ -297,7 +300,7 @@ Tracking my room completion progress on TryHackMe
 - Intro To Pwntools 
 92. Kubernetes for Everyone { Game of Pods }
 93. Unattended { }
-94. CVE-2021-41773/42013 { What is Path Traversal anyways? }
+94. 
 95. JVM Reverse Engineering { }
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
 97. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
