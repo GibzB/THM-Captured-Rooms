@@ -23,3 +23,4 @@
 - Advent of Cyber 4 [badge](https://tryhackme.com/rgibesh/badges/adventofcyber4)
 - Linux PrivEsc [badge](https://tryhackme.com/rgibesh/badges/linux-privesc)
 - Windows Priv Esc [badge](https://tryhackme.com/rgibesh/badges/win-priv-esc)
+- OWASP Top 10 [badge](https://tryhackme.com/rgibesh/badges/owasp-10)
