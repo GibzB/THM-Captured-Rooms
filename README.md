@@ -94,8 +94,7 @@ Tracking my room completion progress on TryHackMe
 - Confidential
 - Introduction to Windows API
 - Introduction to OWASP ZAP
-- OWASP Top 10 - 2021
-- 
+- OWASP Top 10 - 2021 - **_📛 badge earned_**
 - Wgel CTF
 - MITRE
 - Ghizer
@@ -154,6 +153,7 @@ Tracking my room completion progress on TryHackMe
 - Introduction to SIEM 
 - Outlook NTLM Leak
 - VulnNet
+- GLITCH
 90. Bypass Disable Functions 
 91. CTF collection Vol.1
 - CTF collection Vol.2
@@ -201,6 +201,7 @@ Tracking my room completion progress on TryHackMe
 - Daily Bugle
 - Looking Glass
 - Wonderland
+- OWASP Top 10 - 2021 
 - Advent of Cyber 1 [2019] **_📛 badge earned_**
 - Advent of Cyber 2 [2020] 
 - Advent of Cyber 3 (2021) **_📛 badge earned_**
@@ -302,7 +303,7 @@ Tracking my room completion progress on TryHackMe
 - Intro To Pwntools 
 92. Kubernetes for Everyone { Game of Pods }
 93. Unattended { }
-94. 
+94. pyLon { }
 95. JVM Reverse Engineering { }
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
 97. Dirty Pipe: CVE-2022-0847 { Vulnerability Background }
@@ -330,7 +331,7 @@ Tracking my room completion progress on TryHackMe
 119. Hip Flask {}
 120. OWASP Mutillidae II { }
 121. Diamond Model { }
-122. GLITCH { }
+122. SigHunt { }
 123. Unstable Twin { }
 124. Cat Pictures { }
 125. SSTI { Setup }
@@ -359,9 +360,9 @@ Tracking my room completion progress on TryHackMe
 148. ColddBox: Easy { }
 149. Tempest { }
 150. Gallery { }
-151. pyLon { }
-152. SigHunt { }
-153. OWASP Top 10 - 2021 { Task 20  Data Integrity Failures }
+151. 
+152. 
+153. 
 154. 
 155. 
 156. 
