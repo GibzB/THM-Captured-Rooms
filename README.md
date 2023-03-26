@@ -360,16 +360,17 @@ Tracking my room completion progress on TryHackMe
 148. ColddBox: Easy { }
 149. Tempest { }
 150. Gallery { }
-151. 
-152. 
-153. 
-154. 
-155. 
-156. 
+151. Empline { Deploy the Machine }
+152. KaffeeSec - SoMeSINT { Overview }
+153. Masterminds { Detect the compromise using Brim. }
+154. Zeno { }
+155. Borderlands { }
+156. The Impossible Challenge { }
 157. 
 158. 
 159. 
 160. 
+161. 
 170. 
 171. 
 172. 
