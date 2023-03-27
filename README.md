@@ -98,6 +98,8 @@ Tracking my room completion progress on TryHackMe
 - Wgel CTF
 - MITRE
 - Ghizer
+- Windows Reversing Intro
+- 
 53. Kiba
 54. Nessus
 55. Ignite 
@@ -366,12 +368,12 @@ Tracking my room completion progress on TryHackMe
 154. Zeno { }
 155. Borderlands { }
 156. The Impossible Challenge { }
-157. 
-158. 
-159. 
-160. 
-161. 
-170. 
+157. Conti { }
+158. Squid Game { Scenario }
+159. That's The Ticket { }
+160. Templates { }
+161. Minotaur's Labyrinth { }
+170. Lockdown { }
 171. 
 172. 
 173. 
