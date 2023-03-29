@@ -304,7 +304,7 @@ Tracking my room completion progress on TryHackMe
 - PrintNightmare, again!
 - Intro To Pwntools 
 92. Kubernetes for Everyone { Game of Pods }
-93. Unattended { }
+93. Unattended { Task 3  Snooping around }
 94. pyLon { }
 95. JVM Reverse Engineering { }
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
