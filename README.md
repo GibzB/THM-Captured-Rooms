@@ -303,8 +303,9 @@ Tracking my room completion progress on TryHackMe
 - Intro PoC Scripting
 - PrintNightmare, again!
 - Intro To Pwntools 
+- Unattended
 92. Kubernetes for Everyone { Game of Pods }
-93. Unattended { Task 3  Snooping around }
+93. 
 94. pyLon { }
 95. JVM Reverse Engineering { }
 96. Spring4Shell: CVE-2022-22965 { Vulnerability Background }
@@ -375,16 +376,17 @@ Tracking my room completion progress on TryHackMe
 161. Minotaur's Labyrinth { }
 170. Lockdown { }
 171. ret2libc { Task 2  Introduction }
-172. 
+172. Attacking ICS Plant #2 { Task 2  Flag #1 }
 173. 
 174. 
 175. 
 176. 
 177. 
 178. 
-179.  
-180. 
+179. 
+180.  
 181. 
+182. 
  
 
 
