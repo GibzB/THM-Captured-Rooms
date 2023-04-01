@@ -303,6 +303,7 @@ Tracking my room completion progress on TryHackMe
 - Intro PoC Scripting
 - PrintNightmare, again!
 - Intro To Pwntools 
+- Phishing: HiddenEye
 - Unattended
 92. Kubernetes for Everyone { Game of Pods }
 93. Attacking ICS Plant #2 { Task 2  Flag #1 }
