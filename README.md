@@ -99,7 +99,8 @@ Tracking my room completion progress on TryHackMe
 - MITRE
 - Ghizer
 - Windows Reversing Intro
-- 
+- SSDLC
+- SDLC
 53. Kiba
 54. Nessus
 55. Ignite 
