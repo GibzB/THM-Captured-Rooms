@@ -380,7 +380,7 @@ Tracking my room completion progress on TryHackMe
 171. ret2libc { Task 2  Introduction }
 172. PWN101 { Task 2  Challenge 1 - pwn101 }
 173. Linux Function Hooking { Introduction }
-174. 
+174. PalsForLife { }
 175. 
 176. 
 177. 
