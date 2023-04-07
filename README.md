@@ -101,6 +101,7 @@ Tracking my room completion progress on TryHackMe
 - Windows Reversing Intro
 - SSDLC
 - SDLC
+- KoTH Hackers
 53. Kiba
 54. Nessus
 55. Ignite 
