@@ -347,7 +347,7 @@ Tracking my room completion progress on TryHackMe
 129. Dear QA { }
 130. Mustacchio { }
 131. Git and Crumpets { }
-132. Introduction To Honeypots { }
+132. Introduction To Honeypots { Task 7  Identification Techniques }
 133. Dumping Router Firmware { }
 134. Windows PrivEsc { }
 135. Blueprint { }
