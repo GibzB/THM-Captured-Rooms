@@ -382,8 +382,8 @@ Tracking my room completion progress on TryHackMe
 172. PWN101 { Task 2  Challenge 1 - pwn101 }
 173. Linux Function Hooking { Introduction }
 174. PalsForLife { }
-175. 
-176. 
+175. Opacity { }
+176. Atlassian, CVE-2022-26134 { Explaining the Vulnerability }
 177. 
 178. 
 179. 
