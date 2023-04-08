@@ -384,7 +384,7 @@ Tracking my room completion progress on TryHackMe
 174. PalsForLife { }
 175. Opacity { }
 176. Atlassian, CVE-2022-26134 { Explaining the Vulnerability }
-177. 
+177. Lumberjack Turtle { Task 2  Challenge }
 178. 
 179. 
 180.  
