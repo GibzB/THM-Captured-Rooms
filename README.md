@@ -385,7 +385,7 @@ Tracking my room completion progress on TryHackMe
 175. Opacity { }
 176. Atlassian, CVE-2022-26134 { Explaining the Vulnerability }
 177. Lumberjack Turtle { Task 2  Challenge }
-178. 
+178. M4tr1x: Exit Denied { }
 179. 
 180.  
 181. 
