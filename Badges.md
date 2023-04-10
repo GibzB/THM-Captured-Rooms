@@ -24,3 +24,4 @@
 - Linux PrivEsc [badge](https://tryhackme.com/rgibesh/badges/linux-privesc)
 - Windows Priv Esc [badge](https://tryhackme.com/rgibesh/badges/win-priv-esc)
 - OWASP Top 10 [badge](https://tryhackme.com/rgibesh/badges/owasp-10)
+- 90 Day Streak [badge](https://tryhackme.com/rgibesh/badges/90-day-streak)
