@@ -300,6 +300,7 @@ Tracking my room completion progress on TryHackMe
 - Cyber Scotland 2021 
 - Pwnkit: CVE-2021-4034
 - Windows PrivEsc Arena **_📛 badge earned_**
+- Windows x64 Assembly 
 - Dissecting PE Headers
 - Juicy Details
 - Intro PoC Scripting
@@ -359,7 +360,7 @@ Tracking my room completion progress on TryHackMe
 141. ContainMe { }
 142. Cooctus Stories { }
 143. Linux Agency { Task 3  Linux Fundamentals }
-144. Windows x64 Assembly { Task 6  Instructions }
+144. 
 145. CMSpit { Task 1  Ready Set Go }
 146. Phishing: HiddenEye { }
 147. VulnNet: Node { }
