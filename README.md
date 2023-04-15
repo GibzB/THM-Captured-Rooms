@@ -401,6 +401,7 @@ Tracking my room completion progress on TryHackMe
 190. Metamorphosis { }
 191. Lunizz CTF { }
 192. Peak Hill { }
+193. Carnage { Task 2  Traffic Analysis }
  
 
 
