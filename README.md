@@ -403,6 +403,7 @@ Tracking my room completion progress on TryHackMe
 191. Lunizz CTF { }
 192. Peak Hill { }
 193. Carnage { Task 2  Traffic Analysis }
+194. Boogeyman 1 { Task 2  [Email Analysis] Look at that headers! }
  
 
 
