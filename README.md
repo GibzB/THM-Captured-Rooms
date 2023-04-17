@@ -283,6 +283,7 @@ Tracking my room completion progress on TryHackMe
 - For Business Reasons
 - ffuf
 - OpenVAS 
+- Opacity
 - Sakura
 - Searchlight - IMINT
 - Mr. Phisher
@@ -361,7 +362,7 @@ Tracking my room completion progress on TryHackMe
 141. ContainMe { }
 142. Cooctus Stories { }
 143. Linux Agency { Task 3  Linux Fundamentals }
-144. 
+144. Boogeyman 1 { Task 2  [Email Analysis] Look at that headers! }
 145. CMSpit { Task 1  Ready Set Go }
 146. Phishing: HiddenEye { }
 147. VulnNet: Node { }
@@ -384,7 +385,7 @@ Tracking my room completion progress on TryHackMe
 172. PWN101 { Task 2  Challenge 1 - pwn101 }
 173. Linux Function Hooking { Introduction }
 174. PalsForLife { }
-175. Opacity { }
+175. Carnage { Task 2  Traffic Analysis }
 176. Atlassian, CVE-2022-26134 { Explaining the Vulnerability }
 177. Lumberjack Turtle { Task 2  Challenge }
 178. M4tr1x: Exit Denied { }
@@ -402,8 +403,8 @@ Tracking my room completion progress on TryHackMe
 190. Metamorphosis { }
 191. Lunizz CTF { }
 192. Peak Hill { }
-193. Carnage { Task 2  Traffic Analysis }
-194. Boogeyman 1 { Task 2  [Email Analysis] Look at that headers! }
+193. 
+194. 
  
 
 
