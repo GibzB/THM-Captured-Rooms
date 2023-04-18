@@ -311,6 +311,7 @@ Tracking my room completion progress on TryHackMe
 - Phishing: HiddenEye
 - Unattended
 - Road
+- Introduction To Honeypots
 92. Kubernetes for Everyone { Game of Pods }
 93. Attacking ICS Plant #2 { Task 2  Flag #1 }
 94. pyLon { }
@@ -351,7 +352,7 @@ Tracking my room completion progress on TryHackMe
 129. Dear QA { }
 130. Mustacchio { }
 131. Git and Crumpets { }
-132. Introduction To Honeypots { Task 7  Identification Techniques }
+132. Lunizz CTF { }
 133. Dumping Router Firmware { }
 134. Windows PrivEsc { }
 135. Blueprint { }
@@ -402,7 +403,7 @@ Tracking my room completion progress on TryHackMe
 188. Binary Heaven { Task 2  Being worthy }
 189. Harder { Task 1  Hack your way and try harder }
 190. Metamorphosis { }
-191. Lunizz CTF { }
+191. 
 192. 
 193. 
 194. 
