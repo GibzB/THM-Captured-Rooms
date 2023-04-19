@@ -363,7 +363,7 @@ Tracking my room completion progress on TryHackMe
 140. Atlas { }
 141. ContainMe { }
 142. Cooctus Stories { }
-143. Linux Agency { Task 3  Linux Fundamentals }
+143. Linux Agency { What is the mission21 flag? }
 144. Boogeyman 1 { Task 2  [Email Analysis] Look at that headers! }
 145. CMSpit { Task 1  Ready Set Go }
 146. Phishing: HiddenEye { }
