@@ -264,6 +264,7 @@ Tracking my room completion progress on TryHackMe
 - HaskHell 
 - Gatekeeper 
 - REmux The Tmux
+- CMSpit 
 - Linux PrivEsc Arena **_📛 badge earned_**
 - Ra 
 - Reversing ELF
@@ -365,7 +366,7 @@ Tracking my room completion progress on TryHackMe
 142. Cooctus Stories { }
 143. Linux Agency { What is the mission21 flag? }
 144. Boogeyman 1 { Task 2  [Email Analysis] Look at that headers! }
-145. CMSpit { Task 1  Ready Set Go }
+145. Metamorphosis { }
 146. Phishing: HiddenEye { }
 147. VulnNet: Node { }
 148. ColddBox: Easy { }
@@ -402,7 +403,7 @@ Tracking my room completion progress on TryHackMe
 187. SafeZone { Task 1  Challenge flags }
 188. Binary Heaven { Task 2  Being worthy }
 189. Harder { Task 1  Hack your way and try harder }
-190. Metamorphosis { }
+190. 
 191. 
 192. 
 193. 
