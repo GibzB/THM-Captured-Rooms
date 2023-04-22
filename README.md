@@ -403,7 +403,7 @@ Tracking my room completion progress on TryHackMe
 187. SafeZone { Task 1  Challenge flags }
 188. Binary Heaven { Task 2  Being worthy }
 189. Harder { Task 1  Hack your way and try harder }
-190. 
+190. Plotted-EMR { }
 191. 
 192. 
 193. 
