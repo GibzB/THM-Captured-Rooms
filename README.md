@@ -404,7 +404,7 @@ Tracking my room completion progress on TryHackMe
 188. Binary Heaven { Task 2  Being worthy }
 189. Harder { Task 1  Hack your way and try harder }
 190. Plotted-EMR { }
-191. 
+191. Frank & Herby make an app { }
 192. 
 193. 
 194. 
