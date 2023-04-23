@@ -405,8 +405,8 @@ Tracking my room completion progress on TryHackMe
 189. Harder { Task 1  Hack your way and try harder }
 190. Plotted-EMR { }
 191. Frank & Herby make an app { }
-192. 
-193. 
+192. Cold VVars { }
+193. Hamlet { Flag 5 }
 194. 
  
 
