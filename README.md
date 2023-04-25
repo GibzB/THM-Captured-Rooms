@@ -83,6 +83,8 @@ Tracking my room completion progress on TryHackMe
 51. Tech_Supp0rt: 1
 52. Intrusion Detection
 - The Marketplace
+- Warzone 1
+- Warzone 2
 - Investigating Windows
 - L2 MAC Flooding & ARP Spoofing
 - Baron Samedit
@@ -408,6 +410,7 @@ Tracking my room completion progress on TryHackMe
 192. Cold VVars { }
 193. Hamlet { Flag 5 }
 194. VulnNet: Endgame { What is the user flag? }
+195. 
  
 
 
