@@ -410,7 +410,8 @@ Tracking my room completion progress on TryHackMe
 192. Cold VVars { }
 193. Hamlet { Flag 5 }
 194. VulnNet: Endgame { What is the user flag? }
-195. 
+195. hackerNote { Task 5  Escalate }
+   
  
 
 
