@@ -255,6 +255,7 @@ Tracking my room completion progress on TryHackMe
 - Sudo Buffer Overflow 
 - CMesS 
 - KoTH Food CTF
+- VulnNet: Node
 - Madeye’s Castle
 - Brainpan 1 
 - Inferno 
@@ -370,7 +371,7 @@ Tracking my room completion progress on TryHackMe
 144. Boogeyman 1 { Task 2  [Email Analysis] Look at that headers! }
 145. Metamorphosis { }
 146. Phishing: HiddenEye { }
-147. VulnNet: Node { }
+147. Tshark { Task 3  DNS Exfil }
 148. ColddBox: Easy { }
 149. Tempest { }
 150. Gallery { }
@@ -411,7 +412,8 @@ Tracking my room completion progress on TryHackMe
 193. Hamlet { Flag 5 }
 194. VulnNet: Endgame { What is the user flag? }
 195. hackerNote { Task 5  Escalate }
-196. Tshark { Task 3  DNS Exfil }
+196. 
+197. 
    
  
 
