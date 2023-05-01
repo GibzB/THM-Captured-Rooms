@@ -325,7 +325,7 @@ Tracking my room completion progress on TryHackMe
 98. Wazuh { Wazuh Agents }
 99. Couch { }
 100. Madness { }
-101. NahamStore { Task 8  Local File Inclusion }
+101. NahamStore { Task 11  RCE }
 102. Investigating Windows 3.x { }
 103. DLL HIJACKING { Task 7  System Check }
 104. New Hire Old Artifacts { }
