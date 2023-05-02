@@ -315,6 +315,7 @@ Tracking my room completion progress on TryHackMe
 - Phishing: HiddenEye
 - Unattended
 - Road
+- Tshark
 - Introduction To Honeypots
 92. Kubernetes for Everyone { Game of Pods }
 93. Attacking ICS Plant #2 { Task 2  Flag #1 }
@@ -371,7 +372,7 @@ Tracking my room completion progress on TryHackMe
 144. Boogeyman 1 { Task 2  [Email Analysis] Look at that headers! }
 145. Metamorphosis { }
 146. Phishing: HiddenEye { }
-147. Tshark { Task 3  DNS Exfil }
+147. Obscure { }
 148. ColddBox: Easy { }
 149. Tempest { }
 150. Gallery { }
@@ -412,7 +413,7 @@ Tracking my room completion progress on TryHackMe
 193. Hamlet { Flag 5 }
 194. VulnNet: Endgame { What is the user flag? }
 195. hackerNote { Task 5  Escalate }
-196. Obscure { }
+196. 
 197. 
    
  
