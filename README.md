@@ -413,7 +413,7 @@ Tracking my room completion progress on TryHackMe
 193. Hamlet { Flag 5 }
 194. VulnNet: Endgame { What is the user flag? }
 195. hackerNote { Task 5  Escalate }
-196. 
+196. Intro to Docker { Task 2  Basic Docker Syntax }
 197. 
    
  
