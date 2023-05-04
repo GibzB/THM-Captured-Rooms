@@ -358,7 +358,7 @@ Tracking my room completion progress on TryHackMe
 130. Mustacchio { }
 131. Git and Crumpets { }
 132. Lunizz CTF { }
-133. Dumping Router Firmware { }
+133. Dumping Router Firmware { What is the CRC of the image? }
 134. Windows PrivEsc { }
 135. Blueprint { }
 136. Year of the Fox { Task 1  Hack the machine and obtain the flags }
