@@ -231,6 +231,7 @@ Tracking my room completion progress on TryHackMe
 - Thompson
 - VulnNet: Internal 
 - Traffic Analysis Essentials
+- Linux Function Hooking
 - Linux Privilege Escalation 
 - Blueprint
 - Smag Grotto
