@@ -415,6 +415,7 @@ Tracking my room completion progress on TryHackMe
 195. hackerNote { Task 5  Escalate }
 196. Intro to Docker { Task 2  Basic Docker Syntax }
 197. Snort Challenge - Live Attacks { Task 3  Scenario 2 | Reverse-Shell }
+198. Capture! { Task 2  Bypass the login form }
    
  
 
