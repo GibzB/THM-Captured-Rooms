@@ -417,6 +417,7 @@ Tracking my room completion progress on TryHackMe
 196. Intro to Docker { Task 2  Basic Docker Syntax }
 197. Snort Challenge - Live Attacks { Task 3  Scenario 2 | Reverse-Shell }
 198. Capture! { Task 2  Bypass the login form }
+199. PS Eclipse { }
    
  
 
