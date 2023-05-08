@@ -378,7 +378,7 @@ Tracking my room completion progress on TryHackMe
 149. Tempest { }
 150. Gallery { }
 151. Empline { Deploy the Machine }
-152. KaffeeSec - SoMeSINT { Overview }
+152. KaffeeSec - SoMeSINT { Task 4  Spider... what? }
 153. Masterminds { Detect the compromise using Brim. }
 154. Zeno { }
 155. Borderlands { }
@@ -418,7 +418,8 @@ Tracking my room completion progress on TryHackMe
 197. Snort Challenge - Live Attacks { Task 3  Scenario 2 | Reverse-Shell }
 198. Capture! { Task 2  Bypass the login form }
 199. PS Eclipse { }
-200. Conti { Task 2  Exchange Server Compromised } 
+200. Conti { Task 2  Exchange Server Compromised }
+201.  
    
  
 
