@@ -414,7 +414,7 @@ Tracking my room completion progress on TryHackMe
 193. Hamlet { Flag 5 }
 194. VulnNet: Endgame { What is the user flag? }
 195. hackerNote { Task 5  Escalate }
-196. Intro to Docker { Task 2  Basic Docker Syntax }
+196. Intro to Docker { Task 5  Intro to Docker Compose }
 197. Snort Challenge - Live Attacks { Task 3  Scenario 2 | Reverse-Shell }
 198. Capture! { Task 2  Bypass the login form }
 199. PS Eclipse { }
