@@ -319,6 +319,7 @@ Tracking my room completion progress on TryHackMe
 - Tshark
 - Introduction To Honeypots
 - Intro to Docker 
+- Atlassian, CVE-2022-26134 
 92. Kubernetes for Everyone { Task 3  Game of Pods }
 93. Attacking ICS Plant #2 { Task 2  Flag #1 }
 94. pyLon { }
@@ -395,7 +396,7 @@ Tracking my room completion progress on TryHackMe
 173. Linux Function Hooking { Introduction }
 174. PalsForLife { }
 175. Carnage { Task 2  Traffic Analysis }
-176. Atlassian, CVE-2022-26134 { Explaining the Vulnerability }
+176. Prioritise { }
 177. Lumberjack Turtle { Task 2  Challenge }
 178. M4tr1x: Exit Denied { }
 179. Classic Passwd { }
