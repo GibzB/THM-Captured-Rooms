@@ -372,7 +372,7 @@ Tracking my room completion progress on TryHackMe
 141. ContainMe { }
 142. Cooctus Stories { }
 143. Linux Agency { What is the mission21 flag? }
-144. Boogeyman 1 { Task 2  [Email Analysis] Look at that headers! }
+144. Boogeyman 1 { Task 4  [Network Traffic Analysis] They got us. Call the bank immediately! }
 145. Metamorphosis { }
 146. Phishing: HiddenEye { }
 147. Obscure { }
