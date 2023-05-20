@@ -421,7 +421,7 @@ Tracking my room completion progress on TryHackMe
 198. Capture! { Task 2  Bypass the login form }
 199. PS Eclipse { }
 200. Super-Spam { }
-201. Weasel { }
+201. Weasel { Task 2  Get the flags }
    
  
 
