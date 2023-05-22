@@ -422,6 +422,7 @@ Tracking my room completion progress on TryHackMe
 199. PS Eclipse { }
 200. Super-Spam { }
 201. Weasel { Task 2  Get the flags }
+202. Olympus { What is Flag 3? }
    
  
 
