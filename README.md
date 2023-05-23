@@ -371,7 +371,7 @@ Tracking my room completion progress on TryHackMe
 140. Atlas { }
 141. ContainMe { }
 142. Cooctus Stories { }
-143. Linux Agency { What is the mission26 flag? }
+143. Linux Agency { Task 3  Linux Fundamentals }
 144. Boogeyman 1 { Task 4  [Network Traffic Analysis] They got us. Call the bank immediately! }
 145. Metamorphosis { }
 146. Phishing: HiddenEye { }
@@ -423,6 +423,8 @@ Tracking my room completion progress on TryHackMe
 200. Super-Spam { }
 201. Weasel { Task 2  Get the flags }
 202. Olympus { What is Flag 3? }
+203. SQHell { Task 1  Find all the Flags! }
+204. Crocc Crew { Task 2  Hack Back! }
    
  
 
