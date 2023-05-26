@@ -257,6 +257,7 @@ Tracking my room completion progress on TryHackMe
 - CMesS 
 - KoTH Food CTF
 - VulnNet: Node
+- VulnNet: dotpy
 - Madeye’s Castle
 - Brainpan 1 
 - Inferno 
