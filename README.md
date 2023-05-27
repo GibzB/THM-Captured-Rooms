@@ -427,6 +427,7 @@ Tracking my room completion progress on TryHackMe
 202. Olympus { What is Flag 3? }
 203. SQHell { Task 1  Find all the Flags! }
 204. Crocc Crew { Task 2  Hack Back! }
+205. Dunkle Materie { }
    
  
 
