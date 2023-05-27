@@ -382,7 +382,7 @@ Tracking my room completion progress on TryHackMe
 149. Tempest { }
 150. Gallery { }
 151. Empline { Deploy the Machine }
-152. KaffeeSec - SoMeSINT { Task 4  Spider... what? }
+152. KaffeeSec - SoMeSINT { Task 6  Turn back the clock!! }
 153. Masterminds { Task 3  [Infection 2] }
 154. Zeno { }
 155. Borderlands { }
