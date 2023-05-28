@@ -428,6 +428,7 @@ Tracking my room completion progress on TryHackMe
 203. SQHell { Task 1  Find all the Flags! }
 204. Crocc Crew { Task 2  Hack Back! }
 205. Dunkle Materie { }
+206. Fortress { Task 2  Prepare for battle }
    
  
 
