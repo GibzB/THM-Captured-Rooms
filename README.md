@@ -385,7 +385,7 @@ Tracking my room completion progress on TryHackMe
 152. KaffeeSec - SoMeSINT { Task 6  Turn back the clock!! }
 153. Masterminds { Task 3  [Infection 2] }
 154. Zeno { }
-155. Borderlands { }
+155. Borderlands { What is the API key that fits the following pattern: "GIT*" }
 156. The Impossible Challenge { }
 157. Conti { }
 158. Squid Game { Scenario }
