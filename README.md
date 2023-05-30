@@ -430,6 +430,7 @@ Tracking my room completion progress on TryHackMe
 205. Dunkle Materie { }
 206. Fortress { Task 2  Prepare for battle }
 207. Shaker { Task 2  Compromise the Machine! }
+208. StuxCTF { }
    
  
 
