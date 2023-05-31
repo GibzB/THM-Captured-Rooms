@@ -431,6 +431,7 @@ Tracking my room completion progress on TryHackMe
 206. Fortress { Task 2  Prepare for battle }
 207. Shaker { Task 2  Compromise the Machine! }
 208. StuxCTF { }
+209. Borderlands { What flag is transmitted from flag_server to flag_client over UDP? {FLAG:UDP:XXX} } 
    
  
 
