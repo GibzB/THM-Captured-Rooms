@@ -403,7 +403,8 @@ Tracking my room completion progress on TryHackMe
 177. Lumberjack Turtle { Task 2  Challenge }
 178. M4tr1x: Exit Denied { }
 179. Classic Passwd { }
-180. REvil Corp { }
+180. REvil Corp { 
+What is the MD5 hash of the binary? }
 181. RazorBlack { }
 182. The Server From Hell { flag.txt }
 183. broker { Task 2  Enumeration & flags }
