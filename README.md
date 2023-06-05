@@ -373,7 +373,7 @@ Tracking my room completion progress on TryHackMe
 139. Committed { }
 140. Atlas { }
 141. ContainMe { }
-142. Cooctus Stories { }
+142. Cooctus Stories { Get full root privileges }
 143. Linux Agency { Task 3  Linux Fundamentals }
 144. Boogeyman 1 { Task 4  [Network Traffic Analysis] They got us. Call the bank immediately! }
 145. Metamorphosis { }
