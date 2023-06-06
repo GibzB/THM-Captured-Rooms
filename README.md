@@ -323,6 +323,7 @@ Tracking my room completion progress on TryHackMe
 - Atlassian, CVE-2022-26134 
 - The Impossible Challenge
 - TakeOver
+- Cooctus Stories
 92. Kubernetes for Everyone { Task 3  Game of Pods }
 93. Attacking ICS Plant #2 { Task 2  Flag #1 }
 94. pyLon { }
