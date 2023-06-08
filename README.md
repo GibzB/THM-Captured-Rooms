@@ -438,6 +438,8 @@ What is the MD5 hash of the binary? }
 210. Biteme { What is the user flag? }
 211. Digital Forensics Case B4DM755 { Task 4  Case B4DM755: At the Scene of Crime }
 212. Lookback { Task 1  Find the flags }
+213. Intro to Detection Engineering { Task 2  What is Detection Engineering? }
+
    
  
 
