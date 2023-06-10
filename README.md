@@ -439,6 +439,8 @@ What is the MD5 hash of the binary? }
 211. Digital Forensics Case B4DM755 { Task 4  Case B4DM755: At the Scene of Crime }
 212. Lookback { Task 1  Find the flags }
 213. Intro to Detection Engineering { Task 6  Detection Detective }
+214. Race Conditions { }
+215. Flatline { What is the root.txt flag? }
 
    
  
