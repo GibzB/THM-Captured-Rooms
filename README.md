@@ -436,7 +436,7 @@ What is the MD5 hash of the binary? }
 208. StuxCTF { }
 209. Borderlands { What flag is transmitted from flag_server to flag_client over UDP? {FLAG:UDP:XXX} } 
 210. Biteme { What is the user flag? }
-211. Digital Forensics Case B4DM755 { Task 4  Case B4DM755: At the Scene of Crime }
+211. Digital Forensics Case B4DM755 { Task 6  Using FTK Imager to Acquire Digital Artefacts and Evidence }
 212. Lookback { Task 1  Find the flags }
 213. Intro to Detection Engineering { Task 6  Detection Detective }
 214. Race Conditions { }
