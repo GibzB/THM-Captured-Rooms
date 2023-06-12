@@ -179,6 +179,7 @@ Tracking my room completion progress on TryHackMe
 - Ice - **_📛 badge earned_**
 - Jeff 
 - Poster 
+- Intro to Detection Engineering 
 - Toolbox: Vim
 - Badbyte
 - Jacob the Boss
@@ -438,9 +439,8 @@ What is the MD5 hash of the binary? }
 210. Biteme { What is the user flag? }
 211. Digital Forensics Case B4DM755 { Task 6  Using FTK Imager to Acquire Digital Artefacts and Evidence }
 212. Lookback { Task 1  Find the flags }
-213. Intro to Detection Engineering { Task 6  Detection Detective }
-214. Race Conditions { }
-215. Flatline { What is the root.txt flag? }
+213. Race Conditions { }
+214. Flatline { What is the root.txt flag? }
 
    
  
