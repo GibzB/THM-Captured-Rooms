@@ -441,6 +441,7 @@ What is the MD5 hash of the binary? }
 212. Lookback { Task 1  Find the flags }
 213. Race Conditions { }
 214. Flatline { What is the root.txt flag? }
+215. Threat Intelligence for SOC { Task 2  Threat Intelligence Feeds }
 
    
  
