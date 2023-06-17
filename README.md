@@ -325,6 +325,7 @@ Tracking my room completion progress on TryHackMe
 - The Impossible Challenge
 - TakeOver
 - Cooctus Stories
+- Quotient
 92. Kubernetes for Everyone { Task 3  Game of Pods }
 93. Attacking ICS Plant #2 { Task 2  Flag #1 }
 94. pyLon { }
@@ -370,7 +371,7 @@ Tracking my room completion progress on TryHackMe
 134. Windows PrivEsc { }
 135. Blueprint { }
 136. Year of the Fox { Task 1  Hack the machine and obtain the flags }
-137. Quotient { }
+137. Threat Intelligence for SOC { Task 2  Threat Intelligence Feeds }
 138. Brute Force Heroes { Task 8  Brute forcing - Hashes }
 139. Committed { }
 140. Atlas { }
@@ -441,7 +442,7 @@ What is the MD5 hash of the binary? }
 212. Lookback { Task 1  Find the flags }
 213. Race Conditions { }
 214. Flatline { What is the root.txt flag? }
-215. Threat Intelligence for SOC { Task 2  Threat Intelligence Feeds }
+215. 
 
    
  
