@@ -371,7 +371,7 @@ Tracking my room completion progress on TryHackMe
 134. Windows PrivEsc { }
 135. Blueprint { }
 136. Year of the Fox { Task 1  Hack the machine and obtain the flags }
-137. Threat Intelligence for SOC { Task 2  Threat Intelligence Feeds }
+137. Threat Intelligence for SOC { Task 3  Intelligence-driven Prevention }
 138. Brute Force Heroes { Task 8  Brute forcing - Hashes }
 139. Committed { }
 140. Atlas { }
