@@ -396,7 +396,7 @@ Tracking my room completion progress on TryHackMe
 159. That's The Ticket { }
 160. Templates { }
 161. Minotaur's Labyrinth { }
-170. Lockdown { }
+170. Lockdown { What is the user flag? }
 171. ret2libc { Task 4  Review of the binary }
 172. PWN101 { Task 2  Challenge 1 - pwn101 }
 173. Linux Function Hooking { Introduction }
