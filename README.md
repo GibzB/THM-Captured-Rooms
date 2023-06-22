@@ -378,7 +378,7 @@ Tracking my room completion progress on TryHackMe
 141. ContainMe { }
 142. Cooctus Stories { Get full root privileges }
 143. Linux Agency { Task 3  Linux Fundamentals }
-144. Boogeyman 1 { Task 4  [Network Traffic Analysis] They got us. Call the bank immediately! }
+144. Boogeyman 1 { What is the password of the exfiltrated file? }
 145. Metamorphosis { }
 146. Phishing: HiddenEye { }
 147. Obscure { }
