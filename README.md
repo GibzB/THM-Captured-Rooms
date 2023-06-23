@@ -416,7 +416,7 @@ What is the MD5 hash of the binary? }
 186. CCT2019 { }
 187. SafeZone { Task 1  Challenge flags }
 188. Binary Heaven { Task 2  Being worthy }
-189. Harder { Task 1  Hack your way and try harder }
+189. Harder { Escalate your privileges and get the root Flag (root.txt) }
 190. Plotted-EMR { }
 191. Frank & Herby make an app { }
 192. Cold VVars { }
