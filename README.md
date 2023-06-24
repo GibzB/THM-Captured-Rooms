@@ -443,6 +443,7 @@ What is the MD5 hash of the binary? }
 213. Race Conditions { }
 214. Flatline { What is the root.txt flag? }
 215. PrintNightmare, thrice! { What remote address did the employee navigate to? }
+216. Flip { Task 2  What is the flag?}
 
    
  
