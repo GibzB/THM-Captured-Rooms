@@ -383,7 +383,7 @@ Tracking my room completion progress on TryHackMe
 146. Phishing: HiddenEye { }
 147. Obscure { }
 148. ColddBox: Easy { }
-149. Tempest { Task 7  Discovery - Internal Reconnaissance }
+149. Tempest { Task 3  Preparation - Tools and Artifacts }
 150. Gallery { }
 151. Empline { Deploy the Machine }
 152. KaffeeSec - SoMeSINT { Task 6  Turn back the clock!! }
