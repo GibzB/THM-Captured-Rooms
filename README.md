@@ -326,6 +326,7 @@ Tracking my room completion progress on TryHackMe
 - TakeOver
 - Cooctus Stories
 - Quotient
+- Plotted-TMS
 92. Kubernetes for Everyone { Task 3  Game of Pods }
 93. Attacking ICS Plant #2 { Task 2  Flag #1 }
 94. pyLon { }
