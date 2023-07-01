@@ -359,7 +359,8 @@ Tracking my room completion progress on TryHackMe
 119. Hip Flask {}
 120. OWASP Mutillidae II { }
 121. Diamond Model { }
-122. SigHunt { }
+122. SigHunt { 
+What is the Challenge #4 flag? }
 123. Unstable Twin { }
 124. Cat Pictures { }
 125. SSTI { Setup }
