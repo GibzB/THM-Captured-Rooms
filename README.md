@@ -329,6 +329,7 @@ Tracking my room completion progress on TryHackMe
 - Plotted-TMS
 - VulnNet: Endgame
 - Unbaked-Pie 
+- Threat Intelligence for SOC 
 92. Kubernetes for Everyone { Task 3  Game of Pods }
 93. Attacking ICS Plant #2 { Task 2  Flag #1 }
 94. pyLon { }
@@ -375,7 +376,7 @@ What is the Challenge #4 flag? }
 134. Windows PrivEsc { }
 135. Blueprint { }
 136. Year of the Fox { Task 1  Hack the machine and obtain the flags }
-137. Threat Intelligence for SOC { Task 4  Intelligence-driven Detection}
+137. OWASP Broken Access Control { Task 4  Assessing the Web Application }
 138. Brute Force Heroes { Task 8  Brute forcing - Hashes }
 139. Committed { }
 140. Atlas { }
@@ -448,7 +449,7 @@ What is the MD5 hash of the binary? }
 214. Flatline { What is the root.txt flag? }
 215. PrintNightmare, thrice! { What remote address did the employee navigate to? }
 216. Cat Pictures 2 { Task 2  Flags! }
-217. OWASP Broken Access Control { Task 4  Assessing the Web Application }
+217. 
 
    
  
