@@ -369,7 +369,7 @@ What is the Challenge #4 flag? }
 127. Red Stone One Carat { }
 128. Introduction to Windows API { }
 129. Dear QA { }
-130. Mustacchio { }
+130. Mustacchio { What is the root flag? }
 131. Git and Crumpets { }
 132. Lunizz CTF { }
 133. Dumping Router Firmware { What is the CRC of the image? }
