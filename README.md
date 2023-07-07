@@ -329,6 +329,7 @@ Tracking my room completion progress on TryHackMe
 - Plotted-TMS
 - VulnNet: Endgame
 - Unbaked-Pie 
+- Mustacchio
 - Threat Intelligence for SOC 
 92. Kubernetes for Everyone { Task 3  Game of Pods }
 93. Attacking ICS Plant #2 { Task 2  Flag #1 }
@@ -369,7 +370,7 @@ What is the Challenge #4 flag? }
 127. Red Stone One Carat { }
 128. Introduction to Windows API { }
 129. Dear QA { }
-130. Mustacchio { What is the root flag? }
+130. 
 131. Git and Crumpets { }
 132. Lunizz CTF { }
 133. Dumping Router Firmware { What is the CRC of the image? }
