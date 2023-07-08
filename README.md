@@ -377,7 +377,7 @@ What is the Challenge #4 flag? }
 134. Windows PrivEsc { }
 135. Blueprint { }
 136. Year of the Fox { Task 1  Hack the machine and obtain the flags }
-137. OWASP Broken Access Control { Task 4  Assessing the Web Application }
+137. OWASP Broken Access Control { Task 5  Exploiting the Web Application }
 138. Brute Force Heroes { Task 8  Brute forcing - Hashes }
 139. Committed { }
 140. Atlas { }
@@ -450,7 +450,7 @@ What is the MD5 hash of the binary? }
 214. Flatline { What is the root.txt flag? }
 215. PrintNightmare, thrice! { What remote address did the employee navigate to? }
 216. Cat Pictures 2 { Task 2  Flags! }
-217. 
+217. Snapped "Phish"-ing Line { }
 
    
  
