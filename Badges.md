@@ -1,8 +1,10 @@
 # Streaks 🔥
+
 - 7 day streak [badge](https://tryhackme.com/rgibesh/badges/7-day-streak).
 - 30 day streak [badge](https://tryhackme.com/rgibesh/badges/30-day-streak).
 
 # Badges 📛
+
 - Metasploitable [badge](https://tryhackme.com/rgibesh/badges/metasploitable).
 - Pentesting Principles [badge](https://tryhackme.com/rgibesh/badges/intro-to-pentesting).
 - Hash Cracker [badge](https://tryhackme.com/rgibesh/badges/hash-cracker).
@@ -25,3 +27,4 @@
 - Windows Priv Esc [badge](https://tryhackme.com/rgibesh/badges/win-priv-esc)
 - OWASP Top 10 [badge](https://tryhackme.com/rgibesh/badges/owasp-10)
 - 90 Day Streak [badge](https://tryhackme.com/rgibesh/badges/90-day-streak)
+- 180 Day Streak [badge](https://tryhackme.com/rgibesh/badges/180-day-streak)
