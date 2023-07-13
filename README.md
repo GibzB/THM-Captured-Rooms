@@ -374,7 +374,7 @@ What is the Challenge #4 flag? }
 130. Hacker vs. Hacker { What is the proof.txt flag? }
 131. Git and Crumpets { }
 132. Lunizz CTF { }
-133. Dumping Router Firmware { What is the CRC of the image? }
+133. Dumping Router Firmware { Task 2  Investigating Firmware }
 134. Windows PrivEsc { }
 135. Blueprint { }
 136. Year of the Fox { Task 1  Hack the machine and obtain the flags }
