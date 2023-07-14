@@ -452,7 +452,7 @@ What is the MD5 hash of the binary? }
 215. PrintNightmare, thrice! { What remote address did the employee navigate to? }
 216. Cat Pictures 2 { Task 2  Flags! }
 217. Snapped "Phish"-ing Line { }
-218. 
+218. Red { Task 1  What are the flags? }
 
    
  
